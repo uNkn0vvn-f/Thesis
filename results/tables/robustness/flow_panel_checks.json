@@ -1,0 +1,54 @@
+{
+  "alignment_index_funds": {
+    "funds": 2,
+    "by_shift_months": {
+      "-2": {
+        "corr": -0.15756259903821337,
+        "median_abs_diff_pp": 3.7246935659511893,
+        "n": 146
+      },
+      "-1": {
+        "corr": -0.08687198766780876,
+        "median_abs_diff_pp": 4.341528222703505,
+        "n": 148
+      },
+      "0": {
+        "corr": 0.9946780015091227,
+        "median_abs_diff_pp": 0.36561433134400784,
+        "n": 150
+      },
+      "1": {
+        "corr": -0.1225567045541618,
+        "median_abs_diff_pp": 4.059131620475605,
+        "n": 152
+      },
+      "2": {
+        "corr": -0.18263981563409534,
+        "median_abs_diff_pp": 4.072722423211402,
+        "n": 154
+      }
+    }
+  },
+  "identity_quarter_roll_forward": {
+    "sales - |redeem| (used)": {
+      "median_abs_resid": 0.0012152216107609304,
+      "share_within_1pct": 0.8426953834213408,
+      "n": 288612
+    },
+    "sales + reinv - |redeem|": {
+      "median_abs_resid": 0.0044566672645736105,
+      "share_within_1pct": 0.6896802627749365,
+      "n": 288612
+    },
+    "sales - redeem (signed as filed)": {
+      "median_abs_resid": 0.002349566678286341,
+      "share_within_1pct": 0.6749442157637243,
+      "n": 288612
+    },
+    "no flow": {
+      "median_abs_resid": 0.036948764580040816,
+      "share_within_1pct": 0.16264573913344768,
+      "n": 288615
+    }
+  }
+}

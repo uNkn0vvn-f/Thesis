@@ -1,0 +1,5 @@
+event,coef_ai_pre,se,funds
+chatgpt,0.406864,0.188748,387
+chatgpt (no return change),0.408632,0.170661,387
+deepseek,-0.177612,0.034949,436
+deepseek (no return change),-0.185548,0.0370844,436

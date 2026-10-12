@@ -1,0 +1,13 @@
+{
+  "labels": "deepseek",
+  "source": "results/tables/robustness/deepseek/flow_contrast_premium.csv",
+  "specification": "registrant x month (column spec: sponsor x month)",
+  "contrast_direction": "rung 5 minus rung 2",
+  "estimate": 2.42863367621,
+  "clustered_se": 0.700375451709,
+  "lower_95": 1.0558977908603602,
+  "upper_95": 3.80136956155964,
+  "n": 693731,
+  "funds": 14823,
+  "interval": "estimate +/- 1.96 times the saved cluster-robust contrast SE; covariance is already included in that SE"
+}

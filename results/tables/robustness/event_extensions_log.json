@@ -1,0 +1,147 @@
+{
+  "labels": "luna",
+  "event_time_chatgpt": {
+    "exposure_sd_pp": 1.5469454371808862,
+    "pre_rel_mean_min": -0.36526298595669365,
+    "pre_rel_mean_max": 0.4801087918289663,
+    "post_rel_mean_avg": 0.6633874473899877,
+    "pre_month_range_per_sd_pp": 1.3077440143670207,
+    "did_per_sd_pp": 0.9801781457890604,
+    "reference_month_k-1_rel_pre_mean": 0.004470304849999683,
+    "post_peak_k": 6
+  },
+  "event_time_deepseek": {
+    "exposure_sd_pp": 6.657018649531828,
+    "pre_rel_mean_min": -0.1530883171608215,
+    "pre_rel_mean_max": 0.18154034538161049,
+    "post_rel_mean_avg": -0.12826030670941904,
+    "pre_month_range_per_sd_pp": 2.227629247212862,
+    "did_per_sd_pp": -0.8762638356345516,
+    "reference_month_k-1_rel_pre_mean": 0.13822717342019467,
+    "post_peak_k": 4
+  },
+  "loo_chatgpt": {
+    "min": 0.5344482838901581,
+    "max": 0.74963656807622,
+    "top5_by_abs_change": [
+      {
+        "name": "Direxion Moonshot Innovator ETF",
+        "ai_pre": 12.3787,
+        "change": 0.116
+      },
+      {
+        "name": "ProFund VP Semiconductor",
+        "ai_pre": 7.7278,
+        "change": -0.0992
+      },
+      {
+        "name": "Direxion Daily Semiconductor Bull 3X Shares",
+        "ai_pre": 5.6869,
+        "change": 0.0607
+      },
+      {
+        "name": "WisdomTree Artificial Intelligence and Innovation Fund",
+        "ai_pre": 5.451,
+        "change": -0.0385
+      },
+      {
+        "name": "VanEck Vectors Semiconductor ETF",
+        "ai_pre": 6.8314,
+        "change": 0.0353
+      }
+    ]
+  },
+  "loo_deepseek": {
+    "min": -0.13882794460448464,
+    "max": -0.11033420955956527,
+    "top5_by_abs_change": [
+      {
+        "name": "Direxion Daily NVDA Bull 1.5X Shares",
+        "ai_pre": 65.0,
+        "change": 0.0213
+      },
+      {
+        "name": "T-Rex 2X Long NVIDIA Daily Target ETF",
+        "ai_pre": 65.0,
+        "change": 0.0156
+      },
+      {
+        "name": "Semiconductor",
+        "ai_pre": 44.3484,
+        "change": -0.0072
+      },
+      {
+        "name": "VanEck Fabless Semiconductor ETF",
+        "ai_pre": 17.954,
+        "change": 0.0069
+      },
+      {
+        "name": "ProShares Ultra Semiconductors",
+        "ai_pre": 43.4923,
+        "change": -0.0051
+      }
+    ]
+  },
+  "corr_ai_pre_with_industry_chatgpt": {
+    "ai_pre": 1.0,
+    "ind_semis": 0.64,
+    "ind_software": 0.18,
+    "ind_hardware": 0.048,
+    "ind_electronics": 0.047,
+    "ind_commsvc": -0.068,
+    "tech_pre": 0.52
+  },
+  "corr_ai_pre_with_industry_deepseek": {
+    "ai_pre": 1.0,
+    "ind_semis": 0.809,
+    "ind_software": 0.1,
+    "ind_hardware": 0.063,
+    "ind_electronics": 0.051,
+    "ind_commsvc": -0.084,
+    "tech_pre": 0.583
+  },
+  "fund_exposure_corr_preevent_vs_vintage_chatgpt": 0.9451454190953578,
+  "fund_exposure_corr_preevent_vs_vintage_deepseek": 0.9420664820487463,
+  "rolling_rank_chatgpt": {
+    "coef_at_actual_date_annual_vintage": 0.5554190599114812,
+    "dates": 51,
+    "share_dates_coef_at_least_as_extreme_in_event_direction": 0.13725490196078433,
+    "share_dates_abs_t_above_2": 0.43137254901960786,
+    "min_coef": -0.3218823614916558,
+    "max_coef": 0.7617956273755097
+  },
+  "rolling_rank_deepseek": {
+    "coef_at_actual_date_annual_vintage": -0.3218823614916558,
+    "dates": 51,
+    "share_dates_coef_at_least_as_extreme_in_event_direction": 0.0196078431372549,
+    "share_dates_abs_t_above_2": 0.43137254901960786,
+    "min_coef": -0.3218823614916558,
+    "max_coef": 0.7617956273755097
+  },
+  "fund_collapse": [
+    {
+      "event": "chatgpt",
+      "coef_ai_pre": 0.406863714867263,
+      "se": 0.1887483271863665,
+      "funds": 387
+    },
+    {
+      "event": "chatgpt (no return change)",
+      "coef_ai_pre": 0.4086316134291451,
+      "se": 0.17066066900914953,
+      "funds": 387
+    },
+    {
+      "event": "deepseek",
+      "coef_ai_pre": -0.17761248559345827,
+      "se": 0.03494900639345529,
+      "funds": 436
+    },
+    {
+      "event": "deepseek (no return change)",
+      "coef_ai_pre": -0.18554801873242804,
+      "se": 0.03708440666762194,
+      "funds": 436
+    }
+  ]
+}

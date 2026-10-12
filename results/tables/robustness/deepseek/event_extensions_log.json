@@ -1,0 +1,147 @@
+{
+  "labels": "deepseek",
+  "event_time_chatgpt": {
+    "exposure_sd_pp": 4.345325440794236,
+    "pre_rel_mean_min": -0.18966070680947467,
+    "pre_rel_mean_max": 0.18970830420619758,
+    "post_rel_mean_avg": 0.207683623422846,
+    "pre_month_range_per_sd_pp": 1.648481815015349,
+    "did_per_sd_pp": 0.858430075358183,
+    "reference_month_k-1_rel_pre_mean": 0.004843449184113868,
+    "post_peak_k": 6
+  },
+  "event_time_deepseek": {
+    "exposure_sd_pp": 9.227902716586952,
+    "pre_rel_mean_min": -0.13697623542062337,
+    "pre_rel_mean_max": 0.13170302645434784,
+    "post_rel_mean_avg": -0.09323124214955451,
+    "pre_month_range_per_sd_pp": 2.479346090546624,
+    "did_per_sd_pp": -0.9054562446418217,
+    "reference_month_k-1_rel_pre_mean": 0.1134256542908953,
+    "post_peak_k": 4
+  },
+  "loo_chatgpt": {
+    "min": 0.1649239263934741,
+    "max": 0.22321702701021306,
+    "top5_by_abs_change": [
+      {
+        "name": "ProFund VP Semiconductor",
+        "ai_pre": 24.1558,
+        "change": -0.0326
+      },
+      {
+        "name": "Direxion Daily Semiconductor Bull 3X Shares",
+        "ai_pre": 21.2332,
+        "change": 0.0257
+      },
+      {
+        "name": "WisdomTree Artificial Intelligence and Innovation Fund",
+        "ai_pre": 23.4059,
+        "change": -0.0207
+      },
+      {
+        "name": "Catalyst Systematic Alpha Fund",
+        "ai_pre": 2.2397,
+        "change": 0.0177
+      },
+      {
+        "name": "First Trust Nasdaq Semiconductor ETF",
+        "ai_pre": 16.7919,
+        "change": -0.0143
+      }
+    ]
+  },
+  "loo_deepseek": {
+    "min": -0.10160820492132142,
+    "max": -0.08268107711185241,
+    "top5_by_abs_change": [
+      {
+        "name": "Direxion Daily NVDA Bull 1.5X Shares",
+        "ai_pre": 72.5,
+        "change": 0.0154
+      },
+      {
+        "name": "T-Rex 2X Long NVIDIA Daily Target ETF",
+        "ai_pre": 72.5,
+        "change": 0.0116
+      },
+      {
+        "name": "VanEck Fabless Semiconductor ETF",
+        "ai_pre": 33.4303,
+        "change": 0.0075
+      },
+      {
+        "name": "REX AI Equity Premium Income ETF",
+        "ai_pre": 24.1472,
+        "change": 0.0042
+      },
+      {
+        "name": "BNY Mellon Global Infrastructure Income ETF",
+        "ai_pre": 0.5927,
+        "change": 0.004
+      }
+    ]
+  },
+  "corr_ai_pre_with_industry_chatgpt": {
+    "ai_pre": 1.0,
+    "ind_semis": 0.788,
+    "ind_software": 0.187,
+    "ind_hardware": 0.146,
+    "ind_electronics": 0.111,
+    "ind_commsvc": -0.018,
+    "tech_pre": 0.632
+  },
+  "corr_ai_pre_with_industry_deepseek": {
+    "ai_pre": 1.0,
+    "ind_semis": 0.829,
+    "ind_software": 0.26,
+    "ind_hardware": 0.136,
+    "ind_electronics": 0.1,
+    "ind_commsvc": -0.085,
+    "tech_pre": 0.728
+  },
+  "fund_exposure_corr_preevent_vs_vintage_chatgpt": 0.97223248001689,
+  "fund_exposure_corr_preevent_vs_vintage_deepseek": 0.9685449468300907,
+  "rolling_rank_chatgpt": {
+    "coef_at_actual_date_annual_vintage": 0.2058008156380777,
+    "dates": 51,
+    "share_dates_coef_at_least_as_extreme_in_event_direction": 0.1568627450980392,
+    "share_dates_abs_t_above_2": 0.49019607843137253,
+    "min_coef": -0.11543304298864046,
+    "max_coef": 0.3118962790230575
+  },
+  "rolling_rank_deepseek": {
+    "coef_at_actual_date_annual_vintage": -0.11543304298864046,
+    "dates": 51,
+    "share_dates_coef_at_least_as_extreme_in_event_direction": 0.0196078431372549,
+    "share_dates_abs_t_above_2": 0.49019607843137253,
+    "min_coef": -0.11543304298864046,
+    "max_coef": 0.3118962790230575
+  },
+  "fund_collapse": [
+    {
+      "event": "chatgpt",
+      "coef_ai_pre": 0.09854022018060676,
+      "se": 0.06720806999214986,
+      "funds": 387
+    },
+    {
+      "event": "chatgpt (no return change)",
+      "coef_ai_pre": 0.10167507821089639,
+      "se": 0.061384818850384784,
+      "funds": 387
+    },
+    {
+      "event": "deepseek",
+      "coef_ai_pre": -0.13535512263491176,
+      "se": 0.030227509184918986,
+      "funds": 435
+    },
+    {
+      "event": "deepseek (no return change)",
+      "coef_ai_pre": -0.1410821817566684,
+      "se": 0.031579024268705125,
+      "funds": 435
+    }
+  ]
+}

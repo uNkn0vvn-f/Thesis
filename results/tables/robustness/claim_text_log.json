@@ -1,0 +1,107 @@
+{
+  "labels": "luna",
+  "claim_filings": 1779,
+  "without_evidence_record": 68,
+  "theme_filings": 1080,
+  "theme_filings_risk_like": 5,
+  "theme_filings_ai_risk_boilerplate": 11,
+  "theme_filings_flag_boilerplate": 16,
+  "flag_boilerplate_by_year": {
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 2,
+    "2025": 7,
+    "2026": 7
+  },
+  "flag_boilerplate_funds": 16,
+  "theme_filings_risk_like_by_year": {
+    "2020": 0,
+    "2021": 0,
+    "2022": 0,
+    "2023": 0,
+    "2024": 1,
+    "2025": 1,
+    "2026": 3
+  },
+  "theme_filings_by_year": {
+    "2020": 41,
+    "2021": 65,
+    "2022": 74,
+    "2023": 87,
+    "2024": 125,
+    "2025": 253,
+    "2026": 435
+  },
+  "risk_like_theme_strict": 2,
+  "risk_like_flagged_by_model_as_risk_only": 0,
+  "risk_like_top_registrants": {
+    "Investment Managers Series Trust II": 2,
+    "Advisors' Inner Circle Fund III": 1,
+    "Tidal Trust II": 1,
+    "Roundhill ETF Trust": 1
+  },
+  "prevalence": [
+    {
+      "year": 2020,
+      "theme_fund_years": 36,
+      "theme_fund_years_excl_risk_like": 36,
+      "denominator": 11168,
+      "theme_pct": 0.322,
+      "theme_pct_excl_risk_like": 0.322
+    },
+    {
+      "year": 2021,
+      "theme_fund_years": 58,
+      "theme_fund_years_excl_risk_like": 58,
+      "denominator": 11335,
+      "theme_pct": 0.512,
+      "theme_pct_excl_risk_like": 0.512
+    },
+    {
+      "year": 2022,
+      "theme_fund_years": 73,
+      "theme_fund_years_excl_risk_like": 73,
+      "denominator": 11654,
+      "theme_pct": 0.626,
+      "theme_pct_excl_risk_like": 0.626
+    },
+    {
+      "year": 2023,
+      "theme_fund_years": 80,
+      "theme_fund_years_excl_risk_like": 80,
+      "denominator": 11843,
+      "theme_pct": 0.676,
+      "theme_pct_excl_risk_like": 0.676
+    },
+    {
+      "year": 2024,
+      "theme_fund_years": 120,
+      "theme_fund_years_excl_risk_like": 118,
+      "denominator": 12089,
+      "theme_pct": 0.993,
+      "theme_pct_excl_risk_like": 0.976
+    },
+    {
+      "year": 2025,
+      "theme_fund_years": 241,
+      "theme_fund_years_excl_risk_like": 234,
+      "denominator": 13045,
+      "theme_pct": 1.847,
+      "theme_pct_excl_risk_like": 1.794
+    },
+    {
+      "year": 2026,
+      "theme_fund_years": 420,
+      "theme_fund_years_excl_risk_like": 413,
+      "denominator": 10725,
+      "theme_pct": 3.916,
+      "theme_pct_excl_risk_like": 3.851
+    }
+  ],
+  "sample_theme_filings": 517,
+  "sample_theme_filings_name_overlap_ok_share": 0.9922630560928434,
+  "sample_theme_filings_header_recovered": 22,
+  "sample_theme_filings_block_attributed": 14
+}

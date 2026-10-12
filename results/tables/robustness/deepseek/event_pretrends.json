@@ -1,0 +1,220 @@
+{
+  "event_diagnostics": {
+    "chatgpt": {
+      "eligible_pre_event_funds": 446,
+      "latest_filing": "2022-11-29",
+      "missing_claim_status": 0,
+      "oldest_portfolio_days": 609,
+      "exposure_sha_source": "data/interim/analysis/preevent/03_exposure/out/chatgpt/fund_quarter_exposure.parquet",
+      "event_rows_with_noncalendar_lag": 14,
+      "pre_event_wald": 21.31183913720521,
+      "pre_event_df": 11,
+      "pre_event_p": 0.030280542433245926
+    },
+    "deepseek": {
+      "eligible_pre_event_funds": 583,
+      "latest_filing": "2025-01-24",
+      "missing_claim_status": 0,
+      "oldest_portfolio_days": 1398,
+      "exposure_sha_source": "data/interim/analysis/preevent/03_exposure/out/deepseek/fund_quarter_exposure.parquet",
+      "event_rows_with_noncalendar_lag": 13,
+      "pre_event_wald": 32.76046893556463,
+      "pre_event_df": 11,
+      "pre_event_p": 0.000575290500706588
+    }
+  },
+  "nonai_technology": [
+    {
+      "first_date": "2022-12-01",
+      "second_date": "2025-02-01",
+      "kind": "REAL",
+      "n": 20531,
+      "funds": 568,
+      "a": {
+        "coef": 0.04048736731175122,
+        "se": 0.032622111736578446,
+        "t": 1.241101975208847
+      },
+      "b": {
+        "coef": 0.13794542789712838,
+        "se": 0.031245779479264976,
+        "t": 4.414849947611978
+      },
+      "nt": {
+        "coef": -0.004148629792547192,
+        "se": 0.007675718307135644,
+        "t": -0.5404874992208176
+      },
+      "nt_sign": {
+        "coef": -0.0008700370138168489,
+        "se": 0.008840891888892973,
+        "t": -0.09841054779890449
+      },
+      "chatgpt": {
+        "coef": 0.19766852135193327,
+        "se": 0.0585341057831379,
+        "t": 3.3769802870871954
+      },
+      "deepseek": {
+        "coef": -0.09800614006610661,
+        "se": 0.02452783595614554,
+        "t": -3.9957108422176484
+      }
+    },
+    {
+      "first_date": "2021-12-01",
+      "second_date": "2024-01-01",
+      "kind": "placebo, a year before each",
+      "n": 18342,
+      "funds": 506,
+      "a": {
+        "coef": 0.10747207865894408,
+        "se": 0.030619438480686486,
+        "t": 3.509929769833407
+      },
+      "b": {
+        "coef": -0.03710409046480556,
+        "se": 0.02491546469700348,
+        "t": -1.4891992148662583
+      },
+      "nt": {
+        "coef": -0.015576010255693211,
+        "se": 0.009090100598534686,
+        "t": -1.7135135180136563
+      },
+      "nt_sign": {
+        "coef": -0.03638875028773903,
+        "se": 0.008795340404891043,
+        "t": -4.137275945283873
+      },
+      "chatgpt": {
+        "coef": 0.0799773849080363,
+        "se": 0.046817981750700975,
+        "t": 1.708262123171058
+      },
+      "deepseek": {
+        "coef": 0.10566720918256511,
+        "se": 0.031835962246189814,
+        "t": 3.319114665529281
+      }
+    },
+    {
+      "first_date": "2021-06-01",
+      "second_date": "2023-12-01",
+      "kind": "placebo",
+      "n": 17492,
+      "funds": 500,
+      "a": {
+        "coef": 0.12227697982310855,
+        "se": 0.02999269000992363,
+        "t": 4.0768927289499866
+      },
+      "b": {
+        "coef": -0.032239504727062426,
+        "se": 0.025622171717322572,
+        "t": -1.258265891070663
+      },
+      "nt": {
+        "coef": -0.012274117055753486,
+        "se": 0.013096430628747865,
+        "t": -0.9372108633027594
+      },
+      "nt_sign": {
+        "coef": -0.053833133549695836,
+        "se": 0.011826370844425395,
+        "t": -4.551957169098177
+      },
+      "chatgpt": {
+        "coef": 0.10238857066655709,
+        "se": 0.047904065406847385,
+        "t": 2.1373670438401184
+      },
+      "deepseek": {
+        "coef": 0.10545140193005648,
+        "se": 0.02909773348832759,
+        "t": 3.624041782235643
+      }
+    },
+    {
+      "first_date": "2021-06-01",
+      "second_date": "2024-01-01",
+      "kind": "placebo",
+      "n": 17520,
+      "funds": 500,
+      "a": {
+        "coef": 0.12115514937786105,
+        "se": 0.030947423898775733,
+        "t": 3.9148702578327983
+      },
+      "b": {
+        "coef": -0.031220997605694172,
+        "se": 0.026057039475793808,
+        "t": -1.19817900397693
+      },
+      "nt": {
+        "coef": -0.021349116859052504,
+        "se": 0.013158064256381425,
+        "t": -1.6225119776792825
+      },
+      "nt_sign": {
+        "coef": -0.04452827573757843,
+        "se": 0.011315623791545758,
+        "t": -3.935114542323936
+      },
+      "chatgpt": {
+        "coef": 0.10238857066655709,
+        "se": 0.047904065406847385,
+        "t": 2.1373670438401184
+      },
+      "deepseek": {
+        "coef": 0.10566720918256511,
+        "se": 0.031835962246189814,
+        "t": 3.319114665529281
+      }
+    },
+    {
+      "first_date": "2021-12-01",
+      "second_date": "2023-12-01",
+      "kind": "placebo",
+      "n": 18314,
+      "funds": 506,
+      "a": {
+        "coef": 0.10829391824028295,
+        "se": 0.029324818801681207,
+        "t": 3.692910055903718
+      },
+      "b": {
+        "coef": -0.03792679348230923,
+        "se": 0.024748319467528958,
+        "t": -1.5324997534507785
+      },
+      "nt": {
+        "coef": -0.005769587806620203,
+        "se": 0.009222394023622451,
+        "t": -0.6256063004727243
+      },
+      "nt_sign": {
+        "coef": -0.04631568011787857,
+        "se": 0.009187482464269868,
+        "t": -5.041172083647541
+      },
+      "chatgpt": {
+        "coef": 0.0799773849080363,
+        "se": 0.046817981750700975,
+        "t": 1.708262123171058
+      },
+      "deepseek": {
+        "coef": 0.10545140193005648,
+        "se": 0.02909773348832759,
+        "t": 3.624041782235643
+      }
+    }
+  ],
+  "notes": [
+    "Joint pre-event Wald tests use the full fund-cluster covariance matrix; sum of squared t statistics is not a joint test.",
+    "The sector mapping is taken from the same current firm universe as the exposure builder.",
+    "Placebo portfolios predate their placebo dates, but the cached company classifications are from the actual-event information sets; these are timing diagnostics, not fully reclassified placebo vintages."
+  ],
+  "lagged_flow_gap_observations_in_full_filtered_panel": 1113,
+  "labels": "deepseek"
+}

@@ -1,0 +1,505 @@
+accession,series_id,series_name,date,theme_broad,nport_name,name_overlap_ok,header_recovered,block_attributed
+0001445546-20-000496,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2020-01-28,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001379491-20-000207,S000067394,Franklin Intelligent Machines ETF,2020-01-24,True,Franklin Intelligent Machines ETF,True,False,False
+0001193125-20-052284,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 3X Shares",2020-02-27,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001437749-20-003969,S000062244,Innovator Loup Frontier Tech ETF,2020-02-28,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0000894189-20-001419,S000068069,TrueMark ESG Active Opportunities ETF,2020-02-26,True,TrueShares ESG Active Opportunities ETF,True,False,False
+0000894189-20-001419,S000068068,"TrueMark Technology, AI & Deep Learning ETF",2020-02-26,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001193125-20-053047,S000058637,TCW Artificial Intelligence Equity Fund,2020-02-27,True,TCW Artificial Intelligence Equity Fund,True,False,False
+0001398344-20-006968,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2020-03-27,True,ALPS Disruptive Technologies ETF,True,False,False
+0001432353-20-000127,S000054693,Global X Robotics & Artificial Intelligence ETF,2020-03-23,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-20-000127,S000061326,Global X Future Analytics Tech ETF,2020-03-23,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-20-000127,S000061415,Global X Autonomous & Electric Vehicles ETF,2020-03-23,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-20-000127,S000066527,Global X Thematic Growth ETF,2020-03-23,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0000894189-20-002987,S000062478,Defiance Quantum ETF,2020-04-27,True,Defiance Quantum ETF,True,False,False
+0001379491-20-001207,S000067931,Fidelity Disruptive Automation Fund,2020-04-13,True,Fidelity Disruptive Automation Fund,True,False,False
+0001193125-20-125681,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2020-04-29,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001615774-20-005565,S000065729,,2020-05-07,True,ROBO Global Artificial Intelligence ETF,False,True,False
+0001379491-20-003274,S000067394,Franklin Intelligent Machines ETF,2020-07-27,True,Franklin Intelligent Machines ETF,True,False,False
+0001432353-20-000305,S000069056,,2020-07-24,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,False,True,False
+0001213900-20-019102,S000063652,KraneShares Asia Robotics and Artificial Intelligence Index ETF,2020-07-29,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001193125-20-226730,S000069291,Direxion Connected Consumer ETF,2020-08-21,True,Direxion Connected Consumer ETF,True,False,False
+0001213900-20-023887,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2020-08-27,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001379491-20-004631,S000067931,Fidelity Disruptive Automation Fund,2020-09-23,True,Fidelity Disruptive Automation Fund,True,False,False
+0001133228-20-007047,S000056147,American Beacon ARK Transformational Innovation Fund,2020-10-28,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0001193125-20-264603,S000068597,Goldman Sachs Innovate Equity ETF,2020-10-06,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001193125-20-282331,S000068597,Goldman Sachs Innovate Equity ETF,2020-10-30,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001193125-20-279819,S000063362,SPDR S&P Kensho New Economies Composite ETF,2020-10-28,True,SPDR S&P Kensho New Economies Composite ETF | State Street(R) SPDR(R) S&P Kensho New Economies Composite ETF,True,False,False
+0001104659-20-129560,S000042977,ARK Innovation ETF,2020-11-25,True,ARK Innovation ETF,True,False,False
+0001104659-20-129560,S000042976,ARK Autonomous Technology & Robotics ETF,2020-11-25,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001193125-20-301541,S000062201,iShares Robotics and Artificial Intelligence Multisector ETF,2020-11-23,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-20-301541,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2020-11-23,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001193125-20-327782,S000068597,Goldman Sachs Innovate Equity ETF,2020-12-28,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001193125-20-327782,S000061377,Goldman Sachs JUST U.S. Large Cap Equity ETF,2020-12-28,True,Goldman Sachs JUST U.S. Large Cap Equity ETF,True,False,False
+0001193125-20-317146,S000070329,Mirova U.S. Sustainable Equity Fund,2020-12-14,True,Mirova U.S. Sustainable Equity Fund,True,False,False
+0001398344-20-023920,S000070133,Simplify Volt RoboCar Disruption and Tech ETF,2020-12-03,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0001398344-20-023920,S000070130,Simplify Volt Cloud and Cybersecurity Disruption ETF,2020-12-03,True,Simplify Volt Cloud and Cybersecurity Disruption ETF,True,False,False
+0001445546-21-000593,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2021-01-28,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001445546-21-000593,S000059604,First Trust SMID Cap Rising Dividend Achievers ETF,2021-01-28,True,First Trust SMID Cap Rising Dividend Achievers ETF,True,False,False
+0001379491-21-000010,S000070439,Franklin Exponential Data ETF,2021-01-11,True,Franklin Exponential Data ETF,True,False,False
+0001432353-21-000016,S000070816,Global X China Disruption ETF,2021-01-26,True,Global X China Disruption ETF | Global X China Innovation ETF,True,False,False
+0001580642-21-000241,S000070451,Main Thematic Innovation ETF,2021-01-25,True,Main Thematic Innovation ETF,True,True,False
+0001193125-21-023058,S000007980,AllianzGI Technology Fund,2021-02-01,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001193125-21-057795,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2021-02-26,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001193125-21-060964,S000058637,TCW Artificial Intelligence Equity Fund,2021-02-26,True,TCW Artificial Intelligence Equity Fund,True,False,False
+0001398344-21-007370,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2021-03-30,True,ALPS Disruptive Technologies ETF,True,False,False
+0001104659-21-041281,S000071318,ARK Space Exploration & Innovation ETF,2021-03-25,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001432353-21-000158,S000054693,Global X Robotics & Artificial Intelligence ETF,2021-03-24,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-21-000158,S000061415,Global X Autonomous & Electric Vehicles ETF,2021-03-24,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-21-000158,S000061326,Global X Artificial Intelligence & Technology ETF,2021-03-24,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-21-000158,S000054690,Global X Education ETF,2021-03-24,True,Global X Education ETF,True,False,False
+0001432353-21-000158,S000069056,Global X Telemedicine & Digital Health ETF,2021-03-24,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-21-000158,S000066527,Global X Thematic Growth ETF,2021-03-24,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-21-000158,S000070816,Global X China Disruption ETF,2021-03-24,True,Global X China Disruption ETF | Global X China Innovation ETF,True,False,False
+0001437749-21-004342,S000062244,Innovator Loup Frontier Tech ETF,2021-03-01,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0000894189-21-002418,S000062478,Defiance Quantum ETF,2021-04-27,True,Defiance Quantum ETF,True,False,False
+0001580642-21-001508,S000063752,ERShares NextGen Entrepreneurs ETF,2021-04-01,True,ERSHARES NEXTGEN ENTREPRENEURS ETF,True,False,False
+0001580642-21-001508,S000059420,ERShares Entrepreneurs ETF,2021-04-01,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0001193125-21-144611,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2021-04-30,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001193125-21-140528,S000019169,Gateway Fund,2021-04-29,True,Gateway Fund,True,False,False
+0000894189-21-002556,S000068069,TrueShares ESG Active Opportunities ETF,2021-04-29,True,TrueShares ESG Active Opportunities ETF,True,False,False
+0000894189-21-002556,S000068068,"TrueShares Technology, AI & Deep Learning ETF",2021-04-29,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0000894189-21-004119,S000072321,Roundhill Ball Metaverse ETF,2021-06-28,True,Roundhill Ball Metaverse ETF,True,False,False
+0001213900-21-037310,S000072472,Amplify Thematic All-Stars ETF,2021-07-19,True,Amplify Thematic All-Stars ETF,True,False,False
+0001379491-21-003419,S000067931,Fidelity Disruptive Automation Fund,2021-07-27,True,Fidelity Disruptive Automation Fund,True,False,False
+0001379491-21-003419,S000067933,Fidelity Disruptive Finance Fund,2021-07-27,True,Fidelity Disruptive Finance Fund,True,False,False
+0001379491-21-003419,S000067935,Fidelity Disruptive Technology Fund,2021-07-27,True,Fidelity Disruptive Technology Fund,True,False,False
+0001741773-21-001987,S000067394,Franklin Intelligent Machines ETF,2021-07-29,True,Franklin Intelligent Machines ETF,True,False,False
+0001741773-21-001987,S000070439,Franklin Exponential Data ETF,2021-07-29,True,Franklin Exponential Data ETF,True,False,False
+0001829126-21-007132,S000063652,KraneShares Asia Robotics and Artificial Intelligence Index ETF,2021-07-30,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0000894189-21-004887,S000072639,Spear Alpha ETF,2021-07-29,True,Spear Alpha ETF,True,False,False
+0001464413-21-000111,S000072157,RH Tactical Rotation ETF,2021-07-20,True,RH Tactical Rotation ETF,True,False,False
+0001213900-21-045419,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2021-08-27,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-21-045419,S000065729,ROBO Global(R) Artificial Intelligence ETF,2021-08-27,True,ROBO Global Artificial Intelligence ETF,True,False,True
+0001193125-21-276012,S000071020,Direxion Daily Select Large Caps & FANGs Bull 2X Shares,2021-09-17,True,Direxion Daily NYSE FANG+ Bull 2X Shares | Direxion Daily Select Large Caps & FANGs Bull 2X Shares,True,False,False
+0001213900-21-046015,S000069970,QRAFT AI-Enhanced U.S. Next Value ETF,2021-09-01,True,QRAFT AI-Enhanced U.S. Next Value ETF,True,False,False
+0001580642-21-004629,S000070451,Main Thematic Innovation ETF,2021-09-27,True,Main Thematic Innovation ETF,True,False,False
+0001683863-21-005292,S000069834,ProShares MSCI Transformational Changes ETF,2021-09-23,True,ProShares MSCI Transformational Changes ETF,True,False,False
+0001464413-21-000173,S000072157,RH Tactical Rotation ETF,2021-09-02,True,RH Tactical Rotation ETF,True,False,False
+0001133228-21-005494,S000056147,American Beacon ARK Transformational Innovation Fund,2021-10-28,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0001580642-21-005058,S000063752,ERShares NextGen Entrepreneurs ETF,2021-10-28,True,ERSHARES NEXTGEN ENTREPRENEURS ETF,True,False,False
+0001580642-21-005058,S000059420,ERShares Entrepreneurs ETF,2021-10-28,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0001193125-21-309406,S000063362,SPDR S&P Kensho New Economies Composite ETF,2021-10-27,True,SPDR S&P Kensho New Economies Composite ETF | State Street(R) SPDR(R) S&P Kensho New Economies Composite ETF,True,False,False
+0001829126-21-012701,S000070133,Simplify Volt RoboCar Disruption and Tech ETF,2021-10-27,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0001829126-21-012701,S000070130,Simplify Volt Cloud and Cybersecurity Disruption ETF,2021-10-27,True,Simplify Volt Cloud and Cybersecurity Disruption ETF,True,False,False
+0001193125-21-309472,S000007980,Virtus AllianzGI Technology Fund,2021-10-27,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001508033-21-000022,S000072822,Volt Crypto Industry Revolution and Tech ETF,2021-10-01,True,Volt Bitcoin Revolution ETF | Volt Crypto Industry Revolution and Tech ETF | Volt Crypto Industry and Equity ETF,True,True,False
+0001104659-21-143397,S000042977,ARK Innovation ETF,2021-11-24,True,ARK Innovation ETF,True,False,False
+0001104659-21-143397,S000042976,ARK Autonomous Technology & Robotics ETF,2021-11-24,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001104659-21-143397,S000071318,ARK Space Exploration & Innovation ETF,2021-11-24,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001193125-21-335250,S000062201,iShares Robotics and Artificial Intelligence Multisector ETF,2021-11-19,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-21-335250,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2021-11-19,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001580642-21-006006,S000074761,Clockwise Capital Innovation ETF,2021-12-22,True,CLOCKWISE CAPITAL INNOVATION ETF | CLOCKWISE CORE EQUITY & INNOVATION ETF,True,True,False
+0001193125-21-369098,S000068597,Goldman Sachs Innovate Equity ETF,2021-12-29,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001193125-21-369098,S000061377,Goldman Sachs JUST U.S. Large Cap Equity ETF,2021-12-29,True,Goldman Sachs JUST U.S. Large Cap Equity ETF,True,False,False
+0001214659-21-012763,S000074466,WisdomTree Artificial Intelligence and Innovation Fund,2021-12-07,True,WisdomTree Artificial Intelligence and Innovation Fund,True,True,False
+0001445546-22-000602,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2022-01-28,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001213900-22-009759,S000072472,Amplify Thematic All-Stars ETF,2022-02-28,True,Amplify Thematic All-Stars ETF,True,False,False
+0001193125-22-054863,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2022-02-28,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001193125-22-054863,S000071020,Direxion Daily Select Large Caps & FANGs Bull 2X Shares,2022-02-28,True,Direxion Daily NYSE FANG+ Bull 2X Shares | Direxion Daily Select Large Caps & FANGs Bull 2X Shares,True,False,False
+0001437749-22-004564,S000062244,Innovator Loup Frontier Tech ETF,2022-02-28,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001580642-22-000940,S000070451,Main Thematic Innovation ETF,2022-02-24,True,Main Thematic Innovation ETF,True,False,False
+0001193125-22-058213,S000058637,TCW Artificial Intelligence Equity Fund,2022-02-28,True,TCW Artificial Intelligence Equity Fund,True,False,False
+0001398344-22-006698,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2022-03-30,True,ALPS Disruptive Technologies ETF,True,False,False
+0001432353-22-000175,S000054693,Global X Robotics & Artificial Intelligence ETF,2022-03-24,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-22-000175,S000061415,Global X Autonomous & Electric Vehicles ETF,2022-03-24,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-22-000175,S000061326,Global X Artificial Intelligence & Technology ETF,2022-03-24,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-22-000175,S000054690,Global X Education ETF,2022-03-24,True,Global X Education ETF,True,False,False
+0001432353-22-000175,S000069056,Global X Telemedicine & Digital Health ETF,2022-03-24,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-22-000175,S000066527,Global X Thematic Growth ETF,2022-03-24,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-22-000175,S000070816,Global X China Innovation ETF,2022-03-24,True,Global X China Disruption ETF | Global X China Innovation ETF,True,False,False
+0001683863-22-001999,S000075552,,2022-03-14,True,ProShares Metaverse ETF,False,True,False
+0000894189-22-002945,S000062478,Defiance Quantum ETF,2022-04-26,True,Defiance Quantum ETF,True,False,False
+0001193125-22-133195,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2022-04-29,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001193125-22-132960,S000069044,Gabelli Asset ETF,2022-04-29,True,Gabelli Asset ETF | Gabelli Automation ETF,True,False,False
+0001193125-22-133933,S000019169,Gateway Fund,2022-04-29,True,Gateway Fund,True,False,False
+0000894189-22-003037,S000072321,Roundhill Ball Metaverse ETF,2022-04-27,True,Roundhill Ball Metaverse ETF,True,False,False
+0000894189-22-003392,S000068068,"TrueShares Technology, AI & Deep Learning ETF",2022-04-29,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001193125-22-166961,S000076599,Gabelli Automation ETF,2022-06-03,True,Gabelli Automation ETF | Gabelli Global Technology Leaders ETF,True,False,False
+0001387131-22-007404,S000076633,SoFi Web 3 ETF,2022-06-30,True,SoFi Web 3 ETF | Sofi Web 3 ETF,True,True,False
+0001379491-22-002783,S000067931,Fidelity Disruptive Automation Fund,2022-07-26,True,Fidelity Disruptive Automation Fund,True,False,False
+0001379491-22-002783,S000067932,Fidelity Disruptive Communications Fund,2022-07-26,True,Fidelity Disruptive Communications Fund,True,False,False
+0001379491-22-002783,S000067933,Fidelity Disruptive Finance Fund,2022-07-26,True,Fidelity Disruptive Finance Fund,True,False,False
+0001379491-22-002783,S000067935,Fidelity Disruptive Technology Fund,2022-07-26,True,Fidelity Disruptive Technology Fund,True,False,False
+0001741773-22-002448,S000067394,Franklin Intelligent Machines ETF,2022-07-26,True,Franklin Intelligent Machines ETF,True,False,False
+0001741773-22-002448,S000070439,Franklin Exponential Data ETF,2022-07-26,True,Franklin Exponential Data ETF,True,False,False
+0001829126-22-014824,S000063652,KraneShares Asia Robotics and Artificial Intelligence Index ETF,2022-07-29,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001580642-22-003741,S000057714,AlphaCentric Robotics and Automation Fund,2022-07-29,True,AlphaCentric Robotics and Automation Fund,True,False,False
+0001213900-22-051959,S000069970,QRAFT AI-Enhanced U.S. Next Value ETF,2022-08-30,True,QRAFT AI-Enhanced U.S. Next Value ETF,True,False,False
+0001213900-22-051870,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2022-08-29,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-22-051870,S000065729,ROBO Global(R) Artificial Intelligence ETF,2022-08-29,True,ROBO Global Artificial Intelligence ETF,True,False,True
+0001683863-22-006076,S000037318,ProShares Merger ETF,2022-09-27,True,ProShares Merger ETF,True,False,False
+0001683863-22-006076,S000069834,ProShares MSCI Transformational Changes ETF,2022-09-27,True,ProShares MSCI Transformational Changes ETF,True,False,False
+0001133228-22-006987,S000056147,American Beacon ARK Transformational Innovation Fund,2022-10-28,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0001580642-22-005413,S000063752,ERShares NextGen Entrepreneurs ETF,2022-10-28,True,ERSHARES NEXTGEN ENTREPRENEURS ETF,True,False,False
+0001580642-22-005413,S000059420,ERShares Entrepreneurs ETF,2022-10-28,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0000894189-22-007853,S000072639,Spear Alpha ETF,2022-10-27,True,Spear Alpha ETF,True,False,False
+0001193125-22-270865,S000063362,SPDR S&P Kensho New Economies Composite ETF,2022-10-27,True,SPDR S&P Kensho New Economies Composite ETF | State Street(R) SPDR(R) S&P Kensho New Economies Composite ETF,True,False,False
+0001829126-22-018294,S000070133,Simplify Volt RoboCar Disruption and Tech ETF,2022-10-27,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0001829126-22-018294,S000070130,Simplify Volt Cloud and Cybersecurity Disruption ETF,2022-10-27,True,Simplify Volt Cloud and Cybersecurity Disruption ETF,True,False,False
+0000930413-22-001802,S000007980,Virtus Zevenbergen Technology Fund,2022-10-26,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001214659-22-012783,S000074466,WisdomTree Artificial Intelligence and Innovation Fund,2022-10-28,True,WisdomTree Artificial Intelligence and Innovation Fund,True,False,False
+0001213900-22-074937,S000042977,ARK Innovation ETF,2022-11-23,True,ARK Innovation ETF,True,False,False
+0001213900-22-074937,S000042976,ARK Autonomous Technology & Robotics ETF,2022-11-23,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001213900-22-074937,S000071318,ARK Space Exploration & Innovation ETF,2022-11-23,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001387131-22-011416,S000077894,The Meet Kevin Pricing Power ETF,2022-11-14,True,The Meet Kevin Power Pricing ETF | The Meet Kevin Pricing Power ETF,True,False,False
+0001193125-22-291371,S000062201,iShares Robotics and Artificial Intelligence Multisector ETF,2022-11-23,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-22-291371,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2022-11-23,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001580642-22-006501,S000074761,Clockwise Capital Innovation ETF,2022-12-29,True,CLOCKWISE CAPITAL INNOVATION ETF | CLOCKWISE CORE EQUITY & INNOVATION ETF,True,True,False
+0001213900-22-083332,S000073824,Fount Metaverse ETF,2022-12-29,True,Fount Metaverse ETF,True,False,False
+0001193125-22-312615,S000068597,Goldman Sachs Innovate Equity ETF,2022-12-27,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001206774-22-002804,S000075396,Neuberger Berman Disrupters ETF,2022-12-14,True,Neuberger Berman Disrupters ETF | Neuberger Disrupters ETF,True,False,False
+0001445546-23-000792,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2023-01-27,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001213900-23-015249,S000072472,Amplify Thematic All-Stars ETF,2023-02-28,True,Amplify Thematic All-Stars ETF,True,False,False
+0001193125-23-049061,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2023-02-27,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0000945908-23-000025,S000079685,Fidelity Disruptive Automation ETF,2023-02-10,True,Fidelity Disruptive Automation ETF,True,False,False
+0000945908-23-000025,S000079686,Fidelity Disruptive Communications ETF,2023-02-10,True,Fidelity Disruptive Communications ETF,True,False,False
+0000945908-23-000025,S000079687,Fidelity Disruptive Finance ETF,2023-02-10,True,Fidelity Disruptive Finance ETF,True,False,False
+0000945908-23-000025,S000079689,Fidelity Disruptive Technology ETF,2023-02-10,True,Fidelity Disruptive Technology ETF,True,False,False
+0000945908-23-000025,S000079690,Fidelity Disruptors ETF,2023-02-10,True,Fidelity Disruptors ETF,True,False,False
+0001437749-23-004726,S000062244,Innovator Loup Frontier Tech ETF,2023-02-27,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001580642-23-001048,S000070451,Main Thematic Innovation ETF,2023-02-27,True,Main Thematic Innovation ETF,True,False,False
+0001193125-23-053742,S000058637,TCW Artificial Intelligence Equity Fund,2023-02-28,True,TCW Artificial Intelligence Equity Fund,True,False,False
+0001398344-23-006812,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2023-03-30,True,ALPS Disruptive Technologies ETF,True,False,False
+0001206774-23-000322,S000079690,Fidelity Disruptors ETF,2023-03-06,True,Fidelity Disruptors ETF,True,False,False
+0001432353-23-000287,S000079785,Global X PropTech ETF,2023-03-17,True,Global X PropTech ETF,True,False,False
+0001432353-23-000309,S000054693,Global X Robotics & Artificial Intelligence ETF,2023-03-29,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-23-000309,S000061415,Global X Autonomous & Electric Vehicles ETF,2023-03-29,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-23-000309,S000061326,Global X Artificial Intelligence & Technology ETF,2023-03-29,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-23-000309,S000054690,Global X Education ETF,2023-03-29,True,Global X Education ETF,True,False,False
+0001432353-23-000309,S000069056,Global X Telemedicine & Digital Health ETF,2023-03-29,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-23-000309,S000066527,Global X Thematic Growth ETF,2023-03-29,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-23-000309,S000070816,Global X China Innovation ETF,2023-03-29,True,Global X China Disruption ETF | Global X China Innovation ETF,True,False,False
+0001137360-23-000228,S000079664,VanEck Robotics ETF,2023-03-30,True,VanEck Robotics ETF,True,True,False
+0000894189-23-003024,S000062478,Defiance Quantum ETF,2023-04-27,True,Defiance Quantum ETF,True,False,False
+0001387131-23-005650,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2023-04-28,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001387131-23-005692,S000076599,Gabelli Automation ETF,2023-04-28,True,Gabelli Automation ETF | Gabelli Global Technology Leaders ETF,True,False,False
+0001193125-23-126016,S000019169,Gateway Fund,2023-04-28,True,Gateway Fund,True,False,False
+0000894189-23-002955,S000072321,Roundhill Ball Metaverse ETF,2023-04-26,True,Roundhill Ball Metaverse ETF,True,False,False
+0000894189-23-003237,S000068068,"TrueShares Technology, AI & Deep Learning ETF",2023-04-28,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001484018-23-000021,S000079991,Parabla Innovation ETF,2023-04-03,True,Parabla Innovation ETF,True,False,False
+0001206774-23-000690,S000079690,Fidelity Disruptors ETF,2023-05-12,True,Fidelity Disruptors ETF,True,False,False
+0001387131-23-006448,S000080348,Roundhill Generative AI & Technology ETF,2023-05-12,True,Roundhill Generative AI & Technology ETF | Roundhill Generative Ai & Technology ETF,True,False,False
+0001387131-23-007921,S000076633,SoFi Web 3 ETF,2023-06-27,True,SoFi Web 3 ETF | Sofi Web 3 ETF,True,False,False
+0001387131-23-008150,S000079922,DGA Absolute Return ETF,2023-06-30,True,DGA Absolute Return ETF | DGA Core Plus Absolute Return ETF | Dga Absolute Return ETF | Dga Core Plus Absolute Return ETF,True,False,False
+0001741773-23-002367,S000067394,Franklin Intelligent Machines ETF,2023-07-26,True,Franklin Intelligent Machines ETF,True,False,False
+0001741773-23-002367,S000070439,Franklin Exponential Data ETF,2023-07-26,True,Franklin Exponential Data ETF,True,False,False
+0001432353-23-000607,S000081193,Global X Defense Tech ETF,2023-07-31,True,Global X Defense Tech ETF,True,False,False
+0001829126-23-004982,S000063652,KraneShares Asia Robotics and Artificial Intelligence Index ETF,2023-07-28,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001580642-23-003842,S000066020,AlphaCentric Symmetry Strategy Fund,2023-07-28,True,AlphaCentric Symmetry Strategy Fund,True,False,False
+0001580642-23-003842,S000057714,AlphaCentric Robotics and Automation Fund,2023-07-28,True,AlphaCentric Robotics and Automation Fund,True,False,False
+0001104659-23-095345,S000003033,Invesco Dynamic Software ETF,2023-08-25,True,Invesco AI and Next Gen Software ETF | Invesco Dynamic Software ETF,True,False,False
+0001213900-23-071865,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2023-08-30,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-23-071865,S000065729,ROBO Global(R) Artificial Intelligence ETF,2023-08-30,True,ROBO Global Artificial Intelligence ETF,True,False,True
+0000945908-23-000260,S000079685,Fidelity Disruptive Automation ETF,2023-09-26,True,Fidelity Disruptive Automation ETF,True,False,False
+0000945908-23-000260,S000079686,Fidelity Disruptive Communications ETF,2023-09-26,True,Fidelity Disruptive Communications ETF,True,False,False
+0000945908-23-000260,S000079687,Fidelity Disruptive Finance ETF,2023-09-26,True,Fidelity Disruptive Finance ETF,True,False,False
+0000945908-23-000260,S000079689,Fidelity Disruptive Technology ETF,2023-09-26,True,Fidelity Disruptive Technology ETF,True,False,False
+0000945908-23-000260,S000079690,Fidelity Disruptors ETF,2023-09-26,True,Fidelity Disruptors ETF,True,False,False
+0001683863-23-006531,S000075552,ProShares Metaverse ETF,2023-09-26,True,ProShares Metaverse ETF,True,False,False
+0001683863-23-006531,S000069834,ProShares MSCI Transformational Changes ETF,2023-09-26,True,ProShares MSCI Transformational Changes ETF,True,False,False
+0001133228-23-005858,S000056147,American Beacon ARK Transformational Innovation Fund,2023-10-27,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0000088053-23-000701,S000082572,Xtrackers US National Critical Technologies ETF,2023-10-24,True,Xtrackers US National Critical Technologies ETF,True,False,False
+0001387131-23-012026,S000080899,T-REX 2X LONG NVIDIA DAILY TARGET ETF,2023-10-06,True,T-Rex 2X Long NVIDIA Daily Target ETF,True,False,False
+0001580642-23-005789,S000063752,ERShares NextGen Entrepreneurs ETF,2023-10-27,True,ERSHARES NEXTGEN ENTREPRENEURS ETF,True,False,False
+0001580642-23-005789,S000059420,ERShares Entrepreneurs ETF,2023-10-27,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0000894189-23-007867,S000072639,Spear Alpha ETF,2023-10-27,True,Spear Alpha ETF,True,False,False
+0001193125-23-264158,S000063362,SPDR S&P Kensho New Economies Composite ETF,2023-10-26,True,SPDR S&P Kensho New Economies Composite ETF | State Street(R) SPDR(R) S&P Kensho New Economies Composite ETF,True,False,False
+0001829126-23-006810,S000070133,Simplify Volt RoboCar Disruption and Tech ETF,2023-10-27,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0000930413-23-002347,S000007980,Virtus Zevenbergen Technology Fund,2023-10-24,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001214659-23-014098,S000074466,WisdomTree Artificial Intelligence and Innovation Fund,2023-10-30,True,WisdomTree Artificial Intelligence and Innovation Fund,True,False,False
+0001213900-23-089529,S000042977,ARK Innovation ETF,2023-11-22,True,ARK Innovation ETF,True,False,False
+0001213900-23-089529,S000042976,ARK Autonomous Technology & Robotics ETF,2023-11-22,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001213900-23-089529,S000071318,ARK Space Exploration & Innovation ETF,2023-11-22,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001193125-23-279859,S000062201,iShares Robotics and Artificial Intelligence Multisector ETF,2023-11-17,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-23-279859,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2023-11-17,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001580642-23-006995,S000074761,Clockwise Core Equity & Innovation ETF,2023-12-29,True,CLOCKWISE CAPITAL INNOVATION ETF | CLOCKWISE CORE EQUITY & INNOVATION ETF,True,True,False
+0001193125-23-304039,S000068597,Goldman Sachs Innovate Equity ETF,2023-12-27,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001206774-23-001384,S000075396,Neuberger Berman Disrupters ETF,2023-12-15,True,Neuberger Berman Disrupters ETF | Neuberger Disrupters ETF,True,False,False
+0001484018-23-000079,S000082910,Langar Global HealthTech ETF,2023-12-15,True,Langar Global Health Tech ETF,True,False,False
+0001193125-24-012058,S000083879,Direxion Daily AI and Big Data Bull 2X Shares,2024-01-22,True,Direxion Daily AI and Big Data Bull 2X Shares,True,False,False
+0001445546-24-000726,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2024-01-29,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001137360-24-000031,S000079664,VanEck Robotics ETF,2024-01-26,True,VanEck Robotics ETF,True,False,False
+0001213900-24-018055,S000072472,Amplify Thematic All-Stars ETF,2024-02-28,True,Amplify Thematic All-Stars ETF,True,False,False
+0001193125-24-048140,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2024-02-27,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001193125-24-048140,S000027920,Direxion Daily Semiconductor Bull 3X Shares,2024-02-27,True,Direxion Daily Semiconductor Bull 3X Shares,True,False,False
+0001213900-24-017963,S000062244,Innovator Deepwater Frontier Tech ETF,2024-02-28,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001580642-24-001168,S000072613,Main International ETF,2024-02-27,True,Main International ETF,True,False,False
+0001580642-24-001168,S000070451,Main Thematic Innovation ETF,2024-02-27,True,Main Thematic Innovation ETF,True,False,False
+0001829126-24-001052,S000084288,TCW Artificial Intelligence ETF,2024-02-21,True,TCW Artificial Intelligence ETF,True,False,False
+0001193125-24-050738,S000058637,TCW Artificial Intelligence Equity Fund,2024-02-28,True,TCW Artificial Intelligence Equity Fund,True,False,False
+0001999371-24-002686,S000077894,The Meet Kevin Pricing Power ETF,2024-02-23,True,The Meet Kevin Power Pricing ETF | The Meet Kevin Pricing Power ETF,True,False,False
+0001193125-24-080649,S000084279,Alger AI Enablers & Adopters Fund,2024-03-28,True,Alger AI Enablers & Adopters Fund,True,False,False
+0001398344-24-006650,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2024-03-29,True,ALPS Disruptive Technologies ETF,True,False,False
+0001193125-24-080662,S000084281,Alger AI Enablers & Adopters ETF,2024-03-28,True,Alger AI Enablers & Adopters ETF,True,False,False
+0001193125-24-058083,S000084217,Direxion Daily Concentrated Qs Bull 2X Shares,2024-03-04,True,Direxion Daily Concentrated Qs Bull 2X Shares | Direxion Daily Magnificent 7 Bull 2X Shares,True,False,False
+0001432353-24-000233,S000054693,Global X Robotics & Artificial Intelligence ETF,2024-03-27,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-24-000233,S000061415,Global X Autonomous & Electric Vehicles ETF,2024-03-27,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-24-000233,S000061326,Global X Artificial Intelligence & Technology ETF,2024-03-27,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-24-000233,S000066527,Global X Thematic Growth ETF,2024-03-27,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-24-000233,S000069056,Global X Telemedicine & Digital Health ETF,2024-03-27,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-24-000233,S000079785,Global X PropTech ETF,2024-03-27,True,Global X PropTech ETF,True,False,False
+0001432353-24-000233,S000081193,Global X Defense Tech ETF,2024-03-27,True,Global X Defense Tech ETF,True,False,False
+0001398344-24-008224,S000075443,FS Chiron Real Development Fund,2024-04-29,True,FS Chiron Real Asset Fund | FS Chiron Real Development Fund,True,False,False
+0001398344-24-008224,S000075078,STRATEGAS MACRO THEMATIC OPPORTUNITIES ETF,2024-04-29,True,Strategas Macro Thematic Opportunities ETF,True,False,False
+0000894189-24-002697,S000062478,Defiance Quantum ETF,2024-04-26,True,Defiance Quantum ETF,True,False,False
+0001829126-24-002873,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2024-04-29,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001829126-24-002880,S000076599,Gabelli Automation ETF,2024-04-29,True,Gabelli Automation ETF | Gabelli Global Technology Leaders ETF,True,False,False
+0001133228-24-004692,S000019169,Gateway Fund,2024-04-26,True,Gateway Fund,True,False,False
+0000894189-24-002702,S000068068,"TrueShares Technology, AI & Deep Learning ETF",2024-04-26,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0000894189-24-002860,S000072321,Roundhill Ball Metaverse ETF,2024-04-29,True,Roundhill Ball Metaverse ETF,True,False,False
+0001829126-24-002935,S000084288,TCW Artificial Intelligence ETF,2024-04-30,True,TCW Artificial Intelligence ETF,True,False,False
+0000088053-24-000434,S000085311,Xtrackers Artificial Intelligence and Big Data ETF,2024-05-31,True,Xtrackers Artificial Intelligence and Big Data ETF,True,False,False
+0001999371-24-006410,S000085093,REX AI EQUITY PREMIUM INCOME ETF,2024-05-21,True,REX AI Equity Premium Income ETF,True,False,False
+0001999371-24-007338,S000085026,Clockwise Core Equity & Innovation ETF,2024-06-11,True,Clockwise Core Equity & Innovation ETF,True,False,False
+0001741773-24-003175,S000067394,Franklin Intelligent Machines ETF,2024-07-26,True,Franklin Intelligent Machines ETF,True,False,False
+0001741773-24-003175,S000070439,Franklin Exponential Data ETF,2024-07-26,True,Franklin Exponential Data ETF,True,False,False
+0001829126-24-004847,S000085506,KraneShares Artificial Intelligence and Technology ETF,2024-07-17,True,KraneShares Artificial Intelligence and Technology ETF,True,False,False
+0001829126-24-005055,S000063652,KraneShares Asia Robotics and Artificial Intelligence Index ETF,2024-07-29,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001580642-24-003885,S000071674,AlphaCentric Strategic Income Fund,2024-07-26,True,AlphaCentric Real Income Fund | AlphaCentric Strategic Income Fund,True,False,False
+0001580642-24-003885,S000057714,AlphaCentric Robotics and Automation Fund,2024-07-26,True,AlphaCentric Robotics and Automation Fund,True,False,False
+0001580642-24-003382,S000070451,Main Thematic Innovation ETF,2024-07-01,True,Main Thematic Innovation ETF,True,False,False
+0001741773-24-003101,S000086172,,2024-07-24,True,T. Rowe Price Technology ETF,False,True,False
+0001104659-24-093438,S000003033,Invesco AI and Next Gen Software ETF,2024-08-27,True,Invesco AI and Next Gen Software ETF | Invesco Dynamic Software ETF,True,False,False
+0001999371-24-010717,S000080348,Roundhill Generative AI & Technology ETF,2024-08-27,True,Roundhill Generative AI & Technology ETF | Roundhill Generative Ai & Technology ETF,True,False,False
+0001213900-24-072986,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2024-08-27,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-24-072986,S000065729,ROBO Global(R) Artificial Intelligence ETF,2024-08-27,True,ROBO Global Artificial Intelligence ETF,True,False,True
+0000088053-24-000958,S000082572,Xtrackers US National Critical Technologies ETF,2024-09-26,True,Xtrackers US National Critical Technologies ETF,True,False,False
+0000945908-24-000317,S000079685,Fidelity Disruptive Automation ETF,2024-09-24,True,Fidelity Disruptive Automation ETF,True,False,False
+0000945908-24-000317,S000079686,Fidelity Disruptive Communications ETF,2024-09-24,True,Fidelity Disruptive Communications ETF,True,False,False
+0000945908-24-000317,S000079687,Fidelity Disruptive Finance ETF,2024-09-24,True,Fidelity Disruptive Finance ETF,True,False,False
+0000945908-24-000317,S000079689,Fidelity Disruptive Technology ETF,2024-09-24,True,Fidelity Disruptive Technology ETF,True,False,False
+0000945908-24-000317,S000079690,Fidelity Disruptors ETF,2024-09-24,True,Fidelity Disruptors ETF,True,False,False
+0001683863-24-005553,S000037318,ProShares Merger ETF,2024-09-26,True,ProShares Merger ETF,True,False,False
+0001683863-24-005553,S000075552,ProShares Metaverse ETF,2024-09-26,True,ProShares Metaverse ETF,True,False,False
+0001683863-24-005553,S000046275,ProShares MSCI Europe Dividend Growers,2024-09-26,True,ProShares MSCI Europe Dividend Growers ETF,True,False,False
+0001683863-24-005553,S000069834,ProShares MSCI Transformational Changes ETF,2024-09-26,True,ProShares MSCI Transformational Changes ETF,True,False,False
+0001683863-24-005553,S000073417,ProShares S&P Kensho Smart Factories ETF,2024-09-26,True,ProShares S&P Kensho Smart Factories ETF,True,False,False
+0001193125-24-215334,S000087749,SPDR Galaxy Transformative Tech Accelerators ETF,2024-09-09,True,SPDR Galaxy Transformative Tech Accelerators ETF,True,False,False
+0001999371-24-011878,S000087829,VistaShares Artificial Intelligence Supercycle ETF,2024-09-13,True,Vistashares Artificial Intelligence Supercycle ETF,True,False,False
+0001133228-24-009731,S000056147,American Beacon ARK Transformational Innovation Fund,2024-10-28,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0001213900-24-089034,S000082270,Amplify Bloomberg AI Value Chain ETF,2024-10-21,True,Amplify Bloomberg AI Value Chain ETF  | Amplify Global Cloud Technology ETF,True,False,False
+0001193125-24-238210,S000086268,iShares A.I. Innovation and Tech Active ETF,2024-10-16,True,iShares A.I. Innovation and Tech Active ETF,True,False,False
+0001162044-24-001167,S000056070,DSS AmericaFirst Alpha Trends Factor Fund,2024-10-28,True,AmericaFirst Large Cap Share Buyback Fund | DSS AmericaFirst Alpha Trends Factor Fund,True,False,False
+0001580642-24-006411,S000059420,ERShares Entrepreneurs ETF,2024-10-28,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0001445546-24-007285,S000087664,First Trust Bloomberg Artificial Intelligence ETF,2024-10-24,True,First Trust Bloomberg Artificial Intelligence ETF,True,False,False
+0000894189-24-006398,S000072639,Spear Alpha ETF,2024-10-25,True,Spear Alpha ETF,True,False,False
+0001398344-24-019616,S000088167,F/m Emerald Life Sciences Innovation ETF,2024-10-29,True,F/m Emerald Life Sciences Innovation ETF,True,False,False
+0001193125-24-242957,S000063362,SPDR S&P Kensho New Economies Composite ETF,2024-10-24,True,SPDR S&P Kensho New Economies Composite ETF | State Street(R) SPDR(R) S&P Kensho New Economies Composite ETF,True,False,False
+0001829126-24-007034,S000070133,Simplify Volt RoboCar Disruption and Tech ETF,2024-10-28,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0000930413-24-003032,S000007980,Virtus Zevenbergen Technology Fund,2024-10-24,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001214659-24-018004,S000074466,WisdomTree Artificial Intelligence and Innovation Fund,2024-10-28,True,WisdomTree Artificial Intelligence and Innovation Fund,True,False,False
+0001999371-24-014009,S000080899,T-REX 2X LONG NVIDIA DAILY TARGET ETF,2024-10-28,True,T-Rex 2X Long NVIDIA Daily Target ETF,True,False,False
+0001213900-24-100604,S000042977,ARK Innovation ETF,2024-11-20,True,ARK Innovation ETF,True,False,False
+0001213900-24-100604,S000042976,ARK Autonomous Technology & Robotics ETF,2024-11-20,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001213900-24-100604,S000071318,ARK Space Exploration & Innovation ETF,2024-11-20,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001104659-24-123082,S000088835,Invesco Top QQQ ETF,2024-11-26,True,Invesco Top QQQ ETF,True,True,False
+0001839882-24-040824,S000079922,DGA Core Plus Absolute Return ETF,2024-11-22,True,DGA Absolute Return ETF | DGA Core Plus Absolute Return ETF | Dga Absolute Return ETF | Dga Core Plus Absolute Return ETF,True,False,False
+0001193125-24-264437,S000062201,iShares Future AI & Tech ETF,2024-11-22,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-24-264437,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2024-11-22,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001193125-24-284974,S000068597,Goldman Sachs Innovate Equity ETF,2024-12-26,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001206774-24-001111,S000075396,Neuberger Berman Disrupters ETF,2024-12-13,True,Neuberger Berman Disrupters ETF | Neuberger Disrupters ETF,True,False,False
+0000894189-24-007264,S000089367,Pacer Solactive Whitney Future of Warfare ETF,2024-12-13,True,Pacer Solactive Whitney Future of Warfare ETF,True,False,False
+0001999371-24-015723,S000085026,Clockwise Core Equity & Innovation ETF,2024-12-23,True,Clockwise Core Equity & Innovation ETF,True,False,False
+0001213900-25-007119,S000082276,Amplify AI Powered Equity ETF,2025-01-28,True,Amplify AI Powered Equity ETF,True,False,False
+0001213900-25-007119,S000082270,Amplify Bloomberg AI Value Chain ETF,2025-01-28,True,Amplify Bloomberg AI Value Chain ETF  | Amplify Global Cloud Technology ETF,True,False,False
+0001213900-25-007119,S000072472,Amplify Thematic All-Stars ETF,2025-01-28,True,Amplify Thematic All-Stars ETF,True,False,False
+0001839882-25-002547,S000089015,Clough Hedged Equity ETF,2025-01-16,True,Clough Hedged Equity ETF,True,False,False
+0001839882-25-002547,S000089016,Clough Select Equity ETF,2025-01-16,True,Clough Select Equity ETF,True,False,False
+0001445546-25-000725,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2025-01-28,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0000894189-25-000450,S000081040,Themes Generative Artificial Intelligence ETF,2025-01-27,True,Themes Generative Artificial Intelligence ETF,True,False,False
+0000894189-25-000450,S000081026,Themes Robotics & Automation ETF,2025-01-27,True,Themes Robotics & Automation ETF,True,False,False
+0001137360-25-000019,S000079664,VanEck Robotics ETF,2025-01-27,True,VanEck Robotics ETF,True,False,False
+0001193125-25-036854,S000084279,Alger AI Enablers & Adopters Fund,2025-02-26,True,Alger AI Enablers & Adopters Fund,True,False,False
+0001193125-25-036854,S000009161,Alger Growth & Income Fund,2025-02-26,True,ALGER GROWTH & INCOME FUND | Alger Growth & Income Fund,True,False,False
+0001193125-25-023565,S000090369,Direxion Daily QCOM Bull 2X Shares,2025-02-10,True,Direxion Daily QCOM Bull 2X ETF,True,False,False
+0001193125-25-036868,S000081684,Direxion Daily NVDA Bull 2X Shares,2025-02-26,True,Direxion Daily NVDA Bull 1.5X Shares | Direxion Daily NVDA Bull 2X Shares,True,False,False
+0001193125-25-036868,S000083879,Direxion Daily AI and Big Data Bull 2X Shares,2025-02-26,True,Direxion Daily AI and Big Data Bull 2X Shares,True,False,False
+0001193125-25-036868,S000084217,Direxion Daily Magnificent 7 Bull 2X Shares,2025-02-26,True,Direxion Daily Concentrated Qs Bull 2X Shares | Direxion Daily Magnificent 7 Bull 2X Shares,True,False,False
+0001193125-25-036868,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2025-02-26,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001193125-25-036868,S000027920,Direxion Daily Semiconductor Bull 3X Shares,2025-02-26,True,Direxion Daily Semiconductor Bull 3X Shares,True,False,False
+0001213900-25-018623,S000062244,Innovator Deepwater Frontier Tech ETF,2025-02-28,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001398344-25-001605,S000089963,Janus Henderson Transformational Growth ETF,2025-02-03,True,Janus Henderson Transformational Growth ETF,True,False,False
+0001580642-25-001102,S000072613,Main International ETF,2025-02-25,True,Main International ETF,True,False,False
+0001580642-25-001102,S000070451,Main Thematic Innovation ETF,2025-02-25,True,Main Thematic Innovation ETF,True,False,False
+0001193125-25-035273,S000087749,SPDR Galaxy Transformative Tech Accelerators ETF,2025-02-25,True,SPDR Galaxy Transformative Tech Accelerators ETF,True,False,False
+0001829126-25-001318,S000084288,TCW Artificial Intelligence ETF,2025-02-28,True,TCW Artificial Intelligence ETF,True,False,False
+0001999371-25-001333,S000090210,Defiance AI & Power Infrastructure ETF,2025-02-07,True,Defiance AI and Power Infrastructure ETF,True,False,False
+0001398344-25-006329,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2025-03-31,True,ALPS Disruptive Technologies ETF,True,False,False
+0001432353-25-000161,S000054693,Global X Robotics & Artificial Intelligence ETF,2025-03-26,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-25-000161,S000061415,Global X Autonomous & Electric Vehicles ETF,2025-03-26,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-25-000161,S000061326,Global X Artificial Intelligence & Technology ETF,2025-03-26,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-25-000161,S000066527,Global X Thematic Growth ETF,2025-03-26,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-25-000161,S000069056,Global X Telemedicine & Digital Health ETF,2025-03-26,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-25-000161,S000079785,Global X PropTech ETF,2025-03-26,True,Global X PropTech ETF,True,False,False
+0001432353-25-000161,S000081193,Global X Defense Tech ETF,2025-03-26,True,Global X Defense Tech ETF,True,False,False
+0001398344-25-006146,S000050381,Horizon Active Asset Allocation Fund,2025-03-28,True,Horizon Active Asset Allocation Fund,True,False,False
+0001839882-25-014844,S000091050,Defiance Daily Target 2X Long SOUN ETF,2025-03-11,True,Defiance Daily Target 2X Long SOUN ETF,True,False,False
+0001839882-25-014844,S000091058,Defiance Daily Target 2X Long RGTI ETF,2025-03-11,True,Defiance Daily Target 2X Long RGTI ETF,True,False,False
+0001398344-25-008293,S000075078,STRATEGAS MACRO THEMATIC OPPORTUNITIES ETF,2025-04-30,True,Strategas Macro Thematic Opportunities ETF,True,False,False
+0001193125-25-102324,S000084281,Alger AI Enablers & Adopters ETF,2025-04-29,True,Alger AI Enablers & Adopters ETF,True,False,False
+0000894189-25-003160,S000062478,Defiance Quantum ETF,2025-04-30,True,Defiance Quantum ETF,True,False,False
+0001829126-25-003126,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2025-04-30,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001829126-25-003220,S000076599,Gabelli Automation ETF,2025-04-30,True,Gabelli Automation ETF | Gabelli Global Technology Leaders ETF,True,False,False
+0001193125-25-103566,S000019169,Gateway Fund,2025-04-29,True,Gateway Fund,True,False,False
+0001104659-25-041235,S000091771,Invesco QQQ Hedged Advantage ETF,2025-04-29,True,Invesco QQQ Hedged Advantage ETF,True,False,False
+0001193125-25-107080,S000025133,LVIP Macquarie Wealth Builder Fund,2025-04-30,True,LVIP Delaware Wealth Builder Fund | LVIP Macquarie Wealth Builder Fund,True,False,False
+0001193125-25-103036,S000083434,Polen Capital China Growth ETF,2025-04-29,True,Polen Capital China Growth ETF,True,False,False
+0001193125-25-103036,S000083437,Polen Capital International Growth ETF,2025-04-29,True,Polen Capital International Growth ETF,True,False,False
+0000894189-25-002667,S000072321,Roundhill Ball Metaverse ETF,2025-04-25,True,Roundhill Ball Metaverse ETF,True,False,False
+0000894189-25-003100,S000068068,"TrueShares Technology, AI & Deep Learning ETF",2025-04-30,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001999371-25-005145,S000082910,Langar Global HealthTech ETF,2025-04-30,True,Langar Global Health Tech ETF,True,False,False
+0001683863-25-004048,S000026282,Voya Retirement Moderate Growth Portfolio,2025-04-28,True,VOYA RETIREMENT MODERATE GROWTH PORTFOLIO | Voya Retirement Moderately Aggressive Portfolio,True,False,False
+0001683863-25-004053,S000008703,Voya Growth and Income Portfolio,2025-04-28,True,VOYA GROWTH AND INCOME PORTFOLIO,True,True,False
+0001683863-25-004068,S000020601,Voya Global High Dividend Low Volatility Portfolio,2025-04-28,True,Voya Global High Dividend Low Volatility Portfolio,True,False,False
+0001999371-25-007558,S000092123,"TrueShares Technology, AI & Deep Learning ETF",2025-06-10,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001398344-25-012033,S000093285,Horizon Digital Frontier ETF,2025-06-20,True,Horizon Digital Frontier ETF,True,False,False
+0001104659-25-055959,S000091770,Invesco International Growth Focus ETF,2025-06-03,True,Invesco International Growth Focus ETF,True,True,False
+0001398344-25-012174,S000093377,Roundhill Humanoid Robotics ETF,2025-06-24,True,Roundhill Humanoid Robotics ETF,True,True,False
+0001741773-25-002774,S000067394,Franklin Intelligent Machines ETF,2025-07-28,True,Franklin Intelligent Machines ETF,True,False,False
+0001741773-25-002774,S000070439,Franklin Exponential Data ETF,2025-07-28,True,Franklin Exponential Data ETF,True,False,False
+0001104659-25-066412,S000093577,Invesco Global Equity Net Zero ETF,2025-07-08,True,Invesco Global Equity Net Zero ETF,True,True,False
+0001829126-25-005510,S000063652,KraneShares Global Humanoid and Embodied Intelligence Index ETF,2025-07-29,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001829126-25-005510,S000085506,KraneShares Artificial Intelligence and Technology ETF,2025-07-29,True,KraneShares Artificial Intelligence and Technology ETF,True,False,False
+0001580642-25-004530,S000071674,AlphaCentric Real Income Fund,2025-07-28,True,AlphaCentric Real Income Fund | AlphaCentric Strategic Income Fund,True,False,False
+0001580642-25-004530,S000057714,AlphaCentric Robotics and Automation Fund,2025-07-28,True,AlphaCentric Robotics and Automation Fund,True,False,False
+0001213900-25-067769,S000093687,Tortoise AI Infrastructure ETF,2025-07-25,True,Tortoise AI Infrastructure ETF,True,False,False
+0001193125-25-162603,S000075811,iShares Blockchain and Tech ETF,2025-07-22,True,iShares Blockchain and Tech ETF,True,False,False
+0001193125-25-162603,S000062201,iShares Future AI & Tech ETF,2025-07-22,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-25-189626,S000086268,iShares A.I. Innovation and Tech Active ETF,2025-08-27,True,iShares A.I. Innovation and Tech Active ETF,True,False,False
+0001193125-25-182634,S000094251,Direxion Daily ORCL Bull 2X ETF,2025-08-18,True,Direxion Daily ORCL Bull 2X ETF,True,False,False
+0001213900-25-080754,S000082989,LG QRAFT AI-Powered U.S. Large Cap Core ETF,2025-08-26,True,LG QRAFT AI-Powered U.S. Large Cap Core ETF | LG QRAFT AI-Powered U.S. Large Cap Core ETF ,True,False,False
+0001104659-25-084008,S000003039,Invesco Aerospace & Defense ETF,2025-08-27,True,Invesco Aerospace & Defense ETF,True,False,False
+0001104659-25-084008,S000003033,Invesco AI and Next Gen Software ETF,2025-08-27,True,Invesco AI and Next Gen Software ETF | Invesco Dynamic Software ETF,True,False,False
+0001398344-25-015977,S000094567,Janus Henderson Global Artificial Intelligence ETF,2025-08-18,True,Janus Henderson Global Artificial Intelligence ETF,True,False,False
+0001999371-25-011129,S000094499,Dana Unconstrained Equity ETF,2025-08-12,True,Dana Unconstrained Equity ETF,True,False,False
+0001999371-25-012022,S000094822,SoFi Agentic AI ETF,2025-08-26,True,Sofi Agentic Ai ETF,True,True,False
+0001999371-25-011927,S000080348,Roundhill Generative AI & Technology ETF,2025-08-25,True,Roundhill Generative AI & Technology ETF | Roundhill Generative Ai & Technology ETF,True,False,False
+0001999371-25-012013,S000091050,Defiance Daily Target 2X Long SOUN ETF,2025-08-26,True,Defiance Daily Target 2X Long SOUN ETF,True,False,False
+0001999371-25-012013,S000091058,Defiance Daily Target 2X Long RGTI ETF,2025-08-26,True,Defiance Daily Target 2X Long RGTI ETF,True,False,False
+0001213900-25-080747,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2025-08-26,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-25-080747,S000065729,ROBO Global(R) Artificial Intelligence ETF,2025-08-26,True,ROBO Global Artificial Intelligence ETF,True,False,True
+0001398344-25-018240,S000095124,Pictet AI & Automation ETF,2025-09-18,True,Pictet AI & Automation ETF,True,False,False
+0000088053-25-000858,S000080470,Xtrackers Semiconductor Select Equity ETF,2025-09-25,True,Xtrackers Semiconductor Select Equity ETF,True,False,False
+0000088053-25-000858,S000082572,Xtrackers US National Critical Technologies ETF,2025-09-25,True,Xtrackers US National Critical Technologies ETF,True,False,False
+0000088053-25-000858,S000085311,Xtrackers Artificial Intelligence and Big Data ETF,2025-09-25,True,Xtrackers Artificial Intelligence and Big Data ETF,True,False,False
+0001999371-25-014172,S000085093,REX AI EQUITY PREMIUM INCOME ETF,2025-09-29,True,REX AI Equity Premium Income ETF,True,False,False
+0000894189-25-008660,S000095495,Defiance Drone and Modern Warfare ETF,2025-09-24,True,Defiance Drone and Modern Warfare ETF,True,False,False
+0000945908-25-000564,S000079685,Fidelity Disruptive Automation ETF,2025-09-24,True,Fidelity Disruptive Automation ETF,True,False,False
+0000945908-25-000564,S000079686,Fidelity Disruptive Communications ETF,2025-09-24,True,Fidelity Disruptive Communications ETF,True,False,False
+0000945908-25-000564,S000079687,Fidelity Disruptive Finance ETF,2025-09-24,True,Fidelity Disruptive Finance ETF,True,False,False
+0000945908-25-000564,S000079689,Fidelity Disruptive Technology ETF,2025-09-24,True,Fidelity Disruptive Technology ETF,True,False,False
+0000945908-25-000564,S000079690,Fidelity Disruptors ETF,2025-09-24,True,Fidelity Disruptors ETF,True,False,False
+0001445546-25-005916,S000066179,First Trust EIP Power Solutions ETF,2025-09-04,True,First Trust EIP Carbon Impact ETF | First Trust EIP Power Solutions ETF,True,True,False
+0001432353-25-000513,S000095265,Global X AI Semiconductor & Quantum ETF,2025-09-17,True,Global X AI Semiconductor & Quantum ETF,True,False,False
+0001193125-25-213457,S000037318,ProShares Merger ETF,2025-09-23,True,ProShares Merger ETF,True,False,False
+0001193125-25-213457,S000075552,ProShares Metaverse ETF,2025-09-23,True,ProShares Metaverse ETF,True,False,False
+0001193125-25-213457,S000046275,ProShares MSCI Europe Dividend Growers,2025-09-23,True,ProShares MSCI Europe Dividend Growers ETF,True,False,False
+0001193125-25-213457,S000069834,ProShares MSCI Transformational Changes ETF,2025-09-23,True,ProShares MSCI Transformational Changes ETF,True,False,False
+0001193125-25-213457,S000073417,ProShares S&P Kensho Smart Factories ETF,2025-09-23,True,ProShares S&P Kensho Smart Factories ETF,True,False,False
+0001580642-25-006786,S000059420,ERShares Private-Public Crossover ETF,2025-10-28,True,ERSHARES ENTREPRENEURS ETF | ERShares Private-Public Crossover ETF,True,False,False
+0000894189-25-011213,S000095816,AlphaDroid Defensive Sector Rotation ETF,2025-10-10,True,AlphaDroid Defensive Sector Rotation ETF,True,False,False
+0000894189-25-011844,S000072639,Spear Alpha ETF,2025-10-24,True,Spear Alpha ETF,True,False,False
+0001829126-25-008485,S000070133,Simplify Volt TSLA Revolution ETF,2025-10-28,True,Simplify Volt RoboCar Disruption And Tech ETF | Simplify Volt RoboCar Disruption and Tech ETF | Simplify Volt TSLA Revolution ETF,True,False,False
+0001999371-25-015617,S000095914,Defiance Daily Target 2X Long IREN ETF,2025-10-17,True,Defiance Daily Target 2X Long IREN ETF,True,False,False
+0001999371-25-016199,S000096308,Portfolio Building Block World Pharma and Biotech Index ETF,2025-10-27,True,Portfolio Building Block World Pharma and Biotech Index ETF,True,False,False
+0000930413-25-003255,S000007980,Virtus Zevenbergen Technology Fund,2025-10-22,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001214659-25-015435,S000074466,WisdomTree Artificial Intelligence and Innovation Fund,2025-10-28,True,WisdomTree Artificial Intelligence and Innovation Fund,True,False,False
+0001999371-25-016313,S000080899,T-REX 2X LONG NVIDIA DAILY TARGET ETF,2025-10-28,True,T-Rex 2X Long NVIDIA Daily Target ETF,True,False,False
+0001133228-25-011636,S000056147,American Beacon ARK Transformational Innovation Fund,2025-11-03,True,American Beacon ARK Transformational Innovation Fund,True,False,False
+0001213900-25-115285,S000042977,ARK Innovation ETF,2025-11-26,True,ARK Innovation ETF,True,False,False
+0001213900-25-115285,S000042976,ARK Autonomous Technology & Robotics ETF,2025-11-26,True,ARK Autonomous Technology & Robotics ETF,True,False,False
+0001213900-25-115285,S000071318,ARK Space & Defense Innovation ETF,2025-11-26,True,ARK Space & Defense Innovation ETF | ARK Space Exploration & Innovation ETF | ARK Space Exploration ETF,True,False,False
+0001999371-25-017301,S000096736,CoreValues America First Technology ETF,2025-11-10,True,Corevalues America First Technology ETF,True,True,False
+0001999371-25-018481,S000079922,DGA Core Plus Absolute Return ETF,2025-11-24,True,DGA Absolute Return ETF | DGA Core Plus Absolute Return ETF | Dga Absolute Return ETF | Dga Core Plus Absolute Return ETF,True,False,False
+0001162044-25-001167,S000057859,Upright Growth & Income Fund,2025-11-20,True,Upright Growth & Income Fund | Upright Growth and Income Fund,True,False,False
+0001193125-25-291438,S000048311,iShares Future Exponential Technologies ETF,2025-11-21,True,iShares Exponential Technologies ETF | iShares Future Exponential Technologies ETF,True,False,False
+0001193125-25-291438,S000067234,iShares U.S. Tech Breakthrough Multisector ETF,2025-11-21,True,iShares U.S. Tech Breakthrough Multisector ETF,True,False,False
+0001213900-25-123412,S000097907,Amplify Tokenization Technology ETF,2025-12-19,True,Amplify Tokenization Technology ETF,True,False,False
+0001592900-25-004234,S000097963,AOT Software Platform ETF,2025-12-12,True,AOT Software Platform ETF,True,False,False
+0001592900-25-004437,S000100021,Avory Foundational ETF,2025-12-19,True,Avory Foundational ETF,True,False,False
+0001193125-25-334319,S000068597,Goldman Sachs Innovate Equity ETF,2025-12-29,True,Goldman Sachs Innovate Equity ETF,True,False,False
+0001193125-25-311449,S000097720,Harbor AI Inflection Strategy ETF,2025-12-08,True,Harbor AI Inflection Strategy ETF,True,False,False
+0001213900-25-116226,S000062244,Innovator Deepwater Frontier Tech ETF,2025-12-01,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001398344-25-023131,S000088167,F/m Emerald Life Sciences Innovation ETF,2025-12-30,True,F/m Emerald Life Sciences Innovation ETF,True,False,False
+0001104659-25-124143,S000097146,Truth Social American Next Frontiers ETF,2025-12-23,True,Truth Social American Next Frontiers ETF,True,False,False
+0001999371-25-020886,S000090210,Defiance AI & Power Infrastructure ETF,2025-12-22,True,Defiance AI and Power Infrastructure ETF,True,False,False
+0001999371-25-021119,S000085026,Clockwise U.S. Core Equity ETF,2025-12-23,True,Clockwise Core Equity & Innovation ETF,True,False,False
+0001213900-26-008327,S000082276,Amplify AI Powered Equity ETF,2026-01-28,True,Amplify AI Powered Equity ETF,True,False,False
+0001213900-26-008327,S000082270,Amplify Bloomberg AI Value Chain ETF,2026-01-28,True,Amplify Bloomberg AI Value Chain ETF  | Amplify Global Cloud Technology ETF,True,False,False
+0001445546-26-000657,S000087664,First Trust Bloomberg Artificial Intelligence ETF,2026-01-28,True,First Trust Bloomberg Artificial Intelligence ETF,True,False,False
+0001445546-26-000659,S000061316,First Trust Nasdaq Artificial Intelligence and Robotics ETF,2026-01-28,True,First Trust Nasdaq Artificial Intelligence and Robotics ETF,True,False,False
+0001580642-26-000432,S000093092,Rayliant-ChinaAMC Transformative China Tech ETF,2026-01-26,True,Rayliant-ChinaAMC Transformative China Tech ETF | Rayliant-ChinaAMC Transformative China Tech ETF ,True,True,False
+0001398344-26-000379,S000097755,Roundhill Space & Technology ETF,2026-01-08,True,Roundhill Space & Technology ETF,True,False,False
+0001398344-26-000379,S000097750,"Roundhill Robotaxi, Autonomous Vehicles & Technology ETF",2026-01-08,True,Roundhill Robotaxi Autonomous Vehicles & Technology ETF,True,False,False
+0000894189-26-001971,S000081032,Themes China Generative Artificial Intelligence ETF,2026-01-27,True,Themes China Generative Artificial Intelligence ETF,True,False,False
+0000894189-26-001971,S000081040,Themes Generative Artificial Intelligence ETF,2026-01-27,True,Themes Generative Artificial Intelligence ETF,True,False,False
+0000894189-26-001971,S000081026,Themes Humanoid Robotics ETF,2026-01-27,True,Themes Robotics & Automation ETF,True,False,False
+0001137360-26-000029,S000079664,VanEck Robotics ETF,2026-01-27,True,VanEck Robotics ETF,True,False,False
+0001193125-26-082111,S000084279,Alger AI Enablers & Adopters Fund,2026-02-27,True,Alger AI Enablers & Adopters Fund,True,False,False
+0001193125-26-082111,S000009161,Alger Growth & Income Fund,2026-02-27,True,ALGER GROWTH & INCOME FUND | Alger Growth & Income Fund,True,False,False
+0001398344-26-003341,S000101442,"ALPS Nautilus SMR, Nuclear & Technology ETF",2026-02-18,True,ALPS Nautilus SMR Nuclear & Technology ETF,True,False,False
+0001193125-26-075941,S000081684,Direxion Daily NVDA Bull 2X Shares,2026-02-26,True,Direxion Daily NVDA Bull 1.5X Shares | Direxion Daily NVDA Bull 2X Shares,True,False,False
+0001193125-26-075941,S000094251,Direxion Daily ORCL Bull 2X ETF,2026-02-26,True,Direxion Daily ORCL Bull 2X ETF,True,False,False
+0001193125-26-075941,S000090369,Direxion Daily QCOM Bull 2X ETF,2026-02-26,True,Direxion Daily QCOM Bull 2X ETF,True,False,False
+0001193125-26-075941,S000083879,Direxion Daily AI and Big Data Bull 2X Shares,2026-02-26,True,Direxion Daily AI and Big Data Bull 2X Shares,True,False,False
+0001193125-26-075941,S000084217,Direxion Daily Magnificent 7 Bull 2X Shares,2026-02-26,True,Direxion Daily Concentrated Qs Bull 2X Shares | Direxion Daily Magnificent 7 Bull 2X Shares,True,False,False
+0001193125-26-075941,S000061746,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",2026-02-26,True,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares",True,False,False
+0001193125-26-075941,S000027920,Direxion Daily Semiconductor Bull 3X Shares,2026-02-26,True,Direxion Daily Semiconductor Bull 3X Shares,True,False,False
+0001999371-26-004622,S000089015,Clough Hedged Equity ETF,2026-02-27,True,Clough Hedged Equity ETF,True,False,False
+0001999371-26-004622,S000089016,Clough Select Equity ETF,2026-02-27,True,Clough Select Equity ETF,True,False,False
+0001193125-26-077937,S000097720,Harbor AI Inflection Strategy ETF,2026-02-27,True,Harbor AI Inflection Strategy ETF,True,False,False
+0001213900-26-021394,S000062244,Innovator Deepwater Frontier Tech ETF,2026-02-27,True,Innovator Deepwater Frontier Tech ETF | Innovator Loup Frontier Tech ETF,True,False,False
+0001398344-26-003899,S000089963,Janus Henderson Transformational Growth ETF,2026-02-27,True,Janus Henderson Transformational Growth ETF,True,False,False
+0001398344-26-003899,S000094567,Janus Henderson Global Artificial Intelligence ETF,2026-02-27,True,Janus Henderson Global Artificial Intelligence ETF,True,False,False
+0001580642-26-001204,S000072613,Main International ETF,2026-02-24,True,Main International ETF,True,False,False
+0001580642-26-001204,S000070451,Main Thematic Innovation ETF,2026-02-24,True,Main Thematic Innovation ETF,True,False,False
+0000894189-26-006608,S000089367,Pacer Solactive Whitney Future of Warfare ETF,2026-02-27,True,Pacer Solactive Whitney Future of Warfare ETF,True,False,False
+0001829126-26-001720,S000084288,TCW Artificial Intelligence ETF,2026-02-27,True,TCW Artificial Intelligence ETF,True,False,False
+0001162044-26-000127,S000057859,Upright Growth & Income Fund,2026-02-02,True,Upright Growth & Income Fund | Upright Growth and Income Fund,True,False,False
+0001999371-26-004124,S000086172,T. Rowe Price Technology ETF,2026-02-25,True,T. Rowe Price Technology ETF,True,False,True
+0001398344-26-005876,S000060186,ALPS DISRUPTIVE TECHNOLOGIES ETF,2026-03-30,True,ALPS Disruptive Technologies ETF,True,False,False
+0001432353-26-000311,S000054693,Global X Robotics & Artificial Intelligence ETF,2026-03-27,True,Global X Robotics & Artificial Intelligence ETF,True,False,False
+0001432353-26-000311,S000061415,Global X Autonomous & Electric Vehicles ETF,2026-03-27,True,Global X Autonomous & Electric Vehicles ETF,True,False,False
+0001432353-26-000311,S000061326,Global X Artificial Intelligence & Technology ETF,2026-03-27,True,Global X Artificial Intelligence & Technology ETF | Global X Future Analytics Tech ETF,True,False,False
+0001432353-26-000311,S000066527,Global X Dorsey Wright Thematic ETF,2026-03-27,True,Global X Dorsey Wright Thematic ETF | Global X Thematic Growth ETF,True,False,False
+0001432353-26-000311,S000069056,Global X HealthTech ETF,2026-03-27,True,Global X HealthTech ETF | Global X Telemedicine & Digital Health ETF,True,False,False
+0001432353-26-000311,S000081193,Global X Defense Tech ETF,2026-03-27,True,Global X Defense Tech ETF,True,False,False
+0001432353-26-000311,S000095265,Global X AI Semiconductor & Quantum ETF,2026-03-27,True,Global X AI Semiconductor & Quantum ETF,True,False,False
+0001398344-26-005711,S000050381,Horizon Active Asset Allocation Fund,2026-03-26,True,Horizon Active Asset Allocation Fund,True,False,False
+0001398344-26-005713,S000093285,Horizon Digital Frontier ETF,2026-03-26,True,Horizon Digital Frontier ETF,True,False,False
+0001999371-26-006855,S000087829,VistaShares Artificial Intelligence Supercycle ETF,2026-03-25,True,Vistashares Artificial Intelligence Supercycle ETF,True,False,False
+0001213900-26-036353,S000093687,Tortoise AI Infrastructure ETF,2026-03-30,True,Tortoise AI Infrastructure ETF,True,False,False
+0001398344-26-007914,S000075078,STRATEGAS MACRO THEMATIC OPPORTUNITIES ETF,2026-04-30,True,Strategas Macro Thematic Opportunities ETF,True,False,False
+0001193125-26-186428,S000084281,Alger AI Enablers & Adopters ETF,2026-04-28,True,Alger AI Enablers & Adopters ETF,True,False,False
+0000894189-26-013705,S000062478,Defiance Quantum ETF,2026-04-29,True,Defiance Quantum ETF,True,False,False
+0000894189-26-013705,S000095495,Defiance Drone and Modern Warfare ETF,2026-04-29,True,Defiance Drone and Modern Warfare ETF,True,False,False
+0001999371-26-009496,S000092123,"TrueShares Technology, AI & Deep Learning ETF",2026-04-30,True,"TrueShares Technology, AI & Deep Learning ETF",True,False,False
+0001829126-26-004244,S000001067,GABELLI GLOBAL CONTENT & CONNECTIVITY FUND,2026-04-30,True,Gabelli Global Content & Connectivity Fund,True,False,False
+0001133228-26-007266,S000019169,Gateway Fund,2026-04-29,True,Gateway Fund,True,False,False
+0001193125-26-196761,S000083434,Polen Capital China Growth ETF,2026-04-30,True,Polen Capital China Growth ETF,True,False,False
+0001193125-26-196761,S000083437,Polen Capital International Growth ETF,2026-04-30,True,Polen Capital International Growth ETF,True,False,False
+0000894189-26-013522,S000095816,AlphaDroid Defensive Sector Rotation ETF,2026-04-29,True,AlphaDroid Defensive Sector Rotation ETF,True,False,False
+0000894189-26-014063,S000072321,Roundhill Ball Metaverse ETF,2026-04-30,True,Roundhill Ball Metaverse ETF,True,False,False
+0001398344-26-007785,S000093377,Roundhill Humanoid Robotics ETF,2026-04-30,True,Roundhill Humanoid Robotics ETF,True,False,False
+0001484018-26-000045,S000082910,Langar Global HealthTech ETF,2026-04-30,True,Langar Global Health Tech ETF,True,False,False
+0000930413-26-001676,S000007980,Virtus Zevenbergen Technology Fund,2026-05-20,True,Virtus AllianzGI Technology Fund | Virtus Technology Fund | Virtus Zevenbergen Technology Fund,True,False,False
+0001999371-26-013492,S000094822,SoFi Agentic AI ETF,2026-06-25,True,Sofi Agentic Ai ETF,True,True,False
+0001655589-26-000973,S000067394,Franklin Intelligent Machines ETF,2026-07-27,True,Franklin Intelligent Machines ETF,True,False,False
+0001655589-26-000973,S000070439,Franklin Exponential Data ETF,2026-07-27,True,Franklin Exponential Data ETF,True,False,False
+0001398344-26-011897,S000050381,Horizon Active Asset Allocation Fund,2026-07-08,True,Horizon Active Asset Allocation Fund,True,False,False
+0001829126-26-007982,S000063652,KraneShares Global Humanoid Robotics and Physical AI Index ETF,2026-07-29,True,KraneShares Global Humanoid and Embodied Intelligence Index ETF,True,False,False
+0001829126-26-007982,S000085506,KraneShares Public-Private AI & Technology ETF,2026-07-29,True,KraneShares Artificial Intelligence and Technology ETF,True,False,False
+0001580642-26-004655,S000071674,AlphaCentric Real Income Fund,2026-07-28,True,AlphaCentric Real Income Fund | AlphaCentric Strategic Income Fund,True,False,False
+0001580642-26-004655,S000057714,AlphaCentric Robotics and Automation Fund,2026-07-28,True,AlphaCentric Robotics and Automation Fund,True,False,False
+0001193125-26-318131,S000075811,iShares Blockchain and Tech ETF,2026-07-27,True,iShares Blockchain and Tech ETF,True,False,False
+0001193125-26-318131,S000062201,iShares Future AI & Tech ETF,2026-07-27,True,iShares Future AI & Tech ETF | iShares Robotics and Artificial Intelligence Multisector ETF,True,False,False
+0001193125-26-366655,S000086268,iShares A.I. Innovation and Tech Active ETF,2026-08-26,True,iShares A.I. Innovation and Tech Active ETF,True,False,False
+0001104659-26-102475,S000003039,Invesco Aerospace & Defense ETF,2026-08-27,True,Invesco Aerospace & Defense ETF,True,False,False
+0001104659-26-102475,S000003033,Invesco AI and Next Gen Software ETF,2026-08-27,True,Invesco AI and Next Gen Software ETF | Invesco Dynamic Software ETF,True,False,False
+0001999371-26-018651,S000080348,Roundhill Generative AI & Technology ETF,2026-08-25,True,Roundhill Generative AI & Technology ETF | Roundhill Generative Ai & Technology ETF,True,False,False
+0001999371-26-018760,S000091050,Defiance Daily Target 2X Long SOUN ETF,2026-08-26,True,Defiance Daily Target 2X Long SOUN ETF,True,False,False
+0001999371-26-018760,S000091058,Defiance Daily Target 2X Long RGTI ETF,2026-08-26,True,Defiance Daily Target 2X Long RGTI ETF,True,False,False
+0001999371-26-018760,S000095914,Defiance Daily Target 2X Long IREN ETF,2026-08-26,True,Defiance Daily Target 2X Long IREN ETF,True,False,False
+0001213900-26-094412,S000042659,ROBO Global(R) Robotics and Automation Index ETF,2026-08-27,True,ROBO Global Robotics and Automation Index ETF,True,False,True
+0001213900-26-094412,S000065729,ROBO Global(R) Artificial Intelligence ETF,2026-08-27,True,ROBO Global Artificial Intelligence ETF,True,False,True

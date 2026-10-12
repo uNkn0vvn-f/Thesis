@@ -1,0 +1,38 @@
+# Local data and intermediate computations
+/data/raw/
+/data/interim/
+/data/private/
+
+# Not part of the repository
+/manuscript/
+
+# Copyrighted papers (reading notes in SUMMARY.md are kept)
+/Cited Papers/*.pdf
+
+# Python environments and caches
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mplconfig/
+
+# Credentials
+API Key.txt
+*api_key*.txt
+.wrds_user
+.sec_user_agent
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.netrc
+.pgpass
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+~$*
+*.log
+

@@ -1,0 +1,3 @@
+event,companies,ai_rev_corr,ai_rev_mean_luna,ai_rev_mean_deepseek,kappa_developer,kappa_enabler,kappa_adopter,funds,fund_exposure_corr,fund_exposure_sd_luna,fund_exposure_sd_deepseek
+chatgpt,3006,0.5786,0.6784,2.4121,0.5993,0.6271,0.5890,445,0.8374,1.5368,4.3356
+deepseek,3006,0.7319,0.7513,2.8903,0.6487,0.6817,0.6096,582,0.9056,6.2816,8.7876

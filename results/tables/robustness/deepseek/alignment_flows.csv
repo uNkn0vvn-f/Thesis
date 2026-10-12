@@ -1,0 +1,12 @@
+labels,test,cut,below,se_below,above,se_above,diff,se_diff,n,n_funds,month_start,month_end,group,alpha,se,n_months
+deepseek,flows,all claimants,-0.724197,0.517116,0.253794,0.386021,-0.97799,0.624183,693731,14823,2020-03-01,2026-05-01,,,,
+deepseek,flows,overlays excluded,-0.655327,0.473693,0.310162,0.365528,-0.965489,0.581815,668318,13922,2020-03-01,2026-05-01,,,,
+deepseek,flows,age >= 12 months,-0.835178,0.486475,-0.0180997,0.394047,-0.817078,0.599131,624180,13268,2020-07-01,2026-05-01,,,,
+deepseek,alpha,Carhart 4,,,,,,,,,2021-05-01,2025-12-01,below,-0.422721,0.274635,56
+deepseek,alpha,Carhart 4,,,,,,,,,2021-04-01,2025-12-01,above,0.124469,0.378195,57
+deepseek,alpha,Carhart 4,,,,,,,,,2020-02-01,2025-12-01,control,-0.257321,0.0946707,71
+deepseek,alpha,Carhart 4,,,,,,,,,2021-05-01,2025-12-01,below - above,-0.565255,0.360109,56
+deepseek,alpha,Carhart 4 + aitop,,,,,,,,,2021-05-01,2025-12-01,below,-0.359474,0.339556,56
+deepseek,alpha,Carhart 4 + aitop,,,,,,,,,2021-04-01,2025-12-01,above,-0.178271,0.379831,57
+deepseek,alpha,Carhart 4 + aitop,,,,,,,,,2020-02-01,2025-12-01,control,-0.247434,0.0956612,71
+deepseek,alpha,Carhart 4 + aitop,,,,,,,,,2021-05-01,2025-12-01,below - above,-0.197617,0.271369,56

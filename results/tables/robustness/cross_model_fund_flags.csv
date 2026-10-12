@@ -1,0 +1,27 @@
+scope,flag,filings,yes_luna,yes_deepseek,yes_both,agreement,kappa
+all classified filings,theme_broad,1779,1080,1064,1036,0.9595,0.9155
+all classified filings,theme_strict,1779,663,645,595,0.9337,0.8574
+all classified filings,uses_ai,1779,575,530,494,0.9342,0.8465
+all classified filings,uses_ai_hedged,1779,74,51,45,0.9803,0.7102
+all classified filings,uses_ai_support,1779,115,123,103,0.9820,0.8559
+all classified filings,chain_developer,1779,276,151,136,0.9129,0.5923
+all classified filings,chain_enabler,1779,386,244,235,0.9101,0.6947
+all classified filings,chain_adopter,1779,234,130,111,0.9202,0.5694
+all classified filings,chain_specified,1779,633,332,324,0.8218,0.5650
+all classified filings,chain_unspecified,1779,358,661,339,0.8083,0.5471
+all classified filings,chain_benefit_vague,1779,67,75,53,0.9798,0.7360
+all classified filings,falsifiable_test,1779,289,337,280,0.9629,0.8722
+all classified filings,strategy_text_risk_only,1779,168,169,165,0.9961,0.9771
+filings both label AI-themed,theme_broad,1036,1036,1036,1036,1.0000,
+filings both label AI-themed,theme_strict,1036,628,628,595,0.9363,0.8666
+filings both label AI-themed,uses_ai,1036,136,73,68,0.9295,0.6155
+filings both label AI-themed,uses_ai_hedged,1036,6,5,5,0.9990,0.9086
+filings both label AI-themed,uses_ai_support,1036,13,18,11,0.9913,0.7054
+filings both label AI-themed,chain_developer,1036,275,151,136,0.8514,0.5547
+filings both label AI-themed,chain_enabler,1036,384,244,235,0.8475,0.6466
+filings both label AI-themed,chain_adopter,1036,227,130,111,0.8697,0.5500
+filings both label AI-themed,chain_specified,1036,625,332,324,0.7017,0.4447
+filings both label AI-themed,chain_unspecified,1036,357,635,339,0.6969,0.4336
+filings both label AI-themed,chain_benefit_vague,1036,67,75,53,0.9653,0.7279
+filings both label AI-themed,falsifiable_test,1036,288,330,280,0.9440,0.8665
+filings both label AI-themed,strategy_text_risk_only,1036,0,0,0,1.0000,

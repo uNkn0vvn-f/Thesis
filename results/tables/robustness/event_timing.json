@@ -1,0 +1,28 @@
+{
+  "chatgpt": {
+    "reference_k": -2,
+    "event_month_excluded": true,
+    "pre_only_wald": 11.998197146395484,
+    "df": 10,
+    "p": 0.2851771767810772,
+    "estimation_funds_with_portfolio_older_than_366_days": 9,
+    "max_estimation_portfolio_age_days": 609
+  },
+  "deepseek": {
+    "reference_k": -2,
+    "event_month_excluded": true,
+    "pre_only_wald": 33.22733377118163,
+    "df": 10,
+    "p": 0.00024942849838776015,
+    "estimation_funds_with_portfolio_older_than_366_days": 12,
+    "max_estimation_portfolio_age_days": 1398
+  },
+  "timing_sensitivity": {
+    "restriction": "Calendar-adjacent lagged flow and selected pre-event holdings no older than 366 days",
+    "n": 20096,
+    "funds": 560,
+    "direction_coef": 0.36097757470434505,
+    "direction_se": 0.08837654172647318
+  },
+  "labels": "luna"
+}

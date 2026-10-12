@@ -1,0 +1,58 @@
+shock,sample,strata,design,inference,b,se,t
+chatgpt,all funds,tech,A label shift,conventional HC1,0.11728062398184783,0.09288340345747444,1.262665014590506
+chatgpt,all funds,tech,A label shift,shift permutation sd,0.11728062398184783,0.15443124507799502,0.7594358507089392
+chatgpt,all funds,tech,A placebo pre-period,shift permutation sd,0.19347982639976874,0.3467827708853496,0.5579280248145183
+chatgpt,all funds,tech,A label shift,exposure-robust HC,0.11728062398184771,0.033905980305245914,3.4589952252081657
+chatgpt,all funds,tech,A label shift,exposure-robust SIC2,0.11728062398184771,0.029130216668713432,4.026081416270754
+chatgpt,all funds,tech,A label shift,AKM0 SIC2,0.11728062398184771,0.07603303339231175,1.5424956594419763
+chatgpt,all funds,tech,A placebo pre-period,exposure-robust SIC2,0.19347982639976896,0.11082462645076767,1.7458197929114585
+chatgpt,balanced,tech,A label shift,conventional HC1,0.11072592804694803,0.0906693216762357,1.2212060926443342
+chatgpt,balanced,tech,A label shift,shift permutation sd,0.11072592804694803,0.16009664476708874,0.6916192916349618
+chatgpt,balanced,tech,A placebo pre-period,shift permutation sd,-0.005794635697525626,0.19097361629499093,-0.03034259815541658
+chatgpt,balanced,tech,A label shift,exposure-robust HC,0.11072592804694804,0.03304569036390692,3.350691930705882
+chatgpt,balanced,tech,A label shift,exposure-robust SIC2,0.11072592804694804,0.026995043671569272,4.101713240181298
+chatgpt,balanced,tech,A label shift,AKM0 SIC2,0.11072592804694804,0.06917381078043626,1.6006914581936487
+chatgpt,balanced,tech,A placebo pre-period,exposure-robust SIC2,-0.005794635697525307,0.057547175122538846,-0.10069366020463076
+chatgpt,balanced,techsize,A label shift,conventional HC1,0.11072592804694803,0.0906693216762357,1.2212060926443342
+chatgpt,balanced,techsize,A label shift,shift permutation sd,0.11072592804694803,0.1643643256817679,0.6736615599989061
+chatgpt,balanced,techsize,A placebo pre-period,shift permutation sd,-0.005794635697525626,0.18919249568898253,-0.030628253390406923
+chatgpt,balanced,techsize,A label shift,exposure-robust HC,0.11072592804694804,0.03304569036390692,3.350691930705882
+chatgpt,balanced,techsize,A label shift,exposure-robust SIC2,0.11072592804694804,0.026995043671569272,4.101713240181298
+chatgpt,balanced,techsize,A label shift,AKM0 SIC2,0.11072592804694804,0.06917381078043626,1.6006914581936487
+chatgpt,balanced,techsize,A placebo pre-period,exposure-robust SIC2,-0.005794635697525307,0.057547175122538846,-0.10069366020463076
+deepseek,all funds,tech,A label shift,conventional HC1,-0.13498572673453832,0.04557974663190893,-2.9615286768627866
+deepseek,all funds,tech,A label shift,shift permutation sd,-0.13498572673453832,0.2097394953063524,-0.643587544336243
+deepseek,all funds,tech,A placebo pre-period,shift permutation sd,-0.12877209091973862,0.1975297505503138,-0.6519123856582729
+deepseek,all funds,tech,A label shift,exposure-robust HC,-0.1349857267345383,0.03207326945887998,-4.208667498260469
+deepseek,all funds,tech,A label shift,exposure-robust SIC2,-0.1349857267345383,0.02590033585998392,-5.211736537482186
+deepseek,all funds,tech,A label shift,AKM0 SIC2,-0.1349857267345383,0.11341397603971393,-1.1902036366952748
+deepseek,all funds,tech,A placebo pre-period,exposure-robust SIC2,-0.12877209091973862,0.006933578600767185,-18.57224073373745
+deepseek,all funds,tech,"B price shift, reduced form",conventional HC1,0.08656447425375433,0.16046821931703542,0.5394493353399141
+deepseek,all funds,tech,"B price shift, reduced form",exposure-robust SIC2,0.08656447425375428,0.12672873625746636,0.6830690245177462
+deepseek,all funds,tech,B first stage,exposure-robust SIC2,-1.7449179562538595,0.7399580305648427,-2.358130980647492
+deepseek,all funds,tech,"B IV, label instrumented by price",conventional HC1,-0.04960948103233373,0.08657414833511767,-0.5730288080952486
+deepseek,all funds,tech,"B IV, label instrumented by price",exposure-robust SIC2,-0.049609481032333674,0.056706998508202176,-0.874838773650806
+deepseek,balanced,tech,A label shift,conventional HC1,-0.13676155769119408,0.050176234717372994,-2.7256241617476693
+deepseek,balanced,tech,A label shift,shift permutation sd,-0.13676155769119408,0.21227783230172612,-0.6442573687901844
+deepseek,balanced,tech,A placebo pre-period,shift permutation sd,-0.1561609231492003,0.20291793219439172,-0.7695767518446864
+deepseek,balanced,tech,A label shift,exposure-robust HC,-0.13676155769119402,0.03602466449162842,-3.796331197559808
+deepseek,balanced,tech,A label shift,exposure-robust SIC2,-0.13676155769119402,0.03635703159635147,-3.7616260647890303
+deepseek,balanced,tech,A label shift,AKM0 SIC2,-0.13676155769119402,0.12089336711703269,-1.131257743518715
+deepseek,balanced,tech,A placebo pre-period,exposure-robust SIC2,-0.15616092314920033,0.011697036473065235,-13.350469027671416
+deepseek,balanced,tech,"B price shift, reduced form",conventional HC1,0.18737646211847728,0.1604103520259032,1.1681070439158414
+deepseek,balanced,tech,"B price shift, reduced form",exposure-robust SIC2,0.1873764621184774,0.13834169144345743,1.3544468060451704
+deepseek,balanced,tech,B first stage,exposure-robust SIC2,-1.787194818598787,0.7306856362392177,-2.445914809270564
+deepseek,balanced,tech,"B IV, label instrumented by price",conventional HC1,-0.1048438928809038,0.07904588904086053,-1.3263674322988224
+deepseek,balanced,tech,"B IV, label instrumented by price",exposure-robust SIC2,-0.10484389288090372,0.04697270023051438,-2.232017583966678
+deepseek,balanced,techsize,A label shift,conventional HC1,-0.13676155769119408,0.050176234717372994,-2.7256241617476693
+deepseek,balanced,techsize,A label shift,shift permutation sd,-0.13676155769119408,0.24033478636636646,-0.5690460368176361
+deepseek,balanced,techsize,A placebo pre-period,shift permutation sd,-0.1561609231492003,0.19856668105498648,-0.7864407176446521
+deepseek,balanced,techsize,A label shift,exposure-robust HC,-0.13676155769119402,0.03602466449162842,-3.796331197559808
+deepseek,balanced,techsize,A label shift,exposure-robust SIC2,-0.13676155769119402,0.03635703159635147,-3.7616260647890303
+deepseek,balanced,techsize,A label shift,AKM0 SIC2,-0.13676155769119402,0.12089336711703269,-1.131257743518715
+deepseek,balanced,techsize,A placebo pre-period,exposure-robust SIC2,-0.15616092314920033,0.011697036473065235,-13.350469027671416
+deepseek,balanced,techsize,"B price shift, reduced form",conventional HC1,0.18737646211847728,0.1604103520259032,1.1681070439158414
+deepseek,balanced,techsize,"B price shift, reduced form",exposure-robust SIC2,0.1873764621184774,0.13834169144345743,1.3544468060451704
+deepseek,balanced,techsize,B first stage,exposure-robust SIC2,-1.787194818598787,0.7306856362392177,-2.445914809270564
+deepseek,balanced,techsize,"B IV, label instrumented by price",conventional HC1,-0.1048438928809038,0.07904588904086053,-1.3263674322988224
+deepseek,balanced,techsize,"B IV, label instrumented by price",exposure-robust SIC2,-0.10484389288090372,0.04697270023051438,-2.232017583966678

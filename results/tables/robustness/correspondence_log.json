@@ -1,0 +1,158 @@
+{
+  "labels": "luna",
+  "baseline": {
+    "funds": 171,
+    "fund_quarters": 1368,
+    "quarters": [
+      "2021q1",
+      "2026q1",
+      21
+    ]
+  },
+  "labels_without_evidence_company_years": 6036,
+  "labels_total_company_years": 20419,
+  "no_evidence_value_share_in_sample_labelled_sleeve_pct": 8.698620112628003,
+  "no_evidence_fundquarter_share_median_pct": 6.310835744613054,
+  "no_evidence_fundquarter_share_p90_pct": 40.63629799400025,
+  "no_evidence_value_share_all_funds_labelled_sleeve_pct": 8.046960135137567,
+  "role_ge2_share_pct_developer": {
+    "with_evidence": 5.596885211708267,
+    "without_evidence": 0.0
+  },
+  "role_ge2_share_pct_enabler": {
+    "with_evidence": 9.455607314190363,
+    "without_evidence": 0.03313452617627568
+  },
+  "role_ge2_share_pct_adopter": {
+    "with_evidence": 10.130014600570117,
+    "without_evidence": 0.0
+  },
+  "near_duplicate_pairs": 1,
+  "near_duplicate_funds_dropped": [
+    "S000056147"
+  ],
+  "fund_quarters_matched_to_flagged_theme_filing": 21,
+  "funds_matched_to_flagged_theme_filing": 7,
+  "leave_one_family_out": {
+    "adopter": {
+      "min": 4.770564537106204,
+      "max": 8.337083625827644,
+      "family_at_min": "1432353",
+      "families": 77
+    },
+    "developer": {
+      "min": 6.195629730126349,
+      "max": 8.043148171266251,
+      "family_at_min": "1452937",
+      "families": 77
+    },
+    "enabler": {
+      "min": 8.71247255992769,
+      "max": 14.885953334704286,
+      "family_at_min": "1432353",
+      "families": 77
+    }
+  },
+  "fund_claim_overlap_fund_quarters": {
+    "developer_and_enabler": 245,
+    "developer_and_adopter": 235,
+    "enabler_and_adopter": 155,
+    "all_three": 118,
+    "none": 668,
+    "any": 700
+  },
+  "company_label_overlap_value_share_pct_in_sample": {
+    "developer": 19.09702829882046,
+    "enabler": 23.344406054963315,
+    "adopter": 22.37357839131362,
+    "developer_and_enabler": 9.991188089573166,
+    "developer_and_adopter": 12.886243348765845,
+    "enabler_and_adopter": 5.9506212242372,
+    "no_role": 59.08076078950832
+  },
+  "mag7_value_share_of_labelled_sleeve_pct": 16.030905101767,
+  "mag7_role_labels_2025": [
+    {
+      "gvkey": "001690",
+      "developer": 0,
+      "enabler": 0,
+      "adopter": 0,
+      "has_evidence": true,
+      "name": "Apple"
+    },
+    {
+      "gvkey": "012141",
+      "developer": 2,
+      "enabler": 2,
+      "adopter": 2,
+      "has_evidence": true,
+      "name": "Microsoft"
+    },
+    {
+      "gvkey": "064768",
+      "developer": 2,
+      "enabler": 2,
+      "adopter": 0,
+      "has_evidence": true,
+      "name": "Amazon"
+    },
+    {
+      "gvkey": "117768",
+      "developer": 3,
+      "enabler": 3,
+      "adopter": 0,
+      "has_evidence": true,
+      "name": "NVIDIA"
+    },
+    {
+      "gvkey": "160329",
+      "developer": 3,
+      "enabler": 2,
+      "adopter": 3,
+      "has_evidence": true,
+      "name": "Alphabet"
+    },
+    {
+      "gvkey": "170617",
+      "developer": 2,
+      "enabler": 0,
+      "adopter": 2,
+      "has_evidence": true,
+      "name": "Meta"
+    },
+    {
+      "gvkey": "184996",
+      "developer": 2,
+      "enabler": 0,
+      "adopter": 2,
+      "has_evidence": true,
+      "name": "Tesla"
+    }
+  ],
+  "selection": {
+    "theme_fund_quarters_with_holdings": 1413,
+    "theme_funds_with_holdings": 177,
+    "theme_fund_quarters_below_50": 45,
+    "theme_funds_never_reaching_50": 6,
+    "fund_quarters_claim_unknown_or_expired": 204,
+    "funds_with_any_unknown_claim_quarter": 60,
+    "theme_claim_funds_2020q4_2026q1": 373,
+    "of_which_with_any_holdings_in_exposure_table": 178,
+    "of_which_in_extracted_equity_holdings": 178,
+    "of_which_in_principal_sample": 171,
+    "role_naming_rate_pct_in_sample": {
+      "chain_developer": 30.4,
+      "chain_enabler": 26.9,
+      "chain_adopter": 26.3
+    },
+    "role_naming_rate_pct_outside_sample": {
+      "chain_developer": 13.4,
+      "chain_enabler": 33.2,
+      "chain_adopter": 21.8
+    },
+    "funds_outside_sample": 202,
+    "without_holdings_derivative_like_by_name": 161,
+    "without_holdings_other": 34,
+    "without_holdings_other_first_claim_2025_or_later": 23
+  }
+}

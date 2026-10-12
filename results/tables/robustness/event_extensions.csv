@@ -1,0 +1,44 @@
+group,spec,event,coef,se,t,n,funds,standing_a,standing_a_se
+A replication,baseline,chatgpt,0.633622,0.17699,3.57999,9511,437,,
+A replication,baseline,deepseek,-0.13163,0.0288207,-4.56721,11044,499,,
+A replication,baseline,stacked,0.357695,0.0874937,4.08824,20555,569,0.225487,0.0889755
+D composition,balanced window,chatgpt,0.514573,0.164124,3.13528,7776,324,,
+D composition,thematic universe,chatgpt,0.597678,0.186145,3.21081,6205,288,,
+D composition,non-thematic funds,chatgpt,1.42461,0.444545,3.20464,3306,149,,
+D composition,funds without a pre-event AI claim,chatgpt,0.586808,0.201253,2.91578,7605,343,,
+D composition,balanced window,deepseek,-0.123832,0.0318123,-3.89257,9480,395,,
+D composition,thematic universe,deepseek,-0.112691,0.0278014,-4.05344,6922,320,,
+D composition,non-thematic funds,deepseek,-0.162969,0.0363199,-4.48703,4122,179,,
+D composition,funds without a pre-event AI claim,deepseek,-0.119802,0.0348032,-3.44228,8631,388,,
+D composition,balanced windows,stacked,0.28334,0.0788853,3.5918,17256,438,0.16188,0.0813405
+D composition,funds in both windows,stacked,0.27757,0.0817995,3.39329,16817,368,0.232537,0.0817117
+F timing,event month dropped,chatgpt,0.633443,0.184151,3.4398,9101,437,,
+F timing,event month coded post,chatgpt,0.587414,0.178475,3.29129,9511,437,,
+F timing,window +/-6 months,chatgpt,0.579398,0.197422,2.93482,4870,424,,
+F timing,event month and first post month dropped,chatgpt,0.702355,0.20426,3.43854,8695,437,,
+F timing,event month dropped,deepseek,-0.121192,0.0294991,-4.10832,10571,499,,
+F timing,event month coded post,deepseek,-0.100286,0.0278648,-3.59902,11044,499,,
+F timing,window +/-6 months,deepseek,-0.126965,0.0308343,-4.11767,5593,484,,
+F timing,event month and first post month dropped,deepseek,-0.127452,0.0294714,-4.32459,10101,499,,
+F timing,event month dropped,stacked,0.349077,0.091572,3.81205,19672,569,0.226833,0.0933149
+F timing,window +/-6 months,stacked,0.345302,0.101873,3.38955,10463,554,0.218728,0.0979347
+F timing,event month and first post month dropped,stacked,0.373911,0.0993197,3.76473,18796,569,0.246178,0.101016
+G controls,+ past 3/12-month returns,chatgpt,0.552725,0.177249,3.11836,9511,437,,
+G controls,+ flow lags 2-3,chatgpt,0.610229,0.171299,3.56236,9511,437,,
+G controls,+ both,chatgpt,0.542665,0.173004,3.13671,9511,437,,
+G controls,+ past 3/12-month returns,deepseek,-0.0907722,0.0337091,-2.69281,11044,499,,
+G controls,+ flow lags 2-3,deepseek,-0.116745,0.0255096,-4.57651,11044,499,,
+G controls,+ both,deepseek,-0.0786338,0.0304426,-2.58302,11044,499,,
+G controls,+ past 3/12-month returns,stacked,0.253648,0.0861488,2.9443,20555,569,0.151994,0.0869477
+G controls,+ flow lags 2-3,stacked,0.338279,0.0845791,3.99955,20555,569,0.22335,0.085731
+G controls,+ both,stacked,0.239479,0.083715,2.86065,20555,569,0.153968,0.0840228
+H industry,+ industry shares x post (and tech),chatgpt,0.630835,0.292247,2.15857,9511,437,,
+H industry,+ industry shares x post (and tech),deepseek,-0.065523,0.0676693,-0.968283,11044,499,,
+H industry,+ industry shares x post x sign (and tech),stacked,0.335189,0.145066,2.3106,20555,569,0.267127,0.145986
+H industry,+ semiconductors and tech only,stacked,0.315281,0.13512,2.33334,20555,569,0.248751,0.135074
+I annual vintages,baseline,chatgpt,0.555419,0.140365,3.95696,9552,438,,
+I annual vintages,+ past returns,chatgpt,0.483528,0.14375,3.36368,9552,438,,
+I annual vintages,baseline,deepseek,-0.321882,0.0978329,-3.29012,10981,496,,
+I annual vintages,+ past returns,deepseek,-0.228883,0.10194,-2.24526,10981,496,,
+I annual vintages,baseline,stacked,0.414023,0.0864283,4.79037,20533,566,0.0955419,0.0878524
+I annual vintages,+ past returns,stacked,0.305752,0.0900027,3.39714,20533,566,0.0566037,0.0903171

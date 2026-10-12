@@ -1,0 +1,12 @@
+labels,test,cut,below,se_below,above,se_above,diff,se_diff,n,n_funds,month_start,month_end,group,alpha,se,n_months
+luna,flows,all claimants,-0.728515,0.483311,0.190127,0.382458,-0.918642,0.594892,693361,14806,2020-03-01,2026-05-01,,,,
+luna,flows,overlays excluded,-0.660878,0.434106,0.262522,0.363708,-0.9234,0.546758,668092,13917,2020-03-01,2026-05-01,,,,
+luna,flows,age >= 12 months,-0.784175,0.439335,-0.0817182,0.388065,-0.702457,0.559561,623993,13262,2020-07-01,2026-05-01,,,,
+luna,alpha,Carhart 4,,,,,,,,,2021-05-01,2025-12-01,below,-0.443853,0.326097,56
+luna,alpha,Carhart 4,,,,,,,,,2021-04-01,2025-12-01,above,0.105494,0.346368,57
+luna,alpha,Carhart 4,,,,,,,,,2020-02-01,2025-12-01,control,-0.257242,0.0946587,71
+luna,alpha,Carhart 4,,,,,,,,,2021-05-01,2025-12-01,below - above,-0.567787,0.326613,56
+luna,alpha,Carhart 4 + aitop,,,,,,,,,2021-05-01,2025-12-01,below,-0.357695,0.39805,56
+luna,alpha,Carhart 4 + aitop,,,,,,,,,2021-04-01,2025-12-01,above,-0.187768,0.344246,57
+luna,alpha,Carhart 4 + aitop,,,,,,,,,2020-02-01,2025-12-01,control,-0.24737,0.0956485,71
+luna,alpha,Carhart 4 + aitop,,,,,,,,,2021-05-01,2025-12-01,below - above,-0.187272,0.213247,56

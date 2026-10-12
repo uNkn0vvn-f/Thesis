@@ -1,0 +1,4 @@
+role,company_years,share_luna,share_deepseek_min,share_deepseek_prompt_a,kappa_luna_vs_deepseek_min,kappa_luna_vs_deepseek_prompt_a,kappa_deepseek_a_vs_b,value_share_in_own_sample_luna,value_share_in_own_sample_deepseek
+developer,20419,3.9424,3.7710,4.4419,0.6044,0.5965,0.8198,19.0970,26.3470
+enabler,20419,6.6703,7.2726,7.6987,0.6342,0.6234,0.7641,23.3444,25.6025
+adopter,20419,7.1355,10.3286,11.8272,0.6110,0.5855,0.7849,22.3736,32.5009

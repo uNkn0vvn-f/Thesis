@@ -1,0 +1,940 @@
+event,series_id,coef_without,change,ai_pre,name
+chatgpt,S000000689,0.634438,0.000816458,0.31945,Harbor Small Cap Value Fund
+chatgpt,S000000865,0.633732,0.000110153,0.451247,Reynolds Blue Chip Growth Fund
+chatgpt,S000001034,0.63362,-2.03761e-06,0.0988755,Matthews Asia Innovators Fund
+chatgpt,S000001067,0.63404,0.000418133,0.235543,Gabelli Global Content & Connectivity Fund
+chatgpt,S000001227,0.633163,-0.000458171,0.123933,Cohen & Steers Global Infrastructure Fund Inc.
+chatgpt,S000001552,0.635061,0.00143907,0.0672283,AVE MARIA BOND FUND
+chatgpt,S000002069,0.635384,0.00176186,1.37576,"T. Rowe Price Blue Chip Growth Fund, Inc."
+chatgpt,S000002081,0.634395,0.000772853,1.37655,T. Rowe Price Blue Chip Growth Portfolio
+chatgpt,S000002813,0.633721,9.88349e-05,1.12492,LVIP Blended Large Cap Growth Managed Volatility Fund
+chatgpt,S000003032,0.626201,-0.00742056,4.05639,Invesco Dynamic Semiconductors ETF
+chatgpt,S000003033,0.633849,0.000227819,2.03032,Invesco Dynamic Software ETF
+chatgpt,S000003039,0.632308,-0.00131345,0.271225,Invesco Aerospace & Defense ETF
+chatgpt,S000003048,0.635001,0.00137972,0.104836,Invesco Water Resources ETF
+chatgpt,S000003053,0.633068,-0.000553547,0.179145,Invesco WilderHill Clean Energy ETF
+chatgpt,S000003096,0.633474,-0.000147351,8.53798,Semiconductor
+chatgpt,S000003311,0.634594,0.000972743,1.43886,Blue Chip Growth Fund
+chatgpt,S000003579,0.634533,0.00091146,0,THE HARTFORD GROWTH ALLOCATION FUND
+chatgpt,S000003604,0.633735,0.000113317,0.50264,THE HARTFORD CAPITAL APPRECIATION FUND
+chatgpt,S000003658,0.636091,0.00246967,1.31574,MassMutual Select Blue Chip Growth Fund
+chatgpt,S000003978,0.534448,-0.0991734,7.72781,ProFund VP Semiconductor
+chatgpt,S000004354,0.640095,0.0064731,5.10009,iShares PHLX Semiconductor ETF
+chatgpt,S000004420,0.633665,4.33241e-05,0.942624,Blue Chip Fund
+chatgpt,S000004544,0.633386,-0.000235539,0.509756,PAYSON TOTAL RETURN FUND
+chatgpt,S000004808,0.633144,-0.000477946,0,Blue Chip Investor Fund
+chatgpt,S000005026,0.634876,0.00125411,0.0711463,Ariel Focus Fund
+chatgpt,S000005327,0.640401,0.00677898,7.70862,Fidelity Advisor Semiconductors Fund
+chatgpt,S000005541,0.633108,-0.000513892,1.16154,PRIMECAP Odyssey Aggressive Growth Fund
+chatgpt,S000005895,0.632538,-0.0010841,1.61975,Guinness Atkinson Global Innovators Fund
+chatgpt,S000006103,0.634417,0.000795049,0.0140212,DWS Health and Wellness Fund
+chatgpt,S000006221,0.633605,-1.6648e-05,0.708102,DWS Equity 500 Index VIP
+chatgpt,S000006223,0.633659,3.756e-05,0.594745,DWS Small Cap Index VIP
+chatgpt,S000006245,0.63339,-0.000231702,1.15573,DWS Capital Growth VIP
+chatgpt,S000006246,0.633742,0.000120745,0.461335,DWS Global Small Cap VIP
+chatgpt,S000006247,0.63363,8.19334e-06,0.695316,DWS Core Equity VIP
+chatgpt,S000006249,0.634689,0.00106724,0,DWS CROCI(R) International VIP
+chatgpt,S000006255,0.633842,0.000220576,0.52486,DWS CROCI(R) U.S. VIP
+chatgpt,S000006260,0.633597,-2.45546e-05,0.833527,DWS Small Mid Cap Growth VIP
+chatgpt,S000006265,0.633692,7.0389e-05,0.612528,DWS Global Income Builder VIP
+chatgpt,S000006269,0.633961,0.000338968,0.279869,DWS Small Mid Cap Value VIP
+chatgpt,S000006276,0.632911,-0.000710693,0.685817,DWS International Growth VIP
+chatgpt,S000006467,0.633903,0.000281231,0,Reaves Utilities and Energy Infrastructure Fund
+chatgpt,S000007195,0.633202,-0.000419211,2.12797,Fidelity Blue Chip Growth Fund
+chatgpt,S000007196,0.632402,-0.00121926,0.0396351,Fidelity Blue Chip Value Fund
+chatgpt,S000007458,0.646736,0.0131148,7.29643,Select Semiconductors Portfolio
+chatgpt,S000007980,0.633794,0.000172269,1.40118,Virtus AllianzGI Technology Fund
+chatgpt,S000008005,0.633437,-0.000184811,1.30502,Blue Chip Growth Fund
+chatgpt,S000008036,0.633733,0.000111452,0.467191,SA Multi-Managed Mid Cap Growth Portfolio
+chatgpt,S000008037,0.634077,0.000455812,0.169037,SA Multi-Managed Mid Cap Value Portfolio
+chatgpt,S000008047,0.634791,0.00116892,0.169565,SA Columbia Focused Value Portfolio
+chatgpt,S000008056,0.63406,0.000438233,1.06091,SA Multi-Managed Large Cap Growth Portfolio
+chatgpt,S000008085,0.633793,0.000171655,1.04021,SA MFS Blue Chip Growth Portfolio
+chatgpt,S000008098,0.633952,0.000330814,0.392904,SA Morgan Stanley International Equities Portfolio
+chatgpt,S000008199,0.63367,4.81082e-05,0.49316,Mid Cap Growth Portfolio
+chatgpt,S000008201,0.634244,0.000622288,0.137205,Mid Cap Intrinsic Value Portfolio
+chatgpt,S000008202,0.633898,0.000276524,0.480409,Sustainable Equity Portfolio
+chatgpt,S000008217,0.634266,0.000643914,1.36533,Blue Chip Growth Trust
+chatgpt,S000008640,0.633511,-0.000110737,0.784383,VOYA SMALLCAP OPPORTUNITIES PORTFOLIO
+chatgpt,S000008663,0.633877,0.000254929,0.385647,VOYA BALANCED PORTFOLIO
+chatgpt,S000008703,0.633774,0.000152086,0.553489,VOYA GROWTH AND INCOME PORTFOLIO
+chatgpt,S000008709,0.633744,0.000122477,0.348786,VOYA SMALL COMPANY PORTFOLIO
+chatgpt,S000008794,0.634057,0.000434968,0.423349,Blue Chip Income and Growth Fund
+chatgpt,S000009161,0.633962,0.000340162,0.991135,Alger Growth & Income Fund
+chatgpt,S000009192,0.632191,-0.00143116,1.79102,Alger Global Focus Fund
+chatgpt,S000009201,0.633242,-0.000379241,0.914374,Alger Focus Equity Fund
+chatgpt,S000009202,0.632781,-0.000841139,0.338358,Alger Small Cap Growth Institutional Fund
+chatgpt,S000009204,0.633873,0.000250965,0.996822,Alger Capital Appreciation Institutional Fund
+chatgpt,S000009217,0.63341,-0.000211947,0.938874,Alger Balanced Portfolio
+chatgpt,S000009219,0.633045,-0.000576527,1.05698,Alger Capital Appreciation Portfolio
+chatgpt,S000009324,0.633631,8.89188e-06,0.726371,Goldman Sachs U.S. Equity Dividend and Premium Fund
+chatgpt,S000009327,0.633578,-4.38424e-05,0.714768,Goldman Sachs U.S. Equity Insights Fund
+chatgpt,S000009352,0.633755,0.000133429,0.538754,Goldman Sachs Variable Insurance Trust U.S. Equity Insights Fund
+chatgpt,S000009355,0.633895,0.000273107,0.353702,Goldman Sachs Variable Insurance Trust Small Cap Equity Insights Fund
+chatgpt,S000009359,0.634615,0.000993153,0.00756104,Goldman Sachs Variable Insurance Trust International Equity Insights Fund
+chatgpt,S000010074,0.633623,9.35741e-07,0.693478,"AB SUSTAINABLE GLOBAL THEMATIC FUND, INC."
+chatgpt,S000010094,0.63377,0.000148232,0.400088,AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC
+chatgpt,S000010517,0.636017,0.00239551,0.86101,DCM/INNOVA HIGH DIVIDEND INCOME INNOVATION
+chatgpt,S000011485,0.634572,0.00095025,1.37499,MML Blue Chip Growth Fund
+chatgpt,S000012387,0.634929,0.0013074,0.211599,WisdomTree U.S. Dividend ex-Financials Fund
+chatgpt,S000012389,0.637682,0.00406028,0,WisdomTree International Dividend ex-Financials Fund
+chatgpt,S000014258,0.655819,0.0221975,8.14215,ProShares Ultra Semiconductors
+chatgpt,S000015169,0.634013,0.000391779,0.392136,First Trust NASDAQ Clean Edge Green Energy Index Fund
+chatgpt,S000015278,0.633913,0.000291827,0.0672225,Invesco Global Water ETF
+chatgpt,S000015279,0.633721,9.95309e-05,0.0790901,Invesco Global Clean Energy ETF
+chatgpt,S000016884,0.633335,-0.00028707,0.139984,VanEck Vectors Low Carbon Energy ETF
+chatgpt,S000017178,0.635235,0.00161345,0.113691,First Trust Water ETF
+chatgpt,S000018009,0.636292,0.00267039,0.0719373,Virtus Duff & Phelps Global Infrastructure Fund
+chatgpt,S000019169,0.633175,-0.000447142,0.727334,Gateway Fund
+chatgpt,S000019356,0.633942,0.000320311,0,iShares Global Infrastructure ETF
+chatgpt,S000019378,0.633391,-0.000231142,0.492329,AST J.P. Morgan Global Thematic Portfolio
+chatgpt,S000019684,0.634586,0.000964761,0.0882595,VOYA LARGE CAP VALUE FUND
+chatgpt,S000020012,0.634423,0.000801146,0.0907524,Nuveen Global Infrastructure Fund
+chatgpt,S000020425,0.633029,-0.000592638,0,VanEck Vectors Gaming ETF
+chatgpt,S000020601,0.634155,0.00053325,0.146668,Voya Global High Dividend Low Volatility Portfolio
+chatgpt,S000021463,0.634197,0.000575596,0.115775,Virtus AllianzGI Water Fund
+chatgpt,S000022444,0.633288,-0.00033364,0.0999103,DWS RREEF Global Infrastructure Fund
+chatgpt,S000022497,0.63125,-0.00237146,0,iShares Emerging Markets Infrastructure ETF
+chatgpt,S000022498,0.633274,-0.000347395,0.0706596,iShares Global Clean Energy ETF
+chatgpt,S000022933,0.633668,4.67623e-05,0,First Trust Global Wind Energy ETF
+chatgpt,S000023653,0.634824,0.00120234,0,DWS Alternative Asset Allocation VIP
+chatgpt,S000024182,0.634119,0.000496887,0.200507,Calvert Global Water Fund
+chatgpt,S000025133,0.633758,0.000135913,0.528618,LVIP Delaware Wealth Builder Fund
+chatgpt,S000026009,0.633563,-5.89319e-05,1.03921,Emerging Markets Portfolio
+chatgpt,S000026226,0.634143,0.000521037,0.747421,Alger Dynamic Opportunities Fund
+chatgpt,S000026282,0.6344,0.000777871,0,VOYA RETIREMENT MODERATE GROWTH PORTFOLIO
+chatgpt,S000026468,0.633181,-0.000440688,1.47527,Hodges Blue Chip Equity Income Fund
+chatgpt,S000026919,0.633523,-9.90425e-05,0.720628,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
+chatgpt,S000027245,0.634196,0.000574625,0,Lazard Global Listed Infrastructure Portfolio
+chatgpt,S000027920,0.694356,0.0607348,5.68692,Direxion Daily Semiconductor Bull 3X Shares
+chatgpt,S000029198,0.642627,0.00900516,0.0407845,Global Infrastructure Fund
+chatgpt,S000029441,0.633056,-0.000565323,0.0838014,Global X Lithium and Battery Tech ETF
+chatgpt,S000029874,0.634123,0.000501236,0.095956,Global Infrastructure Portfolio
+chatgpt,S000030113,0.635129,0.00150708,0.135058,Water Island Event-Driven Fund
+chatgpt,S000030601,0.633451,-0.000170682,0.415051,VOYA MULTI-MANAGER INTERNATIONAL EQUITY FUND
+chatgpt,S000030621,0.633989,0.000367191,0.251277,PGIM US Real Estate Fund
+chatgpt,S000031058,0.635241,0.00161899,0,MainGate MLP Fund
+chatgpt,S000032019,0.630156,-0.00346601,0.080907,DWS RREEF Real Assets Fund
+chatgpt,S000032042,0.632821,-0.000800822,0.0377688,DWS Communications Fund
+chatgpt,S000032044,0.633368,-0.000253558,0.105748,DWS RREEF Global Real Estate Securities Fund
+chatgpt,S000032045,0.63334,-0.000281569,0.220055,DWS RREEF Real Estate Securities Fund
+chatgpt,S000033448,0.634726,0.00110413,0.0139992,Brookfield Global Listed Infrastructure Fund
+chatgpt,S000033458,0.633379,-0.000242227,0,First Trust North American Energy Infrastructure Fund
+chatgpt,S000034101,0.63833,0.00470861,1.96567,VOYA MULTI-MANAGER EMERGING MARKETS EQUITY FUND
+chatgpt,S000034155,0.631896,-0.00172556,0.465153,Global X Social Media ETF
+chatgpt,S000034411,0.668927,0.0353051,6.83139,VanEck Vectors Semiconductor ETF
+chatgpt,S000034689,0.63382,0.000198612,0.0605745,JNL/First State Global Infrastructure Fund
+chatgpt,S000035417,0.634061,0.000439749,0.0315217,Frontier MFG Core Infrastructure Fund
+chatgpt,S000037231,0.63392,0.000298374,0.00749192,Salient MLP & Energy Infrastructure Fund
+chatgpt,S000037318,0.631638,-0.00198345,0,ProShares Merger ETF
+chatgpt,S000037378,0.63358,-4.16364e-05,0.780315,Blue Chip Fund
+chatgpt,S000037667,0.634452,0.000830255,0.0303179,Multi-Manager Global Listed Infrastructure Fund
+chatgpt,S000039554,0.633638,1.64396e-05,1.01433,Riverbridge Growth Fund
+chatgpt,S000039723,0.633788,0.000166616,0,CITY NATIONAL ROCHDALE FIXED INCOME OPPORTUNITIES FUND
+chatgpt,S000040076,0.63317,-0.000451536,0,Global X MLP and Energy Infrastructure ETF
+chatgpt,S000040181,0.631993,-0.00162862,0.0998525,ProShares DJ Brookfield Global Infrastructure ETF
+chatgpt,S000040184,0.635185,0.00156294,0,Goldman Sachs MLP Energy Infrastructure Fund
+chatgpt,S000040336,0.633253,-0.000369051,0,ALPS | Alerian Energy Infrastructure Portfolio
+chatgpt,S000042071,0.632479,-0.00114274,0.115685,FlexShares STOXX Global Broad Infrastructure Index Fund
+chatgpt,S000042106,0.630162,-0.00345948,0.0563981,PGIM Jennison Global Infrastructure Fund
+chatgpt,S000042624,0.638992,0.00536993,2.12364,Fidelity Series Blue Chip Growth Fund
+chatgpt,S000042659,0.634654,0.00103263,1.59964,ROBO Global Robotics and Automation Index ETF
+chatgpt,S000042676,0.629971,-0.0036506,0,Alerian Energy Infrastructure ETF
+chatgpt,S000042975,0.63428,0.000658429,0,ARK Genomic Revolution ETF
+chatgpt,S000042976,0.634134,0.000511962,1.1798,ARK Autonomous Technology & Robotics ETF
+chatgpt,S000042977,0.631419,-0.002203,0.594657,ARK Innovation ETF
+chatgpt,S000042978,0.634273,0.000651347,0.526594,ARK Next Generation Internet ETF
+chatgpt,S000043448,0.632652,-0.000969997,0.132359,Infrastructure Fund
+chatgpt,S000043472,0.633518,-0.000104076,0.0992733,Global Infrastructure Portfolio
+chatgpt,S000045037,0.633522,-9.95896e-05,0.207107,Invesco Global Infrastructure Fund
+chatgpt,S000045768,0.635055,0.00143365,0,Mainstay Cushing MLP Premier Fund
+chatgpt,S000045781,0.633311,-0.000310393,0,Catalyst MLP & Infrastructure
+chatgpt,S000045922,0.66699,0.0333685,0.741137,Catalyst Systematic Alpha Fund
+chatgpt,S000046275,0.633284,-0.000337914,0,ProShares MSCI Europe Dividend Growers ETF
+chatgpt,S000046713,0.633889,0.000267066,0.572957,Evercore Equity Fund
+chatgpt,S000047227,0.643426,0.00980391,0,iShares MSCI Russia ETF
+chatgpt,S000047480,0.633733,0.000111137,0.395934,ETFMG Prime Cyber Security ETF
+chatgpt,S000047509,0.631853,-0.00176829,0.654338,SPDR MSCI ACWI Low Carbon Target ETF
+chatgpt,S000047644,0.633614,-7.53329e-06,0.688864,iShares MSCI ACWI Low Carbon Target ETF
+chatgpt,S000048311,0.633431,-0.000190448,0.899057,iShares Exponential Technologies ETF
+chatgpt,S000048680,0.634715,0.0010938,0,AlphaCentric Income Opportunities Fund
+chatgpt,S000049057,0.633166,-0.000455598,0.0493636,MainStay VP CBRE Global Infrastructure Portfolio
+chatgpt,S000049685,0.631551,-0.00207086,0,Global X YieldCo & Renewable Energy Income ETF
+chatgpt,S000050053,0.635781,0.00215907,0,PGIM Strategic Bond Fund
+chatgpt,S000050280,0.633713,9.18293e-05,0.874984,TIAA-CREF Social Choice Low Carbon Equity Fund
+chatgpt,S000050381,0.634895,0.00127379,0,Horizon Active Asset Allocation Fund
+chatgpt,S000050385,0.633423,-0.000198857,0.358107,First Trust Nasdaq Cybersecurity ETF
+chatgpt,S000050577,0.632929,-0.000692973,0.117062,Goldman Sachs Global Infrastructure Fund
+chatgpt,S000051248,0.628982,-0.00463936,0.498611,Counterpoint Tactical Equity Fund
+chatgpt,S000051348,0.634112,0.000490119,0.357289,Etho Climate Leadership U.S. ETF
+chatgpt,S000051577,0.633783,0.000161213,0.606494,SPDR FactSet Innovative Technology ETF
+chatgpt,S000052299,0.632725,-0.000896201,1.44239,ARK Israel Innovative Technology ETF
+chatgpt,S000053012,0.635313,0.00169102,0.228975,Hartford Climate Opportunities Fund
+chatgpt,S000053331,0.627291,-0.00633104,0,ClearBridge Global Infrastructure Income Fund
+chatgpt,S000053947,0.608399,-0.0252223,3.22407,First Trust Nasdaq Semiconductor ETF
+chatgpt,S000054162,0.63699,0.00336851,0,Global X Longevity Thematic ETF
+chatgpt,S000054163,0.633414,-0.000207273,0.0324647,Global X Millennials Thematic ETF
+chatgpt,S000054611,0.634422,0.000800081,0.0191481,Principal Healthcare Innovators Index ETF
+chatgpt,S000054612,0.633581,-4.11348e-05,0.127681,Principal Millennials Index ETF
+chatgpt,S000054690,0.634839,0.00121768,0,Global X Education ETF
+chatgpt,S000054693,0.627072,-0.00654942,6.99057,Global X Robotics & Artificial Intelligence ETF
+chatgpt,S000055251,0.633841,0.000218836,0.0412543,Centre Global Infrastructure Fund
+chatgpt,S000055315,0.634316,0.000694269,0.563735,Shelton International Select Equity Fund
+chatgpt,S000055902,0.633619,-2.29491e-06,0,Legg Mason Global Infrastructure ETF
+chatgpt,S000056070,0.632381,-0.00124045,0.327676,AmericaFirst Large Cap Share Buyback Fund
+chatgpt,S000056147,0.634241,0.000619553,0.688502,American Beacon ARK Transformational Innovation Fund
+chatgpt,S000056225,0.631252,-0.00236974,0.100411,Ecofin Global Water ESG Fund
+chatgpt,S000056509,0.637967,0.00434487,0.135302,Global X U.S. Infrastructure Development ETF
+chatgpt,S000056566,0.637168,0.00354598,0.0654951,First Sentier Global Listed Infrastructure Fund
+chatgpt,S000056665,0.63387,0.000248478,0.588057,Artisan Focus Fund
+chatgpt,S000056707,0.633242,-0.000379625,0.0437055,GMO Climate Change Fund
+chatgpt,S000056729,0.633455,-0.000166405,0.708336,AB FlexFee US Thematic Portfolio
+chatgpt,S000057040,0.633186,-0.000435337,0.926739,Virtus Zevenbergen Innovative Growth Stock Fund
+chatgpt,S000057284,0.632518,-0.00110337,2.05417,Fidelity Blue Chip Growth K6 Fund
+chatgpt,S000057714,0.634386,0.000764695,1.77443,AlphaCentric Robotics and Automation Fund
+chatgpt,S000058010,0.631297,-0.00232454,0.318132,WisdomTree U.S. Multifactor Fund
+chatgpt,S000058209,0.631825,-0.00179656,0,Cambria Cannabis ETF
+chatgpt,S000058619,0.635879,0.00225697,0.284429,AI Powered Equity ETF
+chatgpt,S000058637,0.633865,0.000243676,1.6375,TCW Artificial Intelligence Equity Fund
+chatgpt,S000059203,0.633866,0.000243912,0.540555,SA Goldman Sachs Multi-Asset Insights Portfolio
+chatgpt,S000059371,0.638439,0.00481751,0,Recurrent MLP & Energy Infrastructure Fund
+chatgpt,S000059420,0.635565,0.00194381,1.0722,ERSHARES ENTREPRENEURS ETF
+chatgpt,S000059505,0.633622,0,0,Franklin FTSE Russia ETF
+chatgpt,S000059604,0.631159,-0.00246233,0.248293,First Trust SMID Cap Rising Dividend Achievers ETF
+chatgpt,S000059737,0.634159,0.000537167,0.193575,Cushing NextGen Infrastructure Fund
+chatgpt,S000060186,0.632956,-0.000666134,1.10715,ALPS Disruptive Technologies ETF
+chatgpt,S000060819,0.634003,0.000381435,0.0526003,Invesco S&P Global Water Index ETF
+chatgpt,S000060822,0.634734,0.0011119,0.0398317,Invesco Solar ETF
+chatgpt,S000061165,0.63192,-0.00170122,0.167879,KraneShares Electric Vehicles and Future Mobility Index ETF
+chatgpt,S000061191,0.632942,-0.000679174,0.525301,Capital Link NextGen Protocol ETF
+chatgpt,S000061192,0.633325,-0.000296621,1.66196,Capital Link NextGen Vehicles & Technology ETF
+chatgpt,S000061213,0.634153,0.000531343,0.945586,First Trust Indxx Innovative Transaction & Process ETF
+chatgpt,S000061254,0.633581,-4.10662e-05,0.00529992,iShares Evolved U.S. Consumer Staples ETF
+chatgpt,S000061255,0.632955,-0.000666239,0.182847,iShares Evolved U.S. Discretionary Spending ETF
+chatgpt,S000061256,0.633149,-0.000472829,0.0346205,iShares Evolved U.S. Financials ETF
+chatgpt,S000061257,0.633645,2.33279e-05,0.00558705,iShares Evolved U.S. Healthcare Staples ETF
+chatgpt,S000061258,0.633569,-5.28467e-05,0.00318099,iShares Evolved U.S. Innovative Healthcare ETF
+chatgpt,S000061259,0.633447,-0.000174556,0,iShares Evolved U.S. Media and Entertainment ETF
+chatgpt,S000061260,0.63567,0.0020479,2.13927,iShares Evolved U.S. Technology ETF
+chatgpt,S000061314,0.632838,-0.000783699,0.0581966,iShares U.S. Infrastructure ETF
+chatgpt,S000061316,0.608219,-0.0254031,5.61086,First Trust Nasdaq Artificial Intelligence and Robotics ETF
+chatgpt,S000061326,0.622613,-0.0110086,2.65494,Global X Future Analytics Tech ETF
+chatgpt,S000061377,0.633403,-0.00021908,0.775735,Goldman Sachs JUST U.S. Large Cap Equity ETF
+chatgpt,S000061415,0.640924,0.00730256,3.05083,Global X Autonomous & Electric Vehicles ETF
+chatgpt,S000061518,0.634063,0.000441155,0.0719536,Aberdeen Global Infrastructure Fund
+chatgpt,S000061573,0.637295,0.00367307,1.143,Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF
+chatgpt,S000061584,0.634077,0.000455471,0.696956,Procure Space ETF
+chatgpt,S000061920,0.633384,-0.000237177,0.204367,Amplify Lithium & Battery Technology ETF
+chatgpt,S000062009,0.633724,0.000101962,0.780882,Templeton International - Climate Change Fund
+chatgpt,S000062057,0.633332,-0.000290041,0.632169,AI Powered International Equity ETF
+chatgpt,S000062201,0.630957,-0.00266493,1.86151,iShares Robotics and Artificial Intelligence Multisector ETF
+chatgpt,S000062205,0.632197,-0.0014245,0.17254,ALPS Clean Energy ETF
+chatgpt,S000062244,0.633666,4.43781e-05,1.08503,Innovator Loup Frontier Tech ETF
+chatgpt,S000062285,0.632878,-0.000743962,0.0576385,Frontier MFG Select Infrastructure Fund
+chatgpt,S000062360,0.63296,-0.000661874,0.82809,BlackRock High Yield Bond Portfolio
+chatgpt,S000062478,0.627337,-0.00628452,3.1357,Defiance Quantum ETF
+chatgpt,S000062674,0.643625,0.0100036,0.120335,Global X E-commerce ETF
+chatgpt,S000062676,0.625641,-0.00798052,0,Global X Genomics & Biotechnology ETF
+chatgpt,S000062930,0.634704,0.00108268,2.50125,VanEck Vectors Video Gaming and eSports ETF
+chatgpt,S000063057,0.63332,-0.000301195,0.260322,Innovator IBD(R) Breakout Opportunities ETF
+chatgpt,S000063362,0.633135,-0.000486282,1.00145,SPDR S&P Kensho New Economies Composite ETF
+chatgpt,S000063520,0.635911,0.0022893,1.45798,iShares Self-Driving EV and Tech ETF
+chatgpt,S000063529,0.632443,-0.00117888,0.267525,Pinnacle TrendRating Innovative Equity Fund
+chatgpt,S000063662,0.634493,0.000871633,0.973914,Global Thematic Opportunities Fund
+chatgpt,S000063664,0.633209,-0.000412644,1.11089,"REYNDERS, MCVEIGH CORE EQUITY FUND"
+chatgpt,S000063752,0.634911,0.00128919,0,ERSHARES NEXTGEN ENTREPRENEURS ETF
+chatgpt,S000063769,0.633676,5.40842e-05,1.31024,US Vegan Climate ETF
+chatgpt,S000063813,0.634979,0.00135712,0.0530068,Mondrian Global Listed Infrastructure Fund
+chatgpt,S000063921,0.63735,0.00372804,0.408744,ALTA QUALITY GROWTH FUND
+chatgpt,S000064222,0.633645,2.36574e-05,0,Ecofin Digital Payments Infrastructure Fund
+chatgpt,S000064752,0.634394,0.00077238,0.226994,ARK Fintech Innovation ETF
+chatgpt,S000064804,0.635695,0.00207345,1.45579,Defiance Next Gen Connectivity ETF
+chatgpt,S000064815,0.633717,9.54751e-05,0,The Cannabis ETF
+chatgpt,S000064945,0.634108,0.000485848,0.743445,BlackRock U.S. Equity Factor Rotation ETF
+chatgpt,S000065014,0.640296,0.00667451,2.61657,iShares Cloud 5G and Tech ETF
+chatgpt,S000065015,0.634218,0.000596347,0.407683,iShares Cybersecurity and Tech ETF
+chatgpt,S000065228,0.632314,-0.00130804,0,AdvisorShares Pure Cannabis ETF
+chatgpt,S000065242,0.634258,0.000636368,0.342848,GUARDIAN DIVIDEND GROWTH FUND
+chatgpt,S000065293,0.63386,0.000238343,0,Roundhill BITKRAFT Esports & Digital Entertainment ETF
+chatgpt,S000065355,0.633388,-0.000233502,0.665258,LVIP BlackRock Global Allocation Fund
+chatgpt,S000065357,0.636549,0.00292732,0.455524,QRAFT AI-Enhanced U.S. Large Cap ETF
+chatgpt,S000065358,0.640181,0.0065591,0.06682,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
+chatgpt,S000065471,0.634789,0.00116711,0.163009,AGFiQ Global Infrastructure ETF
+chatgpt,S000065599,0.633178,-0.000443353,0,iShares Genomics Immunology and Healthcare ETF
+chatgpt,S000065729,0.602899,-0.0307231,4.06367,ROBO Global Artificial Intelligence ETF
+chatgpt,S000066020,0.631843,-0.00177917,0.062835,AlphaCentric Symmetry Strategy Fund
+chatgpt,S000066179,0.63378,0.000157917,0,First Trust EIP Carbon Impact ETF
+chatgpt,S000066435,0.63303,-0.000591798,0.987666,ProShares S&P Technology Dividend Aristocrats ETF
+chatgpt,S000066518,0.627383,-0.00623888,0,Global X Video Games & Esports ETF
+chatgpt,S000066527,0.623079,-0.0105426,0,Global X Thematic Growth ETF
+chatgpt,S000066713,0.629866,-0.00375536,0,Global X Cybersecurity ETF
+chatgpt,S000066805,0.635627,0.00200566,0.0817541,Fidelity Infrastructure Fund
+chatgpt,S000066936,0.63187,-0.0017518,0.38,VOYA MID CAP RESEARCH ENHANCED INDEX FUND
+chatgpt,S000066937,0.632228,-0.0013938,0.328242,VOYA SMALL COMPANY FUND
+chatgpt,S000066948,0.634192,0.00057001,0,AdvisorShares Pure US Cannabis ETF
+chatgpt,S000067182,0.633428,-0.000193188,0.112433,Qraft AI-Enhanced U.S. High Dividend ETF
+chatgpt,S000067234,0.634381,0.00075929,1.73026,iShares U.S. Tech Breakthrough Multisector ETF
+chatgpt,S000067318,0.625641,-0.00798074,0.0356094,MainStay CBRE Global Infrastructure Fund
+chatgpt,S000067392,0.634511,0.000889017,0.114739,Franklin Disruptive Commerce ETF
+chatgpt,S000067393,0.635587,0.00196541,0.103021,Franklin Genomic Advancements ETF
+chatgpt,S000067394,0.62577,-0.00785192,2.50691,Franklin Intelligent Machines ETF
+chatgpt,S000067904,0.634526,0.000904468,0.0197673,ICON Natural Resources and Infrastructure Fund
+chatgpt,S000067906,0.630718,-0.00290384,2.04078,Shelton Emerging Markets Fund
+chatgpt,S000067931,0.633482,-0.000140101,1.78836,Fidelity Disruptive Automation Fund
+chatgpt,S000067932,0.6339,0.000278163,0.959809,Fidelity Disruptive Communications Fund
+chatgpt,S000067933,0.635194,0.00157257,0,Fidelity Disruptive Finance Fund
+chatgpt,S000067934,0.634162,0.00053986,0,Fidelity Disruptive Medicine Fund
+chatgpt,S000067935,0.633509,-0.000112996,1.8786,Fidelity Disruptive Technology Fund
+chatgpt,S000067937,0.634095,0.000473723,0.229641,Fidelity Water Sustainability Fund
+chatgpt,S000068068,0.632115,-0.00150636,2.39908,"TrueShares Technology, AI & Deep Learning ETF"
+chatgpt,S000068069,0.634482,0.000859892,0.724241,TrueShares ESG Active Opportunities ETF
+chatgpt,S000068173,0.627754,-0.00586779,2.15394,Fidelity Blue Chip Growth ETF
+chatgpt,S000068175,0.625626,-0.00799532,0.136772,Fidelity Blue Chip Value ETF
+chatgpt,S000068488,0.63564,0.00201858,0,VOYA TARGET RETIREMENT 2065 FUND
+chatgpt,S000068511,0.631022,-0.00259933,0,Kayne Anderson Renewable Infrastructure Fund
+chatgpt,S000068536,0.631856,-0.00176592,0,Goldman Sachs Clean Energy Income Fund
+chatgpt,S000068597,0.633745,0.000122941,1.47748,Goldman Sachs Innovate Equity ETF
+chatgpt,S000068601,0.640618,0.00699676,1.65437,Polar Capital Emerging Market Stars Fund
+chatgpt,S000068603,0.63256,-0.00106182,1.06075,Roundhill Sports Betting & iGaming ETF
+chatgpt,S000068856,0.633395,-0.000227038,0.679203,Direxion Work From Home ETF
+chatgpt,S000068960,0.630491,-0.00313053,1.16822,Natixis Vaughan Nelson Select ETF
+chatgpt,S000069038,0.632525,-0.00109619,1.51464,Gabelli Growth Innovators ETF
+chatgpt,S000069044,0.633964,0.000342071,0.126151,Gabelli Asset ETF
+chatgpt,S000069056,0.618803,-0.0148188,0,Global X Telemedicine & Digital Health ETF
+chatgpt,S000069084,0.63286,-0.000761386,0,Ecofin Global Renewables Infrastructure Fund
+chatgpt,S000069191,0.636117,0.00249566,0.751115,JPMorgan Carbon Transition U.S. Equity ETF
+chatgpt,S000069262,0.63526,0.00163789,1.53767,BlackRock Future Innovators ETF
+chatgpt,S000069290,0.749637,0.116015,12.3787,Direxion Moonshot Innovator ETF
+chatgpt,S000069356,0.633683,6.11247e-05,0.484015,Pacer Salt High truBetaTM US Market ETF
+chatgpt,S000069357,0.633618,-3.82698e-06,0.0869928,Pacer Salt Low truBetaTM US Market ETF
+chatgpt,S000069399,0.631807,-0.0018143,0.579919,EVOLUTIONARY TREE INNOVATORS FUND
+chatgpt,S000069449,0.633277,-0.000344275,0.371441,Invesco NASDAQ Next Gen 100 ETF
+chatgpt,S000069656,0.634114,0.000492665,0.879693,CCT Thematic Equity Fund
+chatgpt,S000069709,0.646659,0.0130372,2.85648,Global X Data Center REITs & Digital Infrastructure ETF
+chatgpt,S000069834,0.631551,-0.00207067,0.895599,ProShares MSCI Transformational Changes ETF
+chatgpt,S000069939,0.632587,-0.00103484,0.670967,TrimTabs Donoghue Forlines Risk Managed Innovation ETF
+chatgpt,S000069943,0.634381,0.00075912,0.134813,First Sentier American Listed Infrastructure Fund
+chatgpt,S000069970,0.631226,-0.00239519,0.0434348,QRAFT AI-Enhanced U.S. Next Value ETF
+chatgpt,S000070130,0.632465,-0.00115617,0.377395,Simplify Volt Cloud and Cybersecurity Disruption ETF
+chatgpt,S000070131,0.633638,1.63287e-05,12.7966,Simplify Volt Fintech Disruption ETF
+chatgpt,S000070132,0.633612,-9.5567e-06,1.01173,Simplify Volt Pop Culture Disruption ETF
+chatgpt,S000070133,0.63215,-0.00147135,2.55151,Simplify Volt RoboCar Disruption And Tech ETF
+chatgpt,S000070249,0.632636,-0.000986036,0.757611,Blue Chip Account
+chatgpt,S000070264,0.633416,-0.000205781,0.720299,Lord Abbett Mid Cap Innovation Growth Fund
+chatgpt,S000070329,0.633319,-0.000302617,1.25329,Mirova U.S. Sustainable Equity Fund
+chatgpt,S000070439,0.635897,0.00227491,0.854014,Franklin Exponential Data ETF
+chatgpt,S000070451,0.647894,0.0142726,0,Main Thematic Innovation ETF
+chatgpt,S000070495,0.633891,0.000269513,0.146401,WisdomTree Cybersecurity Fund
+chatgpt,S000070562,0.631677,-0.00194471,0.405759,Parvin Hedged Equity Solari World Fund
+chatgpt,S000070646,0.630134,-0.00348787,0.48835,AdvisorShares Alpha DNA Equity Sentiment ETF
+chatgpt,S000070816,0.634287,0.000664888,0.187302,Global X China Disruption ETF
+chatgpt,S000070925,0.63355,-7.20454e-05,0.05769,Stance Equity ESG Large Cap Core ETF
+chatgpt,S000071020,0.631805,-0.00181711,1.71175,Direxion Daily Select Large Caps & FANGs Bull 2X Shares
+chatgpt,S000071119,0.633955,0.000333313,0.465774,JNL Mid Cap Index Fund
+chatgpt,S000071206,0.633351,-0.000270681,0.246204,Defiance Next Gen H2 ETF
+chatgpt,S000071250,0.632693,-0.000928222,0.0854117,Formidable Fortress ETF
+chatgpt,S000071278,0.635784,0.00216258,0.247012,Direxion Hydrogen ETF
+chatgpt,S000071281,0.633297,-0.00032446,0.77596,BlackRock U.S. Carbon Transition Readiness ETF
+chatgpt,S000071282,0.633912,0.000290384,0.0590729,BlackRock World ex U.S. Carbon Transition Readiness ETF
+chatgpt,S000071318,0.634599,0.000977528,0.195196,ARK Space Exploration ETF
+chatgpt,S000071326,0.63835,0.0047279,0,Global X Clean Water ETF
+chatgpt,S000071591,0.635329,0.0017072,0.512257,Bitwise Crypto Industry Innovators ETF
+chatgpt,S000071674,0.631293,-0.00232819,0,AlphaCentric Strategic Income Fund
+chatgpt,S000071847,0.633005,-0.000616833,1.16305,First Trust Innovation Leaders ETF
+chatgpt,S000071853,0.633079,-0.000542524,1.07993,First Trust S-Network Streaming & Gaming ETF
+chatgpt,S000072008,0.632353,-0.00126878,1.14211,Defiance Next Gen Big Data ETF
+chatgpt,S000072048,0.633384,-0.000237659,0.129116,iClima Global Decarbonization Transition Leaders ETF
+chatgpt,S000072049,0.643546,0.00992449,1.79373,iClima Distributed Renewable Energy Transition Leaders ETF
+chatgpt,S000072079,0.632893,-0.000728329,1.53518,Direxion Daily 5G Communications Bull 2X Shares
+chatgpt,S000072128,0.633486,-0.000135265,0.760354,Fidelity Climate Action Fund
+chatgpt,S000072137,0.633665,4.32191e-05,0.0913847,Rockefeller Climate Solutions Fund
+chatgpt,S000072155,0.634246,0.000624572,0.767987,AI Quality Growth ETF
+chatgpt,S000072157,0.633875,0.000253392,0,RH Tactical Rotation ETF
+chatgpt,S000072191,0.631723,-0.00189915,0.109473,WisdomTree Battery Value Chain and Innovation Fund
+chatgpt,S000072321,0.644089,0.0104672,3.11507,Roundhill Ball Metaverse ETF
+chatgpt,S000072327,0.628243,-0.0053787,0,Global X AgTech & Food Innovation ETF
+chatgpt,S000072329,0.624006,-0.00961557,0.973096,Global X Blockchain ETF
+chatgpt,S000072330,0.632605,-0.00101619,0.248185,Global X Hydrogen ETF
+chatgpt,S000072413,0.634828,0.00120637,0.0216597,BlackRock Future Climate and Sustainable Economy ETF
+chatgpt,S000072458,0.634753,0.00113135,0.121679,Engine No. 1 Transform Climate ETF
+chatgpt,S000072470,0.649231,0.0156095,5.2978,Invesco PHLX Semiconductor ETF
+chatgpt,S000072472,0.636941,0.00331971,1.6649,Amplify Thematic All-Stars ETF
+chatgpt,S000072510,0.63624,0.00261874,0.0795448,Virtus Duff & Phelps Clean Energy ETF
+chatgpt,S000072630,0.624313,-0.00930834,0,PSYK ETF
+chatgpt,S000072639,0.627499,-0.00612257,2.91007,Spear Alpha ETF
+chatgpt,S000072699,0.631089,-0.00253217,0.0319447,Global X Solar ETF
+chatgpt,S000072700,0.640143,0.0065217,0,Global X Wind Energy ETF
+chatgpt,S000072818,0.6276,-0.00602181,0.283657,Goldman Sachs Future Real Estate and Infrastructure Equity ETF
+chatgpt,S000072822,0.63149,-0.00213129,0.323914,Volt Bitcoin Revolution ETF
+chatgpt,S000072836,0.633726,0.000104764,0.883098,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF
+chatgpt,S000072837,0.634225,0.000603287,0.461229,Invesco Alerian Galaxy Crypto Economy ETF
+chatgpt,S000073014,0.632962,-0.000659684,0.45399,Invesco ESG Nasdaq NextGen 100 ETF
+chatgpt,S000073358,0.632753,-0.000869135,0.825847,FlexShares ESG & Climate US Large Cap Core Index Fund
+chatgpt,S000073359,0.629689,-0.00393233,0.046051,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund
+chatgpt,S000073360,0.634676,0.00105466,2.40563,FlexShares ESG & Climate Emerging Markets Core Index Fund
+chatgpt,S000073416,0.631876,-0.00174565,0.402686,ProShares Smart Materials ETF
+chatgpt,S000073417,0.633275,-0.000346451,5.88851,ProShares S&P Kensho Smart Factories ETF
+chatgpt,S000073419,0.636061,0.00243939,0.185448,ProShares S&P Kensho Cleantech ETF
+chatgpt,S000073421,0.630817,-0.00280452,3.05859,ProShares Nanotechnology ETF
+chatgpt,S000073441,0.630764,-0.00285774,0.325701,First Trust SkyBridge Crypto Industry and Digital Economy ETF
+chatgpt,S000073490,0.634492,0.000869963,0.138385,BlackRock Infrastructure Sustainable Opportunities Fund
+chatgpt,S000073580,0.631912,-0.00170995,0.977743,Harbor Disruptive Innovation ETF
+chatgpt,S000073589,0.628249,-0.00537291,0.227772,Direxion Daily US Infrastructure Bull 2X Shares
+chatgpt,S000073597,0.627141,-0.00648109,0.0770433,Fidelity Clean Energy ETF
+chatgpt,S000073598,0.634399,0.000777361,2.82941,Fidelity Cloud Computing ETF
+chatgpt,S000073599,0.632735,-0.000886996,0,Fidelity Digital Health ETF
+chatgpt,S000073600,0.644268,0.0106463,3.71898,Fidelity Electric Vehicles and Future Transportation ETF
+chatgpt,S000073613,0.63369,6.8291e-05,0,ETFMG Breakwave Sea Decarbonization Tech ETF
+chatgpt,S000073655,0.63138,-0.00224136,0,Brookfield Global Renewables & Sustainable Infrastructure Fund
+chatgpt,S000073679,0.638201,0.00457906,0,Innovator Laddered Fund of U.S. Equity Power Buffer ETFs
+chatgpt,S000073733,0.632755,-0.000866488,0.794015,Sphere 500 Fossil Free Fund
+chatgpt,S000073809,0.630694,-0.00292721,0.317205,Strategy Shares Halt Climate Change ETF
+chatgpt,S000073824,0.622027,-0.0115951,0.157382,Fount Metaverse ETF
+chatgpt,S000073825,0.634486,0.000863858,1.03263,Fount Subscription Economy ETF
+chatgpt,S000073897,0.633364,-0.000258157,0.883695,Impact Shares MSCI Global Climate Select ETF
+chatgpt,S000073924,0.63097,-0.00265173,0.825597,Roundhill IO Digital Infrastructure ETF
+chatgpt,S000074011,0.630695,-0.00292641,0.652946,Direxion Nanotechnology ETF
+chatgpt,S000074070,0.633136,-0.000485264,0,IDX Risk-Managed Bitcoin Strategy Fund
+chatgpt,S000074074,0.632864,-0.000757259,0,AdvisorShares Poseidon Dynamic Cannabis ETF
+chatgpt,S000074090,0.632525,-0.00109633,0,Roundhill Cannabis ETF
+chatgpt,S000074231,0.630636,-0.00298603,0,Build Bond Innovation ETF
+chatgpt,S000074300,0.633698,7.63105e-05,0,iBET Sports Betting & Gaming ETF
+chatgpt,S000074411,0.629604,-0.00401778,1.45431,UBC Algorithmic Fundamentals ETF
+chatgpt,S000074466,0.595137,-0.0384849,5.45102,WisdomTree Artificial Intelligence and Innovation Fund
+chatgpt,S000074528,0.637739,0.0041169,0.0987518,Goldman Sachs Bloomberg Clean Energy Equity ETF
+chatgpt,S000074569,0.633534,-8.80629e-05,0.835538,Blackrock Future U.S. Themes ETF
+chatgpt,S000074628,0.633849,0.000227114,0.709454,EQ/AB Sustainable U.S. Thematic Portfolio
+chatgpt,S000074754,0.6344,0.000777993,0.637871,Rayliant Quantitative Developed Market Equity ETF
+chatgpt,S000074757,0.63254,-0.00108176,0.86141,iShares Paris-Aligned Climate MSCI USA ETF
+chatgpt,S000074761,0.628763,-0.00485915,1.31254,CLOCKWISE CAPITAL INNOVATION ETF
+chatgpt,S000074799,0.635119,0.00149751,0.832902,Baillie Gifford Health Innovation Equities Fund
+chatgpt,S000074852,0.633625,3.47976e-06,1.91119,Subversive Metaverse ETF
+chatgpt,S000074863,0.626041,-0.00758055,0.00850739,UPAR Ultra Risk Parity ETF
+chatgpt,S000075052,0.64097,0.00734833,1.35906,Valkyrie Bitcoin Miners ETF
+chatgpt,S000075078,0.623763,-0.0098587,0.284653,Strategas Macro Thematic Opportunities ETF
+chatgpt,S000075085,0.630849,-0.00277309,0.644522,AdvisorShares Let Bob AI Powered Momentum ETF
+chatgpt,S000075110,0.633876,0.000254706,0.082714,Ecofin Sustainable Water Fund
+chatgpt,S000075316,0.627297,-0.00632497,0,Home Appreciation U.S. REIT ETF
+chatgpt,S000075328,0.631429,-0.00219303,0.110918,VanEck Digital Assets Mining ETF
+chatgpt,S000075360,0.631663,-0.00195825,1.89941,First Trust Indxx Metaverse ETF
+chatgpt,S000075395,0.639946,0.00632454,0.0497286,Neuberger Berman Carbon Transition & Infrastructure ETF
+chatgpt,S000075396,0.630941,-0.00268078,1.26449,Neuberger Berman Disrupters ETF
+chatgpt,S000075397,0.633419,-0.000203107,0,Neuberger Berman Next Generation Connected Consumer ETF
+chatgpt,S000075429,0.63309,-0.000532091,0.788029,JNL/AB Sustainable Global Thematic Fund
+chatgpt,S000075443,0.632772,-0.000849826,1.03844,FS Chiron Real Asset Fund
+chatgpt,S000075502,0.633964,0.000341863,3.72738,Columbia Seligman Semiconductor and Technology ETF
+chatgpt,S000075539,0.634078,0.000455854,0.055694,KraneShares Global Carbon Transformation ETF
+chatgpt,S000075552,0.640456,0.00683471,3.10988,ProShares Metaverse ETF
+chatgpt,S000075577,0.631694,-0.00192774,0,Kensington Active Advantage Fund
+chatgpt,S000075638,0.633672,5.01621e-05,0.895201,NVIT J.P. Morgan Innovators Fund
+chatgpt,S000075811,0.632785,-0.000836961,1.25563,iShares Blockchain and Tech ETF
+chatgpt,S000075902,0.631406,-0.00221535,0,Fidelity Crypto Industry and Digital Payments ETF
+chatgpt,S000075903,0.634209,0.000587031,1.5902,Fidelity Metaverse ETF
+chatgpt,S000075995,0.633544,-7.72155e-05,2.24309,Global X Metaverse ETF
+chatgpt,S000076007,0.632791,-0.000830329,0.879465,SPDR MSCI USA Climate Paris Aligned ETF
+chatgpt,S000076256,0.632623,-0.000999148,1.535,V-Shares MSCI World ESG Materiality and Carbon Transition ETF
+chatgpt,S000076371,0.63352,-0.000101514,0.69086,Schwab Crypto Thematic ETF
+chatgpt,S000076633,0.63281,-0.000812094,7.70592,SoFi Web 3 ETF
+chatgpt,S000076756,0.619069,-0.0145525,0.0971686,Matthews Asia Innovators Active ETF
+chatgpt,S000076848,0.636973,0.00335171,0.141462,Horizon Kinetics Blockchain Development ETF
+deepseek,S000000689,-0.131909,-0.000279341,0.707729,Harbor Small Cap Value Fund
+deepseek,S000000865,-0.131776,-0.000146371,7.07814,Reynolds Blue Chip Growth Fund
+deepseek,S000001034,-0.131334,0.00029621,0.219012,Matthews Asia Innovators Fund
+deepseek,S000001067,-0.131817,-0.000186497,0.536984,Gabelli Global Content & Connectivity Fund
+deepseek,S000001227,-0.131487,0.000143502,0.051658,Cohen & Steers Global Infrastructure Fund Inc.
+deepseek,S000001552,-0.131703,-7.26368e-05,0,AVE MARIA BOND FUND
+deepseek,S000002069,-0.131966,-0.000335915,9.25129,"T. Rowe Price Blue Chip Growth Fund, Inc."
+deepseek,S000002081,-0.131907,-0.000277194,9.09789,T. Rowe Price Blue Chip Growth Portfolio
+deepseek,S000002813,-0.131809,-0.000179071,7.94457,LVIP Blended Large Cap Growth Managed Volatility Fund
+deepseek,S000003032,-0.131917,-0.000286525,9.44576,Invesco Dynamic Semiconductors ETF
+deepseek,S000003033,-0.130997,0.000633071,10.4321,Invesco Dynamic Software ETF
+deepseek,S000003039,-0.131725,-9.49817e-05,0.408488,Invesco Aerospace & Defense ETF
+deepseek,S000003048,-0.131804,-0.00017393,0.136128,Invesco Water Resources ETF
+deepseek,S000003053,-0.131167,0.000463098,0.399184,Invesco WilderHill Clean Energy ETF
+deepseek,S000003096,-0.138828,-0.00719787,44.3484,Semiconductor
+deepseek,S000003311,-0.132535,-0.000904799,9.1916,Blue Chip Growth Fund
+deepseek,S000003579,-0.131703,-7.31757e-05,0,THE HARTFORD GROWTH ALLOCATION FUND
+deepseek,S000003604,-0.131622,7.72256e-06,4.95838,THE HARTFORD CAPITAL APPRECIATION FUND
+deepseek,S000003658,-0.130921,0.000709182,8.13921,MassMutual Select Blue Chip Growth Fund
+deepseek,S000003978,-0.134502,-0.0028722,43.1753,ProFund VP Semiconductor
+deepseek,S000004354,-0.131732,-0.000101465,13.5009,iShares PHLX Semiconductor ETF
+deepseek,S000004544,-0.131543,8.73039e-05,5.2131,PAYSON TOTAL RETURN FUND
+deepseek,S000004808,-0.131692,-6.21775e-05,0.214335,Blue Chip Investor Fund
+deepseek,S000005026,-0.131641,-1.11313e-05,0.0950769,Ariel Focus Fund
+deepseek,S000005327,-0.134929,-0.00329878,28.7023,Fidelity Advisor Semiconductors Fund
+deepseek,S000005541,-0.131602,2.83127e-05,3.245,PRIMECAP Odyssey Aggressive Growth Fund
+deepseek,S000005895,-0.131557,7.3264e-05,3.88839,Guinness Atkinson Global Innovators Fund
+deepseek,S000006103,-0.131748,-0.000118326,0.024416,DWS Health and Wellness Fund
+deepseek,S000006221,-0.131672,-4.14837e-05,5.17334,DWS Equity 500 Index VIP
+deepseek,S000006223,-0.131732,-0.00010175,1.09017,DWS Small Cap Index VIP
+deepseek,S000006245,-0.131691,-6.04541e-05,8.19854,DWS Capital Growth VIP
+deepseek,S000006246,-0.131704,-7.42031e-05,0.5035,DWS Global Small Cap VIP
+deepseek,S000006247,-0.131603,2.66747e-05,4.28185,DWS Core Equity VIP
+deepseek,S000006249,-0.131725,-9.45245e-05,0,DWS CROCI(R) International VIP
+deepseek,S000006255,-0.131659,-2.87422e-05,1.1164,DWS CROCI(R) U.S. VIP
+deepseek,S000006260,-0.131676,-4.63317e-05,1.13361,DWS Small Mid Cap Growth VIP
+deepseek,S000006265,-0.131609,2.13296e-05,4.70351,DWS Global Income Builder VIP
+deepseek,S000006269,-0.131734,-0.000104186,0.449665,DWS Small Mid Cap Value VIP
+deepseek,S000006276,-0.131614,1.59757e-05,2.40178,DWS International Growth VIP
+deepseek,S000006467,-0.131626,3.80993e-06,0.277334,Reaves Utilities and Energy Infrastructure Fund
+deepseek,S000007195,-0.132142,-0.000512254,11.0809,Fidelity Blue Chip Growth Fund
+deepseek,S000007196,-0.131855,-0.000225095,0.0406193,Fidelity Blue Chip Value Fund
+deepseek,S000007458,-0.135051,-0.00342047,29.6334,Select Semiconductors Portfolio
+deepseek,S000007980,-0.131626,4.23412e-06,8.4445,Virtus AllianzGI Technology Fund
+deepseek,S000008005,-0.13189,-0.000259697,8.75016,Blue Chip Growth Fund
+deepseek,S000008036,-0.131646,-1.55755e-05,0.717128,SA Multi-Managed Mid Cap Growth Portfolio
+deepseek,S000008037,-0.131656,-2.61722e-05,0.298995,SA Multi-Managed Mid Cap Value Portfolio
+deepseek,S000008047,-0.13159,3.97952e-05,1.05694,SA Columbia Focused Value Portfolio
+deepseek,S000008056,-0.13179,-0.000160296,5.57713,SA Multi-Managed Large Cap Growth Portfolio
+deepseek,S000008085,-0.132928,-0.00129807,9.68992,SA MFS Blue Chip Growth Portfolio
+deepseek,S000008098,-0.131696,-6.54484e-05,0,SA Morgan Stanley International Equities Portfolio
+deepseek,S000008199,-0.131635,-4.57735e-06,0.950028,Mid Cap Growth Portfolio
+deepseek,S000008201,-0.131825,-0.000195429,0.862847,Mid Cap Intrinsic Value Portfolio
+deepseek,S000008202,-0.131637,-6.49434e-06,1.0772,Sustainable Equity Portfolio
+deepseek,S000008217,-0.13191,-0.000280377,9.10317,Blue Chip Growth Trust
+deepseek,S000008640,-0.131654,-2.37195e-05,1.03823,VOYA SMALLCAP OPPORTUNITIES PORTFOLIO
+deepseek,S000008663,-0.131631,-1.01514e-06,3.92108,VOYA BALANCED PORTFOLIO
+deepseek,S000008703,-0.131654,-2.42642e-05,3.98928,VOYA GROWTH AND INCOME PORTFOLIO
+deepseek,S000008709,-0.131991,-0.00036059,0.542764,VOYA SMALL COMPANY PORTFOLIO
+deepseek,S000008794,-0.131631,-4.65013e-07,1.78661,Blue Chip Income and Growth Fund
+deepseek,S000009161,-0.131746,-0.000115807,1.63323,Alger Growth & Income Fund
+deepseek,S000009192,-0.131558,7.19569e-05,5.33566,Alger Global Focus Fund
+deepseek,S000009201,-0.133744,-0.00211419,10.729,Alger Focus Equity Fund
+deepseek,S000009202,-0.131638,-7.87236e-06,0.306245,Alger Small Cap Growth Institutional Fund
+deepseek,S000009204,-0.13307,-0.00143948,11.129,Alger Capital Appreciation Institutional Fund
+deepseek,S000009217,-0.131643,-1.25861e-05,1.72554,Alger Balanced Portfolio
+deepseek,S000009219,-0.131716,-8.61516e-05,10.3041,Alger Capital Appreciation Portfolio
+deepseek,S000009324,-0.13165,-2.02051e-05,5.43146,Goldman Sachs U.S. Equity Dividend and Premium Fund
+deepseek,S000009327,-0.131668,-3.78815e-05,5.35569,Goldman Sachs U.S. Equity Insights Fund
+deepseek,S000009352,-0.131619,1.09196e-05,4.78802,Goldman Sachs Variable Insurance Trust U.S. Equity Insights Fund
+deepseek,S000009355,-0.131677,-4.67095e-05,0.70059,Goldman Sachs Variable Insurance Trust Small Cap Equity Insights Fund
+deepseek,S000009359,-0.131643,-1.32113e-05,0.0436387,Goldman Sachs Variable Insurance Trust International Equity Insights Fund
+deepseek,S000010074,-0.131583,4.72517e-05,3.77103,"AB SUSTAINABLE GLOBAL THEMATIC FUND, INC."
+deepseek,S000010094,-0.131876,-0.00024585,0.0258094,AB SUSTAINABLE INTERNATIONAL THEMATIC FUND INC
+deepseek,S000010517,-0.131698,-6.7654e-05,2.41361,DCM/INNOVA HIGH DIVIDEND INCOME INNOVATION
+deepseek,S000011485,-0.131673,-4.3234e-05,9.10403,MML Blue Chip Growth Fund
+deepseek,S000012387,-0.131939,-0.00030895,0.17186,WisdomTree U.S. Dividend ex-Financials Fund
+deepseek,S000012389,-0.132069,-0.000439092,0.00710867,WisdomTree International Dividend ex-Financials Fund
+deepseek,S000014258,-0.136719,-0.00508905,43.4923,ProShares Ultra Semiconductors
+deepseek,S000015169,-0.131672,-4.20034e-05,0.425439,First Trust NASDAQ Clean Edge Green Energy Index Fund
+deepseek,S000015278,-0.131694,-6.41179e-05,0.097202,Invesco Global Water ETF
+deepseek,S000015279,-0.131222,0.000408388,0.0582236,Invesco Global Clean Energy ETF
+deepseek,S000016884,-0.131774,-0.000143748,0.131561,VanEck Vectors Low Carbon Energy ETF
+deepseek,S000017178,-0.131759,-0.000128716,0.0947523,First Trust Water ETF
+deepseek,S000018009,-0.131581,4.89985e-05,0.036323,Virtus Duff & Phelps Global Infrastructure Fund
+deepseek,S000019169,-0.131612,1.8315e-05,5.22179,Gateway Fund
+deepseek,S000019356,-0.131218,0.000412454,0.0979677,iShares Global Infrastructure ETF
+deepseek,S000019378,-0.13159,4.02025e-05,3.93089,AST J.P. Morgan Global Thematic Portfolio
+deepseek,S000019684,-0.131705,-7.53968e-05,0.323657,VOYA LARGE CAP VALUE FUND
+deepseek,S000020012,-0.131707,-7.6599e-05,0.180731,Nuveen Global Infrastructure Fund
+deepseek,S000020425,-0.131624,5.91861e-06,0,VanEck Vectors Gaming ETF
+deepseek,S000020601,-0.131934,-0.000303729,0.429967,Voya Global High Dividend Low Volatility Portfolio
+deepseek,S000021463,-0.131834,-0.00020391,0.0703413,Virtus AllianzGI Water Fund
+deepseek,S000022444,-0.131647,-1.72108e-05,0.057431,DWS RREEF Global Infrastructure Fund
+deepseek,S000022497,-0.131832,-0.000202148,0,iShares Emerging Markets Infrastructure ETF
+deepseek,S000022498,-0.131616,1.39841e-05,0.00792435,iShares Global Clean Energy ETF
+deepseek,S000022933,-0.131426,0.000203753,0.0298257,First Trust Global Wind Energy ETF
+deepseek,S000023653,-0.13177,-0.000139783,0,DWS Alternative Asset Allocation VIP
+deepseek,S000024182,-0.131692,-6.19732e-05,0.0980668,Calvert Global Water Fund
+deepseek,S000025133,-0.131636,-5.96048e-06,3.8011,LVIP Delaware Wealth Builder Fund
+deepseek,S000026009,-0.131773,-0.000143212,0,Emerging Markets Portfolio
+deepseek,S000026082,-0.131551,7.93743e-05,1.13332,Vaughan Nelson International Small Cap Fund
+deepseek,S000026226,-0.132201,-0.000570972,6.73744,Alger Dynamic Opportunities Fund
+deepseek,S000026282,-0.131884,-0.000253998,0,VOYA RETIREMENT MODERATE GROWTH PORTFOLIO
+deepseek,S000026919,-0.131422,0.000208564,2.48995,First Trust NASDAQ Clean Edge Smart Grid Infrastructure Index Fund
+deepseek,S000027245,-0.131475,0.000155519,0,Lazard Global Listed Infrastructure Portfolio
+deepseek,S000027920,-0.128085,0.00354465,14.3663,Direxion Daily Semiconductor Bull 3X Shares
+deepseek,S000029198,-0.1313,0.000330329,0.127817,Global Infrastructure Fund
+deepseek,S000029441,-0.131469,0.000160766,0.35442,Global X Lithium and Battery Tech ETF
+deepseek,S000029874,-0.131632,-1.80883e-06,0.108462,Global Infrastructure Portfolio
+deepseek,S000030113,-0.131813,-0.000182636,0.484689,Water Island Event-Driven Fund
+deepseek,S000030601,-0.132533,-0.000903186,0.0181931,VOYA MULTI-MANAGER INTERNATIONAL EQUITY FUND
+deepseek,S000030621,-0.131261,0.00036931,0.820058,PGIM US Real Estate Fund
+deepseek,S000030688,-0.131679,-4.91606e-05,0,Alger Emerging Markets Fund
+deepseek,S000031058,-0.131647,-1.68329e-05,0.00352737,MainGate MLP Fund
+deepseek,S000032019,-0.131639,-8.89401e-06,0.177208,DWS RREEF Real Assets Fund
+deepseek,S000032042,-0.131868,-0.000237805,0.435209,DWS Communications Fund
+deepseek,S000032044,-0.13161,1.98647e-05,0.521228,DWS RREEF Global Real Estate Securities Fund
+deepseek,S000032045,-0.131754,-0.000124399,0.48917,DWS RREEF Real Estate Securities Fund
+deepseek,S000033448,-0.132673,-0.00104285,0.0662157,Brookfield Global Listed Infrastructure Fund
+deepseek,S000033458,-0.131545,8.50612e-05,0.118161,First Trust North American Energy Infrastructure Fund
+deepseek,S000034101,-0.131821,-0.000190854,0.284801,VOYA MULTI-MANAGER EMERGING MARKETS EQUITY FUND
+deepseek,S000034155,-0.131372,0.000257631,0.457472,Global X Social Media ETF
+deepseek,S000034190,-0.129988,0.00164181,0,Global X Disruptive Materials ETF
+deepseek,S000034411,-0.134497,-0.0028668,25.1976,VanEck Vectors Semiconductor ETF
+deepseek,S000034689,-0.131604,2.65693e-05,0.082371,JNL/First State Global Infrastructure Fund
+deepseek,S000035417,-0.131804,-0.000173982,0.0739909,Frontier MFG Core Infrastructure Fund
+deepseek,S000037318,-0.13157,6.03777e-05,0.722548,ProShares Merger ETF
+deepseek,S000037378,-0.131653,-2.24555e-05,2.54302,Blue Chip Fund
+deepseek,S000037667,-0.131814,-0.000184413,0.097287,Multi-Manager Global Listed Infrastructure Fund
+deepseek,S000039281,-0.131561,6.88046e-05,1.37337,WATER ISLAND CREDIT OPPORTUNITIES FUND
+deepseek,S000039554,-0.131458,0.00017212,6.31217,Riverbridge Growth Fund
+deepseek,S000039723,-0.131723,-9.24547e-05,0,CITY NATIONAL ROCHDALE FIXED INCOME OPPORTUNITIES FUND
+deepseek,S000040076,-0.132311,-0.000680765,0.0975844,Global X MLP and Energy Infrastructure ETF
+deepseek,S000040181,-0.130997,0.000633305,0.0828084,ProShares DJ Brookfield Global Infrastructure ETF
+deepseek,S000040184,-0.131602,2.78091e-05,0.0176145,Goldman Sachs MLP Energy Infrastructure Fund
+deepseek,S000040336,-0.131676,-4.63173e-05,0.09101,ALPS | Alerian Energy Infrastructure Portfolio
+deepseek,S000042071,-0.131621,8.59605e-06,0.215294,FlexShares STOXX Global Broad Infrastructure Index Fund
+deepseek,S000042106,-0.131758,-0.000127599,0.122925,PGIM Jennison Global Infrastructure Fund
+deepseek,S000042624,-0.132681,-0.00105054,10.8989,Fidelity Series Blue Chip Growth Fund
+deepseek,S000042659,-0.131498,0.000131659,3.18032,ROBO Global Robotics and Automation Index ETF
+deepseek,S000042676,-0.131667,-3.6712e-05,0.0943748,Alerian Energy Infrastructure ETF
+deepseek,S000042975,-0.131507,0.000122694,1.11843,ARK Genomic Revolution ETF
+deepseek,S000042976,-0.131439,0.000191041,3.89885,ARK Autonomous Technology & Robotics ETF
+deepseek,S000042977,-0.131417,0.000212652,1.26369,ARK Innovation ETF
+deepseek,S000042978,-0.131467,0.000162972,1.6004,ARK Next Generation Internet ETF
+deepseek,S000043448,-0.131001,0.000628743,0.0775038,Infrastructure Fund
+deepseek,S000043472,-0.131631,-1.30306e-06,0.109825,Global Infrastructure Portfolio
+deepseek,S000045037,-0.131627,3.12552e-06,0.078214,Invesco Global Infrastructure Fund
+deepseek,S000045768,-0.131722,-9.24207e-05,0.0186241,Mainstay Cushing MLP Premier Fund
+deepseek,S000045781,-0.13183,-0.000200288,0.0491188,Catalyst MLP & Infrastructure
+deepseek,S000045922,-0.132344,-0.000713456,1.66568,Catalyst Systematic Alpha Fund
+deepseek,S000046275,-0.131319,0.000310951,0,ProShares MSCI Europe Dividend Growers ETF
+deepseek,S000046713,-0.131593,3.68585e-05,4.24482,Evercore Equity Fund
+deepseek,S000047227,-0.13163,3.1192e-08,0.999754,iShares MSCI Russia ETF
+deepseek,S000047509,-0.131794,-0.000164356,4.11117,SPDR MSCI ACWI Low Carbon Target ETF
+deepseek,S000047644,-0.131606,2.43234e-05,4.30457,iShares MSCI ACWI Low Carbon Target ETF
+deepseek,S000048311,-0.131634,-3.45536e-06,3.06703,iShares Exponential Technologies ETF
+deepseek,S000048680,-0.131655,-2.48421e-05,0,AlphaCentric Income Opportunities Fund
+deepseek,S000049057,-0.131545,8.48061e-05,0.264845,MainStay VP CBRE Global Infrastructure Portfolio
+deepseek,S000049685,-0.132014,-0.000384223,0,Global X YieldCo & Renewable Energy Income ETF
+deepseek,S000050053,-0.131654,-2.38691e-05,0,PGIM Strategic Bond Fund
+deepseek,S000050280,-0.131634,-3.86355e-06,5.09608,TIAA-CREF Social Choice Low Carbon Equity Fund
+deepseek,S000050381,-0.131775,-0.000145316,0.593826,Horizon Active Asset Allocation Fund
+deepseek,S000050385,-0.131406,0.000224368,1.31084,First Trust Nasdaq Cybersecurity ETF
+deepseek,S000050577,-0.131288,0.000342148,0.0978474,Goldman Sachs Global Infrastructure Fund
+deepseek,S000051248,-0.131966,-0.000335495,0.551924,Counterpoint Tactical Equity Fund
+deepseek,S000051577,-0.130998,0.000632054,4.00462,SPDR FactSet Innovative Technology ETF
+deepseek,S000052299,-0.131671,-4.09091e-05,3.68127,ARK Israel Innovative Technology ETF
+deepseek,S000053012,-0.13173,-9.96911e-05,0.951093,Hartford Climate Opportunities Fund
+deepseek,S000053331,-0.131381,0.000249189,0.0416993,ClearBridge Global Infrastructure Income Fund
+deepseek,S000053947,-0.132549,-0.000919171,12.0395,First Trust Nasdaq Semiconductor ETF
+deepseek,S000054162,-0.131381,0.000249326,0,Global X Longevity Thematic ETF
+deepseek,S000054163,-0.131564,6.60075e-05,0.123195,Global X Millennials Thematic ETF
+deepseek,S000054611,-0.131602,2.81685e-05,0.0928354,Principal Healthcare Innovators Index ETF
+deepseek,S000054693,-0.132833,-0.001203,15.3225,Global X Robotics & Artificial Intelligence ETF
+deepseek,S000055251,-0.131583,4.74592e-05,0.131218,Centre Global Infrastructure Fund
+deepseek,S000055315,-0.131555,7.4794e-05,1.30786,Shelton International Select Equity Fund
+deepseek,S000056070,-0.131441,0.000189025,4.85471,AmericaFirst Large Cap Share Buyback Fund
+deepseek,S000056147,-0.131509,0.000120826,1.23512,American Beacon ARK Transformational Innovation Fund
+deepseek,S000056225,-0.131656,-2.57085e-05,0.0580804,Ecofin Global Water ESG Fund
+deepseek,S000056509,-0.131742,-0.00011151,0.360185,Global X U.S. Infrastructure Development ETF
+deepseek,S000056566,-0.131724,-9.38062e-05,0.0676407,First Sentier Global Listed Infrastructure Fund
+deepseek,S000056665,-0.131918,-0.000288373,6.70604,Artisan Focus Fund
+deepseek,S000056707,-0.132144,-0.000513621,0.086997,GMO Climate Change Fund
+deepseek,S000056729,-0.130212,0.00141802,4.54935,AB FlexFee US Thematic Portfolio
+deepseek,S000057040,-0.131646,-1.63979e-05,6.41276,Virtus Zevenbergen Innovative Growth Stock Fund
+deepseek,S000057284,-0.131708,-7.74888e-05,11.7407,Fidelity Blue Chip Growth K6 Fund
+deepseek,S000057714,-0.133952,-0.0023222,11.8967,AlphaCentric Robotics and Automation Fund
+deepseek,S000057859,-0.135079,-0.00344876,25.8587,Upright Growth & Income Fund
+deepseek,S000058010,-0.131611,1.90695e-05,0.816475,WisdomTree U.S. Multifactor Fund
+deepseek,S000058209,-0.131807,-0.000177224,0,Cambria Cannabis ETF
+deepseek,S000058637,-0.131655,-2.53693e-05,7.71526,TCW Artificial Intelligence Equity Fund
+deepseek,S000059203,-0.13162,1.04853e-05,3.32447,SA Goldman Sachs Multi-Asset Insights Portfolio
+deepseek,S000059371,-0.131794,-0.000164036,0.0208937,Recurrent MLP & Energy Infrastructure Fund
+deepseek,S000059420,-0.131692,-6.24163e-05,4.83294,ERSHARES ENTREPRENEURS ETF
+deepseek,S000059604,-0.132491,-0.000861187,0.305214,First Trust SMID Cap Rising Dividend Achievers ETF
+deepseek,S000060186,-0.131727,-9.7241e-05,0.607656,ALPS Disruptive Technologies ETF
+deepseek,S000060819,-0.13165,-1.99475e-05,0.0543901,Invesco S&P Global Water Index ETF
+deepseek,S000060822,-0.131632,-1.80988e-06,0.0312872,Invesco Solar ETF
+deepseek,S000061165,-0.131638,-7.9075e-06,0.0777696,KraneShares Electric Vehicles and Future Mobility Index ETF
+deepseek,S000061191,-0.13163,0,0.822984,Capital Link NextGen Protocol ETF
+deepseek,S000061213,-0.131523,0.000107455,2.22955,First Trust Indxx Innovative Transaction & Process ETF
+deepseek,S000061255,-0.132554,-0.00092375,0.167287,iShares Evolved U.S. Discretionary Spending ETF
+deepseek,S000061260,-0.13199,-0.000360415,8.5871,iShares Evolved U.S. Technology ETF
+deepseek,S000061314,-0.131991,-0.000361341,0.140162,iShares U.S. Infrastructure ETF
+deepseek,S000061316,-0.132104,-0.000473485,9.08365,First Trust Nasdaq Artificial Intelligence and Robotics ETF
+deepseek,S000061326,-0.131361,0.000269359,5.02971,Global X Future Analytics Tech ETF
+deepseek,S000061377,-0.13166,-2.98609e-05,5.47499,Goldman Sachs JUST U.S. Large Cap Equity ETF
+deepseek,S000061415,-0.131596,3.37101e-05,3.7899,Global X Autonomous & Electric Vehicles ETF
+deepseek,S000061518,-0.131654,-2.39342e-05,0.0661479,Aberdeen Global Infrastructure Fund
+deepseek,S000061573,-0.131596,3.39102e-05,2.31857,Pacer Benchmark Data & Infrastructure Real Estate SCTR ETF
+deepseek,S000061584,-0.129344,0.00228607,0.629772,Procure Space ETF
+deepseek,S000061746,-0.131499,0.00013144,0,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2x Shares"
+deepseek,S000061920,-0.131406,0.000224192,0.277367,Amplify Lithium & Battery Technology ETF
+deepseek,S000062009,-0.131634,-3.8943e-06,0,Templeton International - Climate Change Fund
+deepseek,S000062201,-0.132037,-0.000406854,7.1337,iShares Robotics and Artificial Intelligence Multisector ETF
+deepseek,S000062205,-0.13171,-7.95087e-05,0.100543,ALPS Clean Energy ETF
+deepseek,S000062244,-0.131061,0.00056859,2.43837,Innovator Loup Frontier Tech ETF
+deepseek,S000062306,-0.131313,0.000317522,0.00859685,WisdomTree International Multifactor Fund
+deepseek,S000062360,-0.131868,-0.000237442,0,BlackRock High Yield Bond Portfolio
+deepseek,S000062478,-0.13147,0.000160357,4.28868,Defiance Quantum ETF
+deepseek,S000062674,-0.131709,-7.91058e-05,0.0914052,Global X E-commerce ETF
+deepseek,S000062676,-0.13247,-0.000839845,0,Global X Genomics & Biotechnology ETF
+deepseek,S000062930,-0.131283,0.000347253,0.0655378,VanEck Vectors Video Gaming and eSports ETF
+deepseek,S000063057,-0.131616,1.37712e-05,1.64849,Innovator IBD(R) Breakout Opportunities ETF
+deepseek,S000063362,-0.131774,-0.000144323,1.85443,SPDR S&P Kensho New Economies Composite ETF
+deepseek,S000063520,-0.131632,-2.36252e-06,0.39384,iShares Self-Driving EV and Tech ETF
+deepseek,S000063662,-0.13161,1.95838e-05,2.96318,Global Thematic Opportunities Fund
+deepseek,S000063664,-0.131716,-8.59151e-05,6.53759,"REYNDERS, MCVEIGH CORE EQUITY FUND"
+deepseek,S000063769,-0.131792,-0.000162005,5.58493,US Vegan Climate ETF
+deepseek,S000063813,-0.13166,-3.03902e-05,0.0640321,Mondrian Global Listed Infrastructure Fund
+deepseek,S000063921,-0.131558,7.16684e-05,1.95861,ALTA QUALITY GROWTH FUND
+deepseek,S000064752,-0.131447,0.000183474,1.42106,ARK Fintech Innovation ETF
+deepseek,S000064804,-0.131634,-3.9663e-06,6.19706,Defiance Next Gen Connectivity ETF
+deepseek,S000064945,-0.131747,-0.00011728,7.04419,BlackRock U.S. Equity Factor Rotation ETF
+deepseek,S000065014,-0.131903,-0.000272454,8.81715,iShares Cloud 5G and Tech ETF
+deepseek,S000065015,-0.131904,-0.000273512,0.334892,iShares Cybersecurity and Tech ETF
+deepseek,S000065228,-0.131884,-0.000254175,0,AdvisorShares Pure Cannabis ETF
+deepseek,S000065242,-0.132415,-0.000784964,1.04174,GUARDIAN DIVIDEND GROWTH FUND
+deepseek,S000065293,-0.131576,5.45531e-05,0.0480729,Roundhill BITKRAFT Esports & Digital Entertainment ETF
+deepseek,S000065355,-0.131618,1.23296e-05,3.50383,LVIP BlackRock Global Allocation Fund
+deepseek,S000065357,-0.132185,-0.000554634,0.696939,QRAFT AI-Enhanced U.S. Large Cap ETF
+deepseek,S000065358,-0.129843,0.00178661,8.59486,QRAFT AI-Enhanced U.S. Large Cap Momentum ETF
+deepseek,S000065471,-0.13163,2.38606e-08,0.394788,AGFiQ Global Infrastructure ETF
+deepseek,S000065599,-0.131834,-0.000203607,0,iShares Genomics Immunology and Healthcare ETF
+deepseek,S000065729,-0.13173,-0.000100269,5.06731,ROBO Global Artificial Intelligence ETF
+deepseek,S000066020,-0.131683,-5.26809e-05,0.567908,AlphaCentric Symmetry Strategy Fund
+deepseek,S000066179,-0.131051,0.000578762,0.114051,First Trust EIP Carbon Impact ETF
+deepseek,S000066286,-0.131718,-8.80064e-05,0,KFA Global Carbon ETF
+deepseek,S000066435,-0.131649,-1.91504e-05,1.70746,ProShares S&P Technology Dividend Aristocrats ETF
+deepseek,S000066518,-0.131395,0.000235567,0.051442,Global X Video Games & Esports ETF
+deepseek,S000066527,-0.131476,0.000154215,0,Global X Thematic Growth ETF
+deepseek,S000066713,-0.13131,0.000320034,0,Global X Cybersecurity ETF
+deepseek,S000066805,-0.13082,0.000810487,0.629039,Fidelity Infrastructure Fund
+deepseek,S000066936,-0.131809,-0.000179308,0.573545,VOYA MID CAP RESEARCH ENHANCED INDEX FUND
+deepseek,S000066937,-0.131736,-0.000105919,0.760018,VOYA SMALL COMPANY FUND
+deepseek,S000066948,-0.13174,-0.00010978,0,AdvisorShares Pure US Cannabis ETF
+deepseek,S000067234,-0.131651,-2.04369e-05,4.23901,iShares U.S. Tech Breakthrough Multisector ETF
+deepseek,S000067318,-0.131031,0.000599206,0.261553,MainStay CBRE Global Infrastructure Fund
+deepseek,S000067392,-0.132568,-0.000938406,0.205472,Franklin Disruptive Commerce ETF
+deepseek,S000067393,-0.131199,0.000430658,0.326908,Franklin Genomic Advancements ETF
+deepseek,S000067394,-0.133126,-0.00149571,12.5025,Franklin Intelligent Machines ETF
+deepseek,S000067904,-0.131855,-0.000224793,0.035966,ICON Natural Resources and Infrastructure Fund
+deepseek,S000067906,-0.131852,-0.000222233,0.578227,Shelton Emerging Markets Fund
+deepseek,S000067937,-0.131423,0.000206861,0.0275219,Fidelity Water Sustainability Fund
+deepseek,S000068068,-0.131609,2.13894e-05,9.19531,"TrueShares Technology, AI & Deep Learning ETF"
+deepseek,S000068173,-0.130264,0.00136604,10.8178,Fidelity Blue Chip Growth ETF
+deepseek,S000068175,-0.131585,4.53132e-05,0.256097,Fidelity Blue Chip Value ETF
+deepseek,S000068488,-0.131789,-0.000159246,0,VOYA TARGET RETIREMENT 2065 FUND
+deepseek,S000068511,-0.131591,3.90433e-05,0.120495,Kayne Anderson Renewable Infrastructure Fund
+deepseek,S000068536,-0.131608,2.1831e-05,0.0273142,Goldman Sachs Clean Energy Income Fund
+deepseek,S000068597,-0.131721,-9.11144e-05,2.74862,Goldman Sachs Innovate Equity ETF
+deepseek,S000068601,-0.13214,-0.00051013,0.188753,Polar Capital Emerging Market Stars Fund
+deepseek,S000068603,-0.131598,3.23774e-05,0,Roundhill Sports Betting & iGaming ETF
+deepseek,S000068856,-0.132101,-0.000470595,1.66062,Direxion Work From Home ETF
+deepseek,S000068960,-0.131476,0.000153588,5.74652,Natixis Vaughan Nelson Select ETF
+deepseek,S000069038,-0.131809,-0.000178677,7.09214,Gabelli Growth Innovators ETF
+deepseek,S000069056,-0.131181,0.0004487,0,Global X Telemedicine & Digital Health ETF
+deepseek,S000069084,-0.131614,1.57676e-05,0,Ecofin Global Renewables Infrastructure Fund
+deepseek,S000069191,-0.131207,0.000422683,5.22008,JPMorgan Carbon Transition U.S. Equity ETF
+deepseek,S000069290,-0.13163,-1.31669e-07,6.97485,Direxion Moonshot Innovator ETF
+deepseek,S000069399,-0.131898,-0.000267978,0.832193,EVOLUTIONARY TREE INNOVATORS FUND
+deepseek,S000069449,-0.131519,0.000111551,1.1479,Invesco NASDAQ Next Gen 100 ETF
+deepseek,S000069656,-0.131527,0.000102582,3.16003,CCT Thematic Equity Fund
+deepseek,S000069709,-0.131042,0.000588293,4.91014,Global X Data Center REITs & Digital Infrastructure ETF
+deepseek,S000069834,-0.131663,-3.29227e-05,2.94137,ProShares MSCI Transformational Changes ETF
+deepseek,S000069939,-0.131284,0.000346169,1.4355,TrimTabs Donoghue Forlines Risk Managed Innovation ETF
+deepseek,S000069943,-0.13165,-1.99705e-05,0.0632093,First Sentier American Listed Infrastructure Fund
+deepseek,S000070133,-0.132546,-0.000916244,21.0837,Simplify Volt RoboCar Disruption And Tech ETF
+deepseek,S000070249,-0.131686,-5.64082e-05,2.29352,Blue Chip Account
+deepseek,S000070439,-0.132151,-0.000521291,1.51155,Franklin Exponential Data ETF
+deepseek,S000070451,-0.131663,-3.26983e-05,5.10283,Main Thematic Innovation ETF
+deepseek,S000070495,-0.132646,-0.00101577,0.637497,WisdomTree Cybersecurity Fund
+deepseek,S000070562,-0.131113,0.000517086,0.0875482,Parvin Hedged Equity Solari World Fund
+deepseek,S000070990,-0.131547,8.26086e-05,0.956656,Logan Capital Broad Innovative Growth ETF
+deepseek,S000071020,-0.130745,0.000885484,9.23278,Direxion Daily Select Large Caps & FANGs Bull 2X Shares
+deepseek,S000071119,-0.131733,-0.000102762,0.538633,JNL Mid Cap Index Fund
+deepseek,S000071206,-0.131649,-1.90649e-05,0,Defiance Next Gen H2 ETF
+deepseek,S000071250,-0.131619,1.07752e-05,2.7116,Formidable Fortress ETF
+deepseek,S000071278,-0.131597,3.30809e-05,0,Direxion Hydrogen ETF
+deepseek,S000071281,-0.131775,-0.000144912,4.94865,BlackRock U.S. Carbon Transition Readiness ETF
+deepseek,S000071282,-0.131802,-0.000172137,0.0479109,BlackRock World ex U.S. Carbon Transition Readiness ETF
+deepseek,S000071318,-0.130475,0.0011547,1.19524,ARK Space Exploration ETF
+deepseek,S000071326,-0.128863,0.00276691,0.10143,Global X Clean Water ETF
+deepseek,S000071591,-0.131326,0.000304046,1.10865,Bitwise Crypto Industry Innovators ETF
+deepseek,S000071674,-0.132378,-0.000747603,0,AlphaCentric Strategic Income Fund
+deepseek,S000071847,-0.132642,-0.0010118,7.29487,First Trust Innovation Leaders ETF
+deepseek,S000071853,-0.131653,-2.32264e-05,3.36932,First Trust S-Network Streaming & Gaming ETF
+deepseek,S000072128,-0.131506,0.000123972,5.43017,Fidelity Climate Action Fund
+deepseek,S000072137,-0.131845,-0.0002151,0.470352,Rockefeller Climate Solutions Fund
+deepseek,S000072157,-0.131598,3.24958e-05,0,RH Tactical Rotation ETF
+deepseek,S000072191,-0.131599,3.12705e-05,1.67006,WisdomTree Battery Value Chain and Innovation Fund
+deepseek,S000072321,-0.131589,4.1217e-05,4.85265,Roundhill Ball Metaverse ETF
+deepseek,S000072327,-0.132775,-0.00114488,0,Global X AgTech & Food Innovation ETF
+deepseek,S000072329,-0.131646,-1.54956e-05,4.17104,Global X Blockchain ETF
+deepseek,S000072330,-0.132089,-0.000459163,0,Global X Hydrogen ETF
+deepseek,S000072413,-0.131655,-2.47017e-05,0.407896,BlackRock Future Climate and Sustainable Economy ETF
+deepseek,S000072458,-0.131112,0.000518353,0.733827,Engine No. 1 Transform Climate ETF
+deepseek,S000072470,-0.131841,-0.00021083,17.491,Invesco PHLX Semiconductor ETF
+deepseek,S000072472,-0.131586,4.36991e-05,5.2953,Amplify Thematic All-Stars ETF
+deepseek,S000072483,-0.131696,-6.59924e-05,1,Direxion Daily TSLA Bull 1.5X Shares
+deepseek,S000072510,-0.131866,-0.000236295,0.16263,Virtus Duff & Phelps Clean Energy ETF
+deepseek,S000072613,-0.131432,0.000198297,0,Main International ETF
+deepseek,S000072639,-0.135431,-0.00380043,12.6367,Spear Alpha ETF
+deepseek,S000072699,-0.132458,-0.000827468,0.028112,Global X Solar ETF
+deepseek,S000072700,-0.131884,-0.000253554,0,Global X Wind Energy ETF
+deepseek,S000072749,-0.131799,-0.000169336,0,KraneShares California Carbon Allowance Strategy ETF
+deepseek,S000072750,-0.131521,0.000108684,0,KraneShares European Carbon Allowance Strategy ETF
+deepseek,S000072818,-0.131654,-2.43348e-05,0.418581,Goldman Sachs Future Real Estate and Infrastructure Equity ETF
+deepseek,S000072836,-0.131366,0.000264544,2.1028,Invesco Alerian Galaxy Blockchain Users and Decentralized Commerce ETF
+deepseek,S000072837,-0.131634,-3.62991e-06,1.65224,Invesco Alerian Galaxy Crypto Economy ETF
+deepseek,S000073014,-0.131679,-4.93541e-05,1.46586,Invesco ESG Nasdaq NextGen 100 ETF
+deepseek,S000073358,-0.131632,-1.8364e-06,5.84888,FlexShares ESG & Climate US Large Cap Core Index Fund
+deepseek,S000073359,-0.131397,0.000232854,0.06918,FlexShares ESG & Climate Developed Markets ex-US Core Index Fund
+deepseek,S000073416,-0.131708,-7.80552e-05,0.962391,ProShares Smart Materials ETF
+deepseek,S000073417,-0.131612,1.84966e-05,3.57118,ProShares S&P Kensho Smart Factories ETF
+deepseek,S000073419,-0.132537,-0.000907292,0.349832,ProShares S&P Kensho Cleantech ETF
+deepseek,S000073421,-0.129978,0.00165241,9.89065,ProShares Nanotechnology ETF
+deepseek,S000073441,-0.131527,0.000102628,3.20641,First Trust SkyBridge Crypto Industry and Digital Economy ETF
+deepseek,S000073490,-0.131652,-2.20499e-05,0.214425,BlackRock Infrastructure Sustainable Opportunities Fund
+deepseek,S000073580,-0.131509,0.000121013,4.59104,Harbor Disruptive Innovation ETF
+deepseek,S000073597,-0.131433,0.000197128,0.0184997,Fidelity Clean Energy ETF
+deepseek,S000073598,-0.131608,2.24611e-05,5.20729,Fidelity Cloud Computing ETF
+deepseek,S000073599,-0.131569,6.1139e-05,0.166812,Fidelity Digital Health ETF
+deepseek,S000073600,-0.132083,-0.000452877,0.649274,Fidelity Electric Vehicles and Future Transportation ETF
+deepseek,S000073655,-0.132105,-0.000475116,0,Brookfield Global Renewables & Sustainable Infrastructure Fund
+deepseek,S000073679,-0.131481,0.000148732,0,Innovator Laddered Fund of U.S. Equity Power Buffer ETFs
+deepseek,S000073701,-0.130894,0.000736422,0,USCF Sustainable Battery Metals Strategy Fund
+deepseek,S000073733,-0.131629,7.71404e-07,4.90403,Sphere 500 Fossil Free Fund
+deepseek,S000074070,-0.131288,0.000341911,0,IDX Risk-Managed Bitcoin Strategy Fund
+deepseek,S000074090,-0.132302,-0.000671588,0,Roundhill Cannabis ETF
+deepseek,S000074177,-0.132068,-0.000438329,0,Global X Blockchain & Bitcoin Strategy ETF
+deepseek,S000074231,-0.130751,0.000879215,0,Build Bond Innovation ETF
+deepseek,S000074466,-0.132342,-0.000711933,7.24823,WisdomTree Artificial Intelligence and Innovation Fund
+deepseek,S000074528,-0.131631,-1.20041e-06,0.218059,Goldman Sachs Bloomberg Clean Energy Equity ETF
+deepseek,S000074569,-0.130417,0.0012129,7.08463,Blackrock Future U.S. Themes ETF
+deepseek,S000074628,-0.131446,0.000183641,4.56652,EQ/AB Sustainable U.S. Thematic Portfolio
+deepseek,S000074724,-0.131468,0.000162322,0.0151753,VegTech Plant-based Innovation & Climate ETF
+deepseek,S000074754,-0.132005,-0.000375324,5.01591,Rayliant Quantitative Developed Market Equity ETF
+deepseek,S000074757,-0.131853,-0.000222845,6.66069,iShares Paris-Aligned Climate MSCI USA ETF
+deepseek,S000074759,-0.130327,0.00130306,0.738425,AQR Trend Total Return Fund
+deepseek,S000074761,-0.131627,2.71139e-06,5.49463,CLOCKWISE CAPITAL INNOVATION ETF
+deepseek,S000074799,-0.131601,2.94028e-05,0.160382,Baillie Gifford Health Innovation Equities Fund
+deepseek,S000074863,-0.131562,6.7801e-05,0.0154737,UPAR Ultra Risk Parity ETF
+deepseek,S000075052,-0.131504,0.000126412,4.35366,Valkyrie Bitcoin Miners ETF
+deepseek,S000075078,-0.130498,0.00113217,2.94168,Strategas Macro Thematic Opportunities ETF
+deepseek,S000075316,-0.132031,-0.000400509,0,Home Appreciation U.S. REIT ETF
+deepseek,S000075360,-0.131601,2.91344e-05,3.93572,First Trust Indxx Metaverse ETF
+deepseek,S000075395,-0.130141,0.00148932,0.0242872,Neuberger Berman Carbon Transition & Infrastructure ETF
+deepseek,S000075396,-0.13129,0.000340418,9.18514,Neuberger Berman Disrupters ETF
+deepseek,S000075397,-0.131717,-8.69848e-05,0.0805214,Neuberger Berman Next Generation Connected Consumer ETF
+deepseek,S000075429,-0.131637,-7.01911e-06,3.42219,JNL/AB Sustainable Global Thematic Fund
+deepseek,S000075443,-0.131676,-4.55651e-05,5.26036,FS Chiron Real Asset Fund
+deepseek,S000075502,-0.133583,-0.00195321,21.6652,Columbia Seligman Semiconductor and Technology ETF
+deepseek,S000075552,-0.131385,0.000244676,6.14507,ProShares Metaverse ETF
+deepseek,S000075577,-0.130877,0.000753538,0,Kensington Active Advantage Fund
+deepseek,S000075638,-0.131836,-0.000206301,7.36131,NVIT J.P. Morgan Innovators Fund
+deepseek,S000075811,-0.131403,0.000227452,3.81351,iShares Blockchain and Tech ETF
+deepseek,S000075902,-0.132001,-0.00037063,1.08254,Fidelity Crypto Industry and Digital Payments ETF
+deepseek,S000075903,-0.131708,-7.76343e-05,5.69124,Fidelity Metaverse ETF
+deepseek,S000076007,-0.131766,-0.000135649,5.58333,SPDR MSCI USA Climate Paris Aligned ETF
+deepseek,S000076371,-0.131815,-0.000185329,1.45955,Schwab Crypto Thematic ETF
+deepseek,S000076599,-0.131669,-3.87813e-05,0.545815,Gabelli Automation ETF
+deepseek,S000076619,-0.131252,0.000377975,0,iShares MSCI Water Management Multisector ETF
+deepseek,S000076756,-0.131516,0.000113787,0.217975,Matthews Asia Innovators Active ETF
+deepseek,S000076804,-0.131761,-0.000131101,0.334165,Carbon Collective Climate Solutions U.S. Equity ETF
+deepseek,S000076848,-0.131382,0.000248198,0.554268,Horizon Kinetics Blockchain Development ETF
+deepseek,S000077055,-0.131096,0.000534299,1.97674,Bitwise Web3 ETF
+deepseek,S000077117,-0.131372,0.000257782,5.54246,Innovator Equity Managed Floor ETF
+deepseek,S000077118,-0.131194,0.000436129,7.94952,Innovator Nasdaq-100 Managed Floor ETF
+deepseek,S000077139,-0.130786,0.000843978,0,Putnam Emerging Markets ex-China ETF
+deepseek,S000077216,-0.131622,7.95693e-06,0.318521,VanEck Green Infrastructure ETF
+deepseek,S000077300,-0.132472,-0.000842421,0,Putnam Panagora ESG Emerging Markets Equity ETF
+deepseek,S000077301,-0.132232,-0.000601701,0.519829,Putnam Panagora ESG International Equity ETF
+deepseek,S000077333,-0.131622,7.60728e-06,0,Unlimited HFND Multi-Strategy Return Tracker ETF
+deepseek,S000077491,-0.131695,-6.52207e-05,0.0404892,WESTWOOD SALIENT MLP & ENERGY
+deepseek,S000077513,-0.130582,0.00104837,0,Global Sustainable Listed Infrastructure Fund
+deepseek,S000077785,-0.127991,0.00363956,0.0503004,BNY Mellon Global Infrastructure Income ETF
+deepseek,S000077884,-0.13171,-7.94978e-05,0.00642267,iShares Environmental Infrastructure and Industrials ETF
+deepseek,S000077894,-0.131631,-1.29493e-06,0,The Meet Kevin Power Pricing ETF
+deepseek,S000078008,-0.132252,-0.00062187,0.0854933,Innovator Gradient Tactical Rotation Strategy ETF
+deepseek,S000078011,-0.130836,0.000793578,0,ProShares S&P Global Core Battery Metals ETF
+deepseek,S000078027,-0.13163,0,0.378884,BTD Capital Fund
+deepseek,S000078170,-0.130918,0.000712033,6.52052,Direxion Daily Crypto Industry Bull 2X Shares
+deepseek,S000078930,-0.132357,-0.000726726,0,TrueShares Eagle Global Renewable Energy Income ETF
+deepseek,S000078983,-0.129697,0.00193354,0,Sprott Lithium Miners ETF
+deepseek,S000079010,-0.131535,9.48249e-05,0,ClearBridge Sustainable Infrastructure ETF
+deepseek,S000079062,-0.132566,-0.000935946,0.283547,Hennessy Stance ESG Large Cap ETF
+deepseek,S000079165,-0.132006,-0.00037593,9.45224,WisdomTree Technology and Innovation 100 Digital Fund
+deepseek,S000079170,-0.131628,2.48157e-06,2.97078,iShares Future Metaverse Tech and Communications ETF
+deepseek,S000079204,-0.132251,-0.000621213,0,BlackRock Diversified Fixed Income Fund
+deepseek,S000079254,-0.13163,-1.90301e-08,0,International Carbon Transition Equity Portfolio
+deepseek,S000079330,-0.131446,0.000183646,0,IDX Commodity Opportunities Fund
+deepseek,S000079334,-0.13163,9.00062e-08,0.245212,Veridien Climate Action ETF
+deepseek,S000079359,-0.13168,-5.02257e-05,0.882017,Cromwell Foresight Global Sustainable Infrastructure Fund
+deepseek,S000079470,-0.131741,-0.000110724,4.80089,AB Disruptors ETF
+deepseek,S000079664,-0.132099,-0.000468561,6.48868,VanEck Robotics ETF
+deepseek,S000079685,-0.132112,-0.000482103,8.13799,Fidelity Disruptive Automation ETF
+deepseek,S000079686,-0.131698,-6.75878e-05,5.72295,Fidelity Disruptive Communications ETF
+deepseek,S000079687,-0.131683,-5.27537e-05,0.0766658,Fidelity Disruptive Finance ETF
+deepseek,S000079688,-0.131608,2.19842e-05,0,Fidelity Disruptive Medicine ETF
+deepseek,S000079689,-0.131485,0.00014482,7.39121,Fidelity Disruptive Technology ETF
+deepseek,S000079690,-0.13177,-0.000139437,0,Fidelity Disruptors ETF
+deepseek,S000079785,-0.13077,0.000860083,0.114315,Global X PropTech ETF
+deepseek,S000079909,-0.131462,0.000167914,4.03949,Xtrackers MSCI USA Climate Action Equity ETF
+deepseek,S000079922,-0.132008,-0.000377751,0,Dga Absolute Return ETF
+deepseek,S000079934,-0.131621,8.84974e-06,4.07862,Touchstone ETF Trust-Touchstone Climate Transition ETF
+deepseek,S000080056,-0.13175,-0.000120222,0,Aristotle Portfolio Optimization Conservative Fund
+deepseek,S000080067,-0.131744,-0.000113512,0,Aristotle Portfolio Optimization Moderate Conservative Fund
+deepseek,S000080069,-0.131747,-0.000117064,0,Aristotle Portfolio Optimization Moderate Fund
+deepseek,S000080070,-0.131725,-9.46441e-05,0,Aristotle Portfolio Optimization Growth Fund
+deepseek,S000080071,-0.131702,-7.22482e-05,0,Aristotle Portfolio Optimization Aggressive Growth Fund
+deepseek,S000080108,-0.129996,0.00163367,0,iShares Lithium Miners and Producers ETF
+deepseek,S000080183,-0.132069,-0.000439285,10.4525,BNY Mellon Innovators ETF
+deepseek,S000080348,-0.132864,-0.00123389,11.4024,Roundhill Generative AI & Technology ETF
+deepseek,S000080367,-0.131795,-0.000164749,0.954068,GRANDEUR PEAK US STALWARTS FUND
+deepseek,S000080389,-0.132271,-0.000640576,0.15533,Private Real Estate Strategy via Liquid REITs ETF
+deepseek,S000080443,-0.131577,5.31757e-05,4.03957,iShares Climate Conscious & Transition MSCI USA ETF
+deepseek,S000080469,-0.131491,0.000139384,0.404472,Xtrackers Cybersecurity Select Equity ETF
+deepseek,S000080470,-0.134253,-0.00262313,11.191,Xtrackers Semiconductor Select Equity ETF
+deepseek,S000080471,-0.13174,-0.000109652,0.131677,Xtrackers US Green Infrastructure Select Equity ETF
+deepseek,S000080512,-0.131751,-0.000121074,0,Kensington Defender Fund
+deepseek,S000080522,-0.131922,-0.000292402,0.288568,Voya VACS Series MCV Fund
+deepseek,S000080585,-0.132121,-0.000491033,0,Simplify Opportunistic Income ETF
+deepseek,S000080686,-0.131281,0.000349111,1.53769,Principal Focused Blue Chip ETF
+deepseek,S000080778,-0.132187,-0.000556459,0.264696,Amplify Cash Flow Dividend Leaders ETF
+deepseek,S000080899,-0.116003,0.0156271,65,T-Rex 2X Long NVIDIA Daily Target ETF
+deepseek,S000081026,-0.131534,9.60931e-05,7.24601,Themes Robotics & Automation ETF
+deepseek,S000081037,-0.131378,0.00025249,0.23111,Themes Cybersecurity ETF
+deepseek,S000081040,-0.134291,-0.00266078,24.0208,Themes Generative Artificial Intelligence ETF
+deepseek,S000081193,-0.128712,0.00291762,0.479335,Global X Defense Tech ETF
+deepseek,S000081251,-0.132736,-0.00110589,0,NEOS Bitcoin High Income ETF
+deepseek,S000081357,-0.132055,-0.00042525,6.01183,Hodges Blue Chip Equity Income Fund
+deepseek,S000081571,-0.131219,0.000411145,8.12971,REX FANG & Innovation Equity Premium Income ETF
+deepseek,S000081588,-0.132474,-0.000844384,1.23829,Polen Capital Global Growth ETF
+deepseek,S000081684,-0.110334,0.0212959,65,Direxion Daily NVDA Bull 1.5X Shares
+deepseek,S000081700,-0.131375,0.000255299,3.51825,Hartford Schroders Diversified Growth Fund
+deepseek,S000081702,-0.131149,0.000480788,4.99825,BlackRock Advantage Large Cap Income ETF
+deepseek,S000082262,-0.131556,7.38208e-05,0,Macquarie Global Listed Infrastructure ETF
+deepseek,S000082270,-0.131707,-7.7403e-05,5.66138,Amplify Global Cloud Technology ETF
+deepseek,S000082271,-0.131782,-0.000151481,1.24135,Amplify Etho Climate Leadership U.S. ETF
+deepseek,S000082276,-0.131815,-0.000185048,0.200389,Amplify AI Powered Equity ETF
+deepseek,S000082278,-0.131577,5.28912e-05,1.44222,Amplify Cybersecurity ETF
+deepseek,S000082572,-0.132261,-0.000631316,4.84989,Xtrackers US National Critical Technologies ETF
+deepseek,S000082790,-0.131654,-2.42924e-05,0.192184,Mast Global Battery Recycling & Production ETF
+deepseek,S000082910,-0.130531,0.00109898,0.0779832,Langar Global Health Tech ETF
+deepseek,S000082989,-0.13114,0.000489941,5.97022,LG QRAFT AI-Powered U.S. Large Cap Core ETF
+deepseek,S000083027,-0.131165,0.000464771,0.244114,Counterpoint Quantitative Equity ETF
+deepseek,S000083143,-0.131254,0.000376538,5.8805,Natixis Gateway Quality Income ETF
+deepseek,S000083434,-0.131321,0.000309129,0,Polen Capital China Growth ETF
+deepseek,S000083437,-0.131756,-0.000125441,0.114874,Polen Capital International Growth ETF
+deepseek,S000083456,-0.130195,0.00143526,0.0846631,iShares Paris-Aligned Climate MSCI World ex USA ETF
+deepseek,S000083460,-0.131626,3.80331e-06,2.6963,Global Climate Action Fund
+deepseek,S000083503,-0.133417,-0.00178698,0.493177,Embark Small Cap Equity Fund
+deepseek,S000083879,-0.132018,-0.000387908,8.80744,Direxion Daily AI and Big Data Bull 2X Shares
+deepseek,S000083897,-0.131627,2.93573e-06,5.45804,SPHERE 500 CLIMATE FUND
+deepseek,S000084217,-0.130091,0.00153956,11.7733,Direxion Daily Concentrated Qs Bull 2X Shares
+deepseek,S000084279,-0.13439,-0.00275946,12.3647,Alger AI Enablers & Adopters Fund
+deepseek,S000084281,-0.132241,-0.000610853,9.52777,Alger AI Enablers & Adopters ETF
+deepseek,S000084288,-0.131501,0.000128836,9.7814,TCW Artificial Intelligence ETF
+deepseek,S000085024,-0.132127,-0.000497287,0,Amplify Weight Loss Drug & Treatment ETF
+deepseek,S000085026,-0.131375,0.000255202,5.32078,Clockwise Core Equity & Innovation ETF
+deepseek,S000085030,-0.130659,0.000970815,0,Global X Infrastructure Development ex-U.S. ETF
+deepseek,S000085093,-0.128858,0.0027716,11.4093,REX AI Equity Premium Income ETF
+deepseek,S000085137,-0.132204,-0.000574318,0,Defiance Daily Target 1.75X Long MSTR ETF
+deepseek,S000085139,-0.129371,0.00225897,10,Defiance Daily Target 2X Long AVGO ETF
+deepseek,S000085271,-0.131171,0.000459105,0,iShares Large Cap Max Buffer Jun ETF
+deepseek,S000085272,-0.132113,-0.000482471,0,iShares Large Cap Max Buffer Sep ETF
+deepseek,S000085311,-0.133039,-0.00140846,5.1336,Xtrackers Artificial Intelligence and Big Data ETF
+deepseek,S000085500,-0.131644,-1.38583e-05,0.235057,Themes US Infrastructure ETF
+deepseek,S000085506,-0.132955,-0.00132458,9.11747,KraneShares Artificial Intelligence and Technology ETF
+deepseek,S000085579,-0.131543,8.65748e-05,4.20174,Invesco MSCI Global Climate 500 ETF
+deepseek,S000085643,-0.129784,0.00184653,7.62418,Innovator Hedged Nasdaq-100 ETF
+deepseek,S000086268,-0.131936,-0.000305676,10.1565,iShares A.I. Innovation and Tech Active ETF
+deepseek,S000086573,-0.124743,0.00688754,17.954,VanEck Fabless Semiconductor ETF
+deepseek,S000086583,-0.131315,0.000315143,0,Harbor AlphaEdge Next Generation REITs ETF
+deepseek,S000087661,-0.133418,-0.00178821,1.52229,Innovator U.S. Small Cap Managed Floor ETF
+deepseek,S000087748,-0.131587,4.29012e-05,4.01625,SPDR Galaxy Digital Asset Ecosystem ETF
+deepseek,S000087749,-0.131555,7.51785e-05,2.48977,SPDR Galaxy Transformative Tech Accelerators ETF
+deepseek,S000087750,-0.131519,0.000111007,4.07837,SPDR Galaxy Hedged Digital Asset Ecosystem ETF

@@ -1,0 +1,237 @@
+{
+  "labels": "luna",
+  "ladder": "data/interim/analysis/flow_ladder_luna/out/fund_month_ladder.parquet",
+  "controls_ai_rev_tech_from": "luna exposure table",
+  "replication": {
+    "r5": 0.7864111700385485,
+    "r2": -1.0225986664767974,
+    "r2_minus_r5": -1.809009836515346,
+    "se": 0.5795682283852015,
+    "n": 693361,
+    "funds": 14806
+  },
+  "contrasts_baseline": {
+    "r5-r2": {
+      "coef": 1.809009836515346,
+      "se": 0.5795682283852015,
+      "ci": [
+        0.6730561088803511,
+        2.944963564150341
+      ]
+    },
+    "r5-r3": {
+      "coef": 1.5352804789205785,
+      "se": 0.600196187767347,
+      "ci": [
+        0.35889595089657855,
+        2.7116650069445782
+      ]
+    },
+    "r5-r4": {
+      "coef": 1.1634865804420107,
+      "se": 1.390354480441011,
+      "ci": [
+        -1.5616082012223709,
+        3.8885813621063923
+      ]
+    },
+    "r3-r2": {
+      "coef": 0.27372935759476746,
+      "se": 0.4682890635550715,
+      "ci": [
+        -0.6441172069731727,
+        1.1915759221627076
+      ]
+    },
+    "r4-r3": {
+      "coef": 0.3717938984785678,
+      "se": 1.319421057318454,
+      "ci": [
+        -2.2142713738656017,
+        2.9578591708227373
+      ]
+    }
+  },
+  "group_sizes": [
+    {
+      "rung": 0,
+      "fund_months": 686567,
+      "funds": 14610,
+      "registrants": 903,
+      "fund_months_in_cells_with_other_rungs": 99822,
+      "funds_in_cells_with_other_rungs": 3448
+    },
+    {
+      "rung": 1,
+      "fund_months": 12,
+      "funds": 1,
+      "registrants": 1,
+      "fund_months_in_cells_with_other_rungs": 12,
+      "funds_in_cells_with_other_rungs": 1
+    },
+    {
+      "rung": 2,
+      "fund_months": 2786,
+      "funds": 118,
+      "registrants": 38,
+      "fund_months_in_cells_with_other_rungs": 2786,
+      "funds_in_cells_with_other_rungs": 118
+    },
+    {
+      "rung": 3,
+      "fund_months": 2361,
+      "funds": 120,
+      "registrants": 52,
+      "fund_months_in_cells_with_other_rungs": 2341,
+      "funds_in_cells_with_other_rungs": 120
+    },
+    {
+      "rung": 4,
+      "fund_months": 82,
+      "funds": 8,
+      "registrants": 6,
+      "fund_months_in_cells_with_other_rungs": 82,
+      "funds_in_cells_with_other_rungs": 8
+    },
+    {
+      "rung": 5,
+      "fund_months": 1553,
+      "funds": 71,
+      "registrants": 40,
+      "fund_months_in_cells_with_other_rungs": 1553,
+      "funds_in_cells_with_other_rungs": 71
+    }
+  ],
+  "rung5_registrants_top": {
+    "Global X Funds": 165,
+    "Listed Funds Trust": 150,
+    "Ark ETF Trust": 148,
+    "iSHARES TRUST": 89,
+    "Simplify Exchange Traded Funds": 78,
+    "FIDELITY COVINGTON TRUST": 76,
+    "EXCHANGE TRADED CONCEPTS TRUST": 72,
+    "Tidal Trust II": 65
+  },
+  "rung2_registrants_top": {
+    "Global X Funds": 599,
+    "FIDELITY COVINGTON TRUST": 237,
+    "EA Series Trust": 204,
+    "Exchange Listed Funds Trust": 183,
+    "iShares U.S. ETF Trust": 175,
+    "Direxion Shares ETF Trust": 155,
+    "EXCHANGE TRADED CONCEPTS TRUST": 134,
+    "Alpha Architect ETF Trust": 104
+  },
+  "age": {
+    "definition": "months since the first month the fund appears in the flow panel (panel starts 2019-07-01); left-censored if that month is 2020-03 or earlier",
+    "share_fund_months_left_censored": 0.8282413936126088,
+    "r5_share_left_censored": 0.4575079872204473,
+    "r2_share_left_censored": 0.3809024134312697,
+    "r5_median_age_months": 29.0,
+    "r2_median_age_months": 28.0
+  },
+  "leave_one_out_fund": {
+    "n": 73,
+    "min": 1.6032618929694133,
+    "max": 1.9401058725968159,
+    "at_min": "fund S000061326"
+  },
+  "leave_one_out_registrant": {
+    "n": 42,
+    "min": 1.6469220197159233,
+    "max": 1.965767201699934,
+    "at_min": "registrant 1547576"
+  },
+  "leave_one_out_process_registrant": {
+    "n": 41,
+    "min": 1.6469220197159233,
+    "max": 1.965767201699934,
+    "at_min": "process registrant 1547576"
+  },
+  "inside_theme": [
+    {
+      "fe": "month FE",
+      "spec": "confirmed and unconfirmed vs nothing named",
+      "n": 3478,
+      "funds": 151,
+      "r5_vs_r3": 1.213888405872264,
+      "r5_vs_r3_se": 0.4771299080326257,
+      "r5_funds": 73,
+      "r4_funds": 8,
+      "r3_funds": 86,
+      "r5_vs_r4": 1.91360984343727,
+      "r5_vs_r4_se": 1.2228192009200909
+    },
+    {
+      "fe": "month FE",
+      "spec": "+ AI revenue share and technology share",
+      "n": 3478,
+      "funds": 151,
+      "r5_vs_r3": 0.9813633973573359,
+      "r5_vs_r3_se": 0.4806722200458737,
+      "r5_funds": 73,
+      "r4_funds": 8,
+      "r3_funds": 86,
+      "r5_vs_r4": 1.6035164406417581,
+      "r5_vs_r4_se": 1.1506208364743487
+    },
+    {
+      "fe": "month FE",
+      "spec": "+ past returns",
+      "n": 3478,
+      "funds": 151,
+      "r5_vs_r3": 1.0495749689015814,
+      "r5_vs_r3_se": 0.4908341342584603,
+      "r5_funds": 73,
+      "r4_funds": 8,
+      "r3_funds": 86,
+      "r5_vs_r4": 1.0472489110588052,
+      "r5_vs_r4_se": 0.8684105927637589
+    },
+    {
+      "fe": "registrant x month FE",
+      "spec": "confirmed and unconfirmed vs nothing named",
+      "n": 2117,
+      "funds": 106,
+      "r5_vs_r3": 1.3313672296619676,
+      "r5_vs_r3_se": 1.1179302604636967,
+      "r5_funds": 52,
+      "r4_funds": 5,
+      "r3_funds": 60,
+      "r5_vs_r4": 2.8168887381909924,
+      "r5_vs_r4_se": 2.1475300881361856
+    },
+    {
+      "fe": "registrant x month FE",
+      "spec": "+ AI revenue share and technology share",
+      "n": 2117,
+      "funds": 106,
+      "r5_vs_r3": 0.9210500661241678,
+      "r5_vs_r3_se": 0.9118916059623557,
+      "r5_funds": 52,
+      "r4_funds": 5,
+      "r3_funds": 60,
+      "r5_vs_r4": 2.533976339239553,
+      "r5_vs_r4_se": 1.90930804926354
+    },
+    {
+      "fe": "registrant x month FE",
+      "spec": "+ past returns",
+      "n": 2117,
+      "funds": 106,
+      "r5_vs_r3": 0.5050868614137879,
+      "r5_vs_r3_se": 0.8415865079407163,
+      "r5_funds": 52,
+      "r4_funds": 5,
+      "r3_funds": 60,
+      "r5_vs_r4": 1.5576503491934197,
+      "r5_vs_r4_se": 2.055842313966127
+    }
+  ],
+  "theme_fund_months_with_fresh_holdings": {
+    "rung3": 1831,
+    "rung4": 82,
+    "rung5": 1565,
+    "rung3_without_fresh_holdings": 580
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "prevalence_2020_2025_pct": {
+    "theme_broad": {
+      "luna": [
+        0.32,
+        1.74
+      ],
+      "deepseek": [
+        0.3,
+        1.72
+      ]
+    },
+    "theme_strict": {
+      "luna": [
+        0.32,
+        0.94
+      ],
+      "deepseek": [
+        0.3,
+        0.95
+      ]
+    },
+    "uses_ai": {
+      "luna": [
+        0.32,
+        0.9
+      ],
+      "deepseek": [
+        0.29,
+        0.87
+      ]
+    }
+  },
+  "fund_flags_all_filings": {
+    "theme_broad": {
+      "yes_luna": 1080,
+      "yes_deepseek": 1064,
+      "kappa": 0.916
+    },
+    "theme_strict": {
+      "yes_luna": 663,
+      "yes_deepseek": 645,
+      "kappa": 0.857
+    },
+    "uses_ai": {
+      "yes_luna": 575,
+      "yes_deepseek": 530,
+      "kappa": 0.847
+    },
+    "uses_ai_hedged": {
+      "yes_luna": 74,
+      "yes_deepseek": 51,
+      "kappa": 0.71
+    },
+    "uses_ai_support": {
+      "yes_luna": 115,
+      "yes_deepseek": 123,
+      "kappa": 0.856
+    },
+    "chain_developer": {
+      "yes_luna": 276,
+      "yes_deepseek": 151,
+      "kappa": 0.592
+    },
+    "chain_enabler": {
+      "yes_luna": 386,
+      "yes_deepseek": 244,
+      "kappa": 0.695
+    },
+    "chain_adopter": {
+      "yes_luna": 234,
+      "yes_deepseek": 130,
+      "kappa": 0.569
+    },
+    "chain_specified": {
+      "yes_luna": 633,
+      "yes_deepseek": 332,
+      "kappa": 0.565
+    },
+    "chain_unspecified": {
+      "yes_luna": 358,
+      "yes_deepseek": 661,
+      "kappa": 0.547
+    },
+    "chain_benefit_vague": {
+      "yes_luna": 67,
+      "yes_deepseek": 75,
+      "kappa": 0.736
+    },
+    "falsifiable_test": {
+      "yes_luna": 289,
+      "yes_deepseek": 337,
+      "kappa": 0.872
+    },
+    "strategy_text_risk_only": {
+      "yes_luna": 168,
+      "yes_deepseek": 169,
+      "kappa": 0.977
+    }
+  },
+  "company_roles": {
+    "developer": {
+      "company_years": 20419,
+      "share_luna": 3.942,
+      "share_deepseek_min": 3.771,
+      "share_deepseek_prompt_a": 4.442,
+      "kappa_luna_vs_deepseek_min": 0.604,
+      "kappa_luna_vs_deepseek_prompt_a": 0.596,
+      "kappa_deepseek_a_vs_b": 0.82,
+      "value_share_in_own_sample_luna": 19.097,
+      "value_share_in_own_sample_deepseek": 26.347
+    },
+    "enabler": {
+      "company_years": 20419,
+      "share_luna": 6.67,
+      "share_deepseek_min": 7.273,
+      "share_deepseek_prompt_a": 7.699,
+      "kappa_luna_vs_deepseek_min": 0.634,
+      "kappa_luna_vs_deepseek_prompt_a": 0.623,
+      "kappa_deepseek_a_vs_b": 0.764,
+      "value_share_in_own_sample_luna": 23.344,
+      "value_share_in_own_sample_deepseek": 25.603
+    },
+    "adopter": {
+      "company_years": 20419,
+      "share_luna": 7.136,
+      "share_deepseek_min": 10.329,
+      "share_deepseek_prompt_a": 11.827,
+      "kappa_luna_vs_deepseek_min": 0.611,
+      "kappa_luna_vs_deepseek_prompt_a": 0.586,
+      "kappa_deepseek_a_vs_b": 0.785,
+      "value_share_in_own_sample_luna": 22.374,
+      "value_share_in_own_sample_deepseek": 32.501
+    }
+  },
+  "adopter_by_year": [
+    {
+      "year": 2020,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 3.4,
+      "adopter_deepseek_same_pct": 7.2,
+      "adopter_deepseek_universe_pct": 7.2
+    },
+    {
+      "year": 2021,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 4.6,
+      "adopter_deepseek_same_pct": 8.2,
+      "adopter_deepseek_universe_pct": 8.2
+    },
+    {
+      "year": 2022,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 5.9,
+      "adopter_deepseek_same_pct": 9.3,
+      "adopter_deepseek_universe_pct": 9.3
+    },
+    {
+      "year": 2023,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 7.5,
+      "adopter_deepseek_same_pct": 10.3,
+      "adopter_deepseek_universe_pct": 10.3
+    },
+    {
+      "year": 2024,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 8.0,
+      "adopter_deepseek_same_pct": 11.1,
+      "adopter_deepseek_universe_pct": 11.1
+    },
+    {
+      "year": 2025,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 9.4,
+      "adopter_deepseek_same_pct": 12.4,
+      "adopter_deepseek_universe_pct": 12.4
+    },
+    {
+      "year": 2026,
+      "company_years_luna": 2917,
+      "adopter_luna_pct": 11.1,
+      "adopter_deepseek_same_pct": 13.8,
+      "adopter_deepseek_universe_pct": 13.8
+    }
+  ],
+  "luna_no_evidence": {
+    "company_years": 6036,
+    "of": 20419,
+    "record_share_pct": 29.56070326656545,
+    "value_share_in_sample_pct": 8.698620112628003
+  },
+  "principal_samples": {
+    "luna_fund_quarters": 1368,
+    "luna_funds": 171,
+    "deepseek_fund_quarters": 1326,
+    "deepseek_funds": 159,
+    "common_fund_quarters": 1297,
+    "common_funds": 153,
+    "luna_only_funds": 18,
+    "deepseek_only_funds": 6,
+    "role_naming_pct_luna": {
+      "developer": 34.72222222222222,
+      "enabler": 26.46198830409357,
+      "adopter": 27.77777777777778
+    },
+    "strict_theme_pct_luna": 91.30116959064327,
+    "role_naming_pct_deepseek": {
+      "developer": 21.644042232277528,
+      "enabler": 21.040723981900452,
+      "adopter": 16.289592760180994
+    },
+    "strict_theme_pct_deepseek": 92.98642533936652
+  },
+  "ladder": {
+    "fund_months": 928506,
+    "same_rung_share": 0.9980107829136269,
+    "rung5_funds_luna": 78,
+    "rung5_funds_deepseek": 47,
+    "rung2_funds_luna": 130,
+    "rung2_funds_deepseek": 140
+  },
+  "preevent": [
+    {
+      "event": "chatgpt",
+      "companies": 3006,
+      "ai_rev_corr": 0.5785557716707949,
+      "ai_rev_mean_luna": 0.6783938814531548,
+      "ai_rev_mean_deepseek": 2.412067696835909,
+      "kappa_developer": 0.5993476561447016,
+      "kappa_enabler": 0.6270739688590024,
+      "kappa_adopter": 0.5889560332010345,
+      "funds": 445,
+      "fund_exposure_corr": 0.8374092307480084,
+      "fund_exposure_sd_luna": 1.5368005854010884,
+      "fund_exposure_sd_deepseek": 4.335589984563808
+    },
+    {
+      "event": "deepseek",
+      "companies": 3006,
+      "ai_rev_corr": 0.7319366656722527,
+      "ai_rev_mean_luna": 0.7513227513227513,
+      "ai_rev_mean_deepseek": 2.890310786106033,
+      "kappa_developer": 0.6486666789234674,
+      "kappa_enabler": 0.6816885592281209,
+      "kappa_adopter": 0.6095676655333855,
+      "funds": 582,
+      "fund_exposure_corr": 0.9056149320067879,
+      "fund_exposure_sd_luna": 6.281608881297629,
+      "fund_exposure_sd_deepseek": 8.787583796650464
+    }
+  ]
+}

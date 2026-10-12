@@ -1,0 +1,4 @@
+term,coef,se,lower_95,upper_95
+Process-only AI claim vs no claim,-1.02259866648,0.309336792021,-1.62889877884116,-0.41629855411884
+AI theme with holdings support vs no claim,0.786411170039,0.48873535575,-0.171510127231,1.744332467309
+AI theme with holdings support minus process-only AI claim,1.80900983652,0.579568228385,0.6730561088854001,2.9449635641546
